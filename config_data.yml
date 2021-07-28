@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  
 
 # Destination directory
 # ---------------------
@@ -20,7 +20,7 @@ site_dir: _site
 # -----------
 # This identifies a file containing the schema (possible fields) for metadata.
 # Currently this needs to be a prose.io config, and defaults to '_prose.yml'.
-schema_file: metadata_schema.yml
+schema_file: prose.yml
 
 # Source directory
 # ----------------
@@ -42,15 +42,14 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-    git: false
-  - class: InputYamlMeta
+  - class: InputYamlMdMeta
+    path_pattern: global-meta/*-*.md
+  - class: InputCsvMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.yml
+    path_pattern: csv-meta/*-*.csv
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
-    git: true
+    git: false
     # This specifies an alternate folder to look in for Git-versioned data files,
     # when calculating the "last updated" dates for data files. This defaults to
     # "data" (the folder where the data files actually exist.) Most sites will not
