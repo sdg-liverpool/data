@@ -43,11 +43,11 @@ inputs:
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
   - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
+    path_pattern: global-meta/*-*.md
     git: false
-  - class: InputYamlMeta
+  - class: InputCsvMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.yml
+    path_pattern: csv-meta/*-*.csv
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: true
@@ -57,6 +57,7 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+    metadata_mapping: 'metadata-mapping.csv'
 
 # Translations
 # ------------
