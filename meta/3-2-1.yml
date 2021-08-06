@@ -34,7 +34,7 @@ OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
 REC_USE_LIM__GLOBAL: >-
   The data is based on a 3 year average. The year given is the middle year of
-  the sample, for example the sample years between 2001-2003 is displayed as
+  the sample, for example the sample years between 2001-03 is displayed as
   2002.
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
