@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,20 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-9-1-title
+graph_title: >-
+  Fraction of annual all-cause adult mortality attributable to anthropogenic
+  (human-made) particulate air pollution (measured as fine particulate matter,
+  PM2.5)
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-9-1-title
-indicator_number: '3.9.1'
-national_geographical_coverage: ''
+indicator_available: "Fraction of all-cause adult mortality attributable to ambient anthropogenic particulate air pollution\_"
+indicator_name: Mortality rate attributed to household and ambient air pollution
+indicator_number: 3.9.1
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
