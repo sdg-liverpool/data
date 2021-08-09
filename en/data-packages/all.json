@@ -102,6 +102,30 @@
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
+      "path": "3-2-2/data.csv",
+      "name": "3-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Neonatal mortality rate"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -3199,30 +3223,6 @@
         ]
       },
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
-    },
-    {
-      "path": "3-2-2/data.csv",
-      "name": "3-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Neonatal mortality rate"
     },
     {
       "path": "17-18-2/data.csv",
