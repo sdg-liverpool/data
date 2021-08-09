@@ -1,0 +1,103 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+SDG_TARGET__GLOBAL: >-
+  Target 3.2: By 2030, end preventable deaths of newborns and children under 5
+  years of age, with all countries aiming to reduce neonatal mortality to at
+  least as low as 12 per 1,000 live births and under‐5 mortality to at least as
+  low as 25 per 1,000 live births
+SDG_INDICATOR__GLOBAL: 'Indicator 3.2.2: Neonatal mortality rate'
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: United Nations Children’s Emergency Fund (UNICEF)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  Neonatal death is the death of a child of when the age of the child is under
+  28 days.
+UNIT_MEASURE__GLOBAL: 'Rate per 1,000 live births'
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+SDG_TARGET: >-
+  Target 3.2: By 2030, end preventable deaths of newborns and children under 5
+  years of age, with all countries aiming to reduce neonatal mortality to at
+  least as low as 12 per 1,000 live births and under‐5 mortality to at least as
+  low as 25 per 1,000 live births
+SDG_INDICATOR: 'Target 3.2.2: Neonatal mortality rate'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Public Health England
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: |
+  Neonatal death is defined as the death of an infant aged under 28 days.
+UNIT_MEASURE: 'Rate per 1,000 live births'
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: PHE Public Health Profiles - Neonatal mortality rate
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Public Health England
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  The data is based on a 3 year average due to sample size. The year given is
+  the middle year of the sample. For example the sample years between 2011-2013
+  is displayed as 2012.
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: >-
+  https://fingertips.phe.org.uk/search/neonatal#page/4/gid/1/pat/6/par/E12000002/ati/302/are/E08000012/iid/92705/age/23/sex/4/cid/4/tbm/1/page-options/car-do-0
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
+national_data_update_url_text: '2021-07-19: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
+national_metadata_update_url_text: '2021-07-19: see changes on GitHub'
