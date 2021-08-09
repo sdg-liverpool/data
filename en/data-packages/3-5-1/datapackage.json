@@ -11,13 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Alcohol",
+                "Non-Opiate",
+                "Opiate"
+              ]
+            },
+            "title": "Unit"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

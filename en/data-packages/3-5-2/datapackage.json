@@ -11,13 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Admission episodes for alcohol-related conditions (Narrow)",
+                "Admission episodes for alcohol-specific conditions (Broad)",
+                "Alcohol-related mortality"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alcohol-related mortality",
+                "Admission episodes for alcohol-related conditions (Narrow)",
+                "Admission episodes for alcohol-specific conditions (Broad)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

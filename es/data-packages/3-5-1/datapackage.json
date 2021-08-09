@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Opiate",
+                "Non-Opiate",
+                "Alcohol",
+                ""
+              ]
+            },
+            "title": "Unit"
           },
           {
             "name": "Value",

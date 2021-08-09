@@ -11,13 +11,39 @@
       "schema": {
         "fields": [
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of Disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "cancer",
+                "cardiovascular diseases",
+                "liver disease",
+                "respiratory disease"
+              ]
+            },
+            "title": "Type of Disease"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

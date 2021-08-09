@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of Disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "cardiovascular diseases",
+                "cancer",
+                "respiratory disease",
+                "liver disease",
+                ""
+              ]
+            },
+            "title": "Type of Disease"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

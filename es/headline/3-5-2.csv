@@ -1,1 +1,33 @@
-Year,Value
+Year,Value,Units
+2008,68.3606,Alcohol-related mortality
+2009,71.0593,Alcohol-related mortality
+2010,69.8786,Alcohol-related mortality
+2011,70.9547,Alcohol-related mortality
+2012,73.3108,Alcohol-related mortality
+2013,69.2103,Alcohol-related mortality
+2014,62.0426,Alcohol-related mortality
+2015,64.5395,Alcohol-related mortality
+2016,67.448,Alcohol-related mortality
+2018,67.0116,Alcohol-related mortality
+2008/09,855.94,Admission episodes for alcohol-related conditions (Narrow)
+2009/10,814.4649,Admission episodes for alcohol-related conditions (Narrow)
+2010/11,822.9139,Admission episodes for alcohol-related conditions (Narrow)
+2012/13,808.8796,Admission episodes for alcohol-related conditions (Narrow)
+2013/14,807.8824,Admission episodes for alcohol-related conditions (Narrow)
+2014/15,900.794,Admission episodes for alcohol-related conditions (Narrow)
+2015/16,965.9605,Admission episodes for alcohol-related conditions (Narrow)
+2016/17,897.5777,Admission episodes for alcohol-related conditions (Narrow)
+2017/18,883.809,Admission episodes for alcohol-related conditions (Narrow)
+2018/19,997.02,Admission episodes for alcohol-related conditions (Narrow)
+2008/09,1256.0701,Admission episodes for alcohol-specific conditions (Broad)
+2009/10,1341.2771,Admission episodes for alcohol-specific conditions (Broad)
+2010/11,1355.3679,Admission episodes for alcohol-specific conditions (Broad)
+2011/12,1386.2651,Admission episodes for alcohol-specific conditions (Broad)
+2012/13,1364.6933,Admission episodes for alcohol-specific conditions (Broad)
+2013/14,1285.1266,Admission episodes for alcohol-specific conditions (Broad)
+2014/15,1352.7604,Admission episodes for alcohol-specific conditions (Broad)
+2015/16,1298.545,Admission episodes for alcohol-specific conditions (Broad)
+2016/17,1192.4467,Admission episodes for alcohol-specific conditions (Broad)
+2017/18,1156.1156,Admission episodes for alcohol-specific conditions (Broad)
+2018/19,1302.94,Admission episodes for alcohol-specific conditions (Broad)
+2019/10,1359.7,Admission episodes for alcohol-specific conditions (Broad)
