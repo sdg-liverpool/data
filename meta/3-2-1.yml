@@ -11,7 +11,7 @@ META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
 SDG_CUSTODIAN_AGENCIES__GLOBAL: ''
 CONTACT__GLOBAL: ''
-CONTACT_ORGANISATION__GLOBAL: Public Health England
+CONTACT_ORGANISATION__GLOBAL: United Nations Children's Emergency Fund (UNICEF)
 CONTACT_NAME__GLOBAL: ''
 ORGANISATION_UNIT__GLOBAL: ''
 CONTACT_FUNCT__GLOBAL: ''
@@ -19,7 +19,10 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  Under-five mortality is the probability of a child born in a specific year or
+  period dying before reaching the age of 5 years, if subject to age specific
+  mortality rates of that period, expressed per 1000 live births.
 UNIT_MEASURE__GLOBAL: 'Rate per 1,000 live births'
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -27,7 +30,7 @@ SOURCE_TYPE__GLOBAL: ''
 COLL_METHOD__GLOBAL: ''
 FREQ_COLL__GLOBAL: ''
 REL_CAL_POLICY__GLOBAL: ''
-DATA_SOURCE__GLOBAL: Public Health England
+DATA_SOURCE__GLOBAL: ''
 COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
@@ -96,5 +99,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/220e6fcdac72d7379f5945abdde0afc15cf76caf
 national_data_update_url_text: '2021-08-06: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/7aaf6db177bba0b6efbf6b09cbea0d59308f377a
+  https://github.com/sdg-liverpool/data/commit/8fe77eb271eeaa73d70db6150cf09fee43a39a33
 national_metadata_update_url_text: '2021-08-06: see changes on GitHub'
