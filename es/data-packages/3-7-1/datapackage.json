@@ -12,8 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Contraceptive method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Long acting reversible contraceptives",
+                "User dependent",
+                ""
+              ]
+            },
+            "title": "Contraceptive method"
+          },
+          {
+            "name": "Types of contraception",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IU device",
+                "IU system",
+                "Implant",
+                "Injectable",
+                "Oral (pill)",
+                "Male condom",
+                "Female condom",
+                "Patch",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Types of contraception"
+          },
+          {
+            "name": "Unit of measurement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Unit of measurement"
           },
           {
             "name": "Value",

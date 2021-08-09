@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Cause",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A04 Other bacterial intestinal infections",
+                "A09 Other gastroenteritis and colitis of infectious and unspecified origin",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
