@@ -8,7 +8,9 @@ Year,Units,Value
 2014,Alcohol-related mortality,62.0426
 2015,Alcohol-related mortality,64.5395
 2016,Alcohol-related mortality,67.448
+2017,Alcohol-related mortality,
 2018,Alcohol-related mortality,67.0116
+2019,Alcohol-related mortality,
 2008/09,Admission episodes for alcohol-related conditions (Narrow),855.94
 2009/10,Admission episodes for alcohol-related conditions (Narrow),814.4649
 2010/11,Admission episodes for alcohol-related conditions (Narrow),822.9139
@@ -30,4 +32,4 @@ Year,Units,Value
 2016/17,Admission episodes for alcohol-specific conditions (Broad),1192.4467
 2017/18,Admission episodes for alcohol-specific conditions (Broad),1156.1156
 2018/19,Admission episodes for alcohol-specific conditions (Broad),1302.94
-2019/10,Admission episodes for alcohol-specific conditions (Broad),1359.7
+2019/20,Admission episodes for alcohol-specific conditions (Broad),1359.7
