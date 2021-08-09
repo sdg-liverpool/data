@@ -1,0 +1,104 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 1: End poverty in all its forms everywhere'
+SDG_TARGET__GLOBAL: >-
+  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable
+  situations and reduce their exposure and vulnerability to climate-related
+  extreme events and other economic, social and environmental shocks and
+  disasters
+SDG_INDICATOR__GLOBAL: >-
+  Target 1.5.1: Number of deaths, missing persons and directly affected persons
+  attributed to disasters per 100,000 population
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: United Nations International Strategy for Disaster Reduction (UNISDR)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: 'Deaths per 100,000 population'
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: 'Goal 1: End poverty in all its forms everywhere'
+SDG_TARGET: >-
+  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable
+  situations and reduce their exposure and vulnerability to climate-related
+  extreme events and other economic, social and environmental shocks and
+  disasters
+SDG_INDICATOR: >-
+  Indicator 1.1.1: Proportion of the population living below the international
+  poverty line by sex, age, employment status and geographic location
+  (urban/rural)
+SDG_SERIES_DESCR: >-
+  Target 1.5.1: Number of deaths, missing persons and directly affected persons
+  attributed to disasters per 100,000 population
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Nomis - Official Labour Market Statistics
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: health.data@ons.gov.uk
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Deaths per 100,000 population'
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: |
+  Data used - X30-X39 Exposure to forces of nature
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
+national_data_update_url_text: '2021-07-19: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
+national_metadata_update_url_text: '2021-07-19: see changes on GitHub'
