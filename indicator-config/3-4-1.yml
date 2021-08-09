@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: 'Rate per 100,000 persons'
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,21 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-4-1-title
+graph_title: Mortality rate by cause
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-4-1-title
-indicator_number: '3.4.1'
-national_geographical_coverage: ''
+indicator_available: >-
+  Under 75 Mortality rate attributed to cardiovascular disease, cancer, liver or
+  chronic respiratory disease
+indicator_name: >-
+  Mortality rate attributed to cardiovascular disease, cancer, diabetes or
+  chronic respiratory disease
+indicator_number: 3.4.1
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
