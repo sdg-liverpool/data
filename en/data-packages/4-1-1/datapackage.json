@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "Subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Maths",
+                "Reading"
+              ]
+            },
+            "title": "Subject"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Key Stage 1 (%)",
+                "Key Stage 2 (%)"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

@@ -11,13 +11,27 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2 year olds",
+                "3 and 4 year olds",
+                "3 year olds",
+                "4 year olds"
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
