@@ -571,6 +571,30 @@
       "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
+    },
+    {
       "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
@@ -5294,30 +5318,6 @@
         ]
       },
       "title": "Número de países que cuentan con un plan estadístico nacional plenamente financiado y en proceso de aplicación, desglosado por fuente de financiación"
-    },
-    {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
     },
     {
       "path": "13-2-1/data.csv",
