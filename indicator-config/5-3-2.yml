@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Number of individuals
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,19 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.5-3-2-title
+graph_title: Number of individuals the NHS has interacted with where FGM was identified
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.5-3-2-title
-indicator_number: '5.3.2'
-national_geographical_coverage: ''
+indicator_available: Number of individuals the NHS has interacted with where FGM was identified
+indicator_name: >-
+  Proportion of girls and women aged 15–49 years who have undergone female
+  genital mutilation/cutting, by age
+indicator_number: 5.3.2
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
