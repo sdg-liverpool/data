@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate of fatal injuries",
+                "Rate of reported non-fatal injuries",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
