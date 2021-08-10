@@ -1,0 +1,109 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 4: Ensure inclusive and equitable quality education and promote lifelong
+  learning opportunities for all
+SDG_TARGET__GLOBAL: >-
+  Target 4.2: By 2030, ensure that all girls and boys have access to quality
+  early childhood development, care and pre‐primary education so that they are
+  ready for primary education
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 4.2.2: Participation rate in organized learning (one year before the
+  official primary entry age), by sex
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  United Nations Education and Scientific Cultural Organisation - Institute of
+  Statistics (UNESCO-UIS)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: Percentage (%)
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  This indicator is being used as an approximation of the UN SDG Indicator.
+  Where possible, we will work to identify or develop UK data to meet the global
+  indicator specification. This indicator has been identified in collaboration
+  with topic experts.
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 4: Ensure inclusive and equitable quality education and promote lifelong
+  learning opportunities for all
+SDG_TARGET: >-
+  Target 4.2: By 2030, ensure that all girls and boys have access to quality
+  early childhood development, care and pre‐primary education so that they are
+  ready for primary education
+SDG_INDICATOR: >-
+  Indicator 4.2.2: Participation rate in organized learning (one year before the
+  official primary entry age), by sex
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Department for Education
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: |
+  EarlyYears.STATISTICS@education.gov.uk
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percentage (%) of children benefitting from early funded education places
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: 'Department for Education - Provision for children under 5, 2019 - main tables'
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: To be announced
+DATA_SOURCE: Department for Education
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/d2e104f635a07227701fd7e85c6b5c79827a7aea
+national_data_update_url_text: '2021-08-10: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/d9a981b3357b51eb53dd0d4c549971924c4747dc
+national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
