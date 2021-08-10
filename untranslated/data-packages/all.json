@@ -5868,6 +5868,28 @@
         ]
       },
       "title": "global_indicators.12-1-1-title"
+    },
+    {
+      "path": "1-5-1 meta/data.csv",
+      "name": "1-5-1 meta",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-5-1 meta"
     }
   ]
 }
