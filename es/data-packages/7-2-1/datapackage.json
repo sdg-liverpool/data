@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Renewable energy source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Photovoltaics",
+                "Onshore Wind",
+                "Anaerobic Digestion",
+                "Sewage Gas",
+                "Municipal Solid Waste",
+                ""
+              ]
+            },
+            "title": "Renewable energy source"
           },
           {
             "name": "Value",
