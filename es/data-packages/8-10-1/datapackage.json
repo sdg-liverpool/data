@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Banking service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial bank branches and building societies",
+                ""
+              ]
+            },
+            "title": "Banking service"
           },
           {
             "name": "Value",

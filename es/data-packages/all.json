@@ -162,6 +162,41 @@
       "title": "Suicide mortality rate"
     },
     {
+      "path": "8-10-1/data.csv",
+      "name": "8-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Banking service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commercial bank branches and building societies",
+                ""
+              ]
+            },
+            "title": "Banking service"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
+    },
+    {
       "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
@@ -5730,30 +5765,6 @@
         ]
       },
       "title": "Empleo del sector manufacturero en proporción al empleo total"
-    },
-    {
-      "path": "8-10-1/data.csv",
-      "name": "8-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "a) Número de sucursales de bancos comerciales por cada 100.000 adultos y b) número de cajeros automáticos por cada 100.000 adultos"
     },
     {
       "path": "13-b-1/data.csv",
