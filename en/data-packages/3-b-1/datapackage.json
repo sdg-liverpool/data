@@ -11,13 +11,46 @@
       "schema": {
         "fields": [
           {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "1 year",
+                "2 years",
+                "5 years"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Diphtheria Tetanus Polio Pertussis (booster)",
+                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
+                "Hib Meningococcal group C (booster)",
+                "Measles mumps rubella (first and second dose)",
+                "Measles mumps rubella (first dose)",
+                "Meningococcal group B (Booster)",
+                "Meningococcal group B (primary)",
+                "Pneumococcal disease (booster)",
+                "Pneumococcal disease (primary)",
+                "Rotavirus(Primary)"
+              ]
+            },
+            "title": "Vaccine"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
