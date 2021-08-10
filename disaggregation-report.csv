@@ -1,6 +1,8 @@
 Disaggregation,Number of indicators,Number of values
 BMI,1,2
+Cause,1,2
 Contraceptive method,1,2
+sex,1,2
 Sex,1,2
 Type of Disease,1,4
 Types of contraception,1,9
