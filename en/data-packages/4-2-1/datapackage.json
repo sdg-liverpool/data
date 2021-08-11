@@ -11,13 +11,81 @@
       "schema": {
         "fields": [
           {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Boys",
+                "Girls"
+              ]
+            },
+            "title": "Gender"
+          },
+          {
+            "name": "Learning category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Prime areas of learning",
+                "Specific areas of learning"
+              ]
+            },
+            "title": "Learning category"
+          },
+          {
+            "name": "Learning sub-category (higher)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Communication and Language",
+                "Expressive arts and design",
+                "Literacy",
+                "Mathematics",
+                "Personal, Social and Emotional Development",
+                "Physical Development",
+                "Understanding the world"
+              ]
+            },
+            "title": "Learning sub-category (higher)"
+          },
+          {
+            "name": "Learning sub-category (lower)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "10: Writing",
+                "11: Numbers",
+                "12: Shape, space and measures",
+                "13: People and communities",
+                "14: The World",
+                "15: Technology",
+                "16: Exploring and using media and materials",
+                "17: Being imaginative",
+                "1: Listening and Attention",
+                "2: Understanding",
+                "3: Speaking",
+                "4: Moving and Handling",
+                "5: Health and Self-Care",
+                "6: Self-confidence and Self-awareness",
+                "7: Managing feelings and behaviour",
+                "8: Making relationships",
+                "9: Reading"
+              ]
+            },
+            "title": "Learning sub-category (lower)"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
