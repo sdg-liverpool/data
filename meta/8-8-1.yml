@@ -1,0 +1,124 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET__GLOBAL: >-
+  Target 8.8: Protect labour rights and promote safe and secure working
+  environments for all workers, including migrant workers, in particular women
+  migrants, and those in precarious employment
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000
+  workers, by sex and migrant status
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: International Labour Organization (ILO)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  Occupational injury - Any personal injury, disease or death resulting from an
+  occupational accident. Fatal occupational injury - An occupational injury
+  leading to death within one year of the day of the occupational accident.
+UNIT_MEASURE__GLOBAL: 'Rate per 100,000 workers'
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  Data for fatal and non-fatal workplace injuries do not include road traffic
+  accidents. Rates for non-fatal injuries are based on self-reported non-fatal
+  injury in the workplace (using the Labour Force Survey). This indicator is
+  being used as an approximation of the UN SDG Indicator. Where possible, we
+  will work to identify or develop UK data to meet the global indicator
+  specification. This indicator has been identified in collaboration with topic
+  experts.
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET: >-
+  Target 8.8: Protect labour rights and promote safe and secure working
+  environments for all workers, including migrant workers, in particular women
+  migrants, and those in precarious employment
+SDG_INDICATOR: >-
+  Indicator 8.8.1: Fatal and non-fatal occupational injuries per 100,000
+  workers, by sex and migrant status
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Health and Safety Executive
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: "\t\t\n\t\t\t\nGVA estimates are presented in current basic prices. They do not allow for different regional price levels or changes in prices over time (inflation). \t\t\t\n\t\t\t\nGVA estimates are also presented in \"real\" terms, with the effect of inflation removed, as chained volume measures (CVM) in indices (2018 equals 100) and in money terms (using 2018 values).\t\t\t\n\t\nBalanced estimates are produced by combining the existing income and production approach measures using weighted quality metrics (published separately).\t\t\t"
+UNIT_MEASURE: >-
+  Rate of fatal injuries per 100,000 workers and non-fatal occupational injuries
+  per 100,000 employees
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  RIDREG - RIDDOR reported fatal and non-fatal injuries in Great Britain by
+  country, region and unitary or local authority
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Health and Safety Executive
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  Injury estimates are not presented for the self-employed, due to severe
+  under-reporting (under-reporting also effects employee reports but to a lesser
+  extent than for the self-employed. While the enforcing authorities are
+  informed about almost all relevant fatal workplace injuries, it is known that
+  non-fatal injuries are substantially under-reported. Currently, it is
+  estimated that around half of all such injuries to employees are reported.
+  These results are achieved by comparing reported non-fatal injuries, with
+  results from the Labour Force Survey - Injuries.
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/2d4d02c6b47b59fd328df0ef1ca0d74bdc4be842
+national_data_update_url_text: '2021-08-10: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/aa556e1b4879c8e18abc7e1acf00eb43c3d8a737
+national_metadata_update_url_text: '2021-08-11: see changes on GitHub'
