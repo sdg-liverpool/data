@@ -1,0 +1,112 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET__GLOBAL: >-
+  Target 8.10: Strengthen the capacity of domestic financial institutions to
+  encourage and expand access to banking, insurance and financial services for
+  all
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 8.10.1: (a) Number of commercial bank branches per 100,000 adults
+  and (b) number of automated teller machines (ATMs) per 100,000 adults
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: International Monetary Fund (IMF)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  Commercial bank branches are retail locations of resident commercial banks and
+  other resident banks that function as commercial banks that provide financial
+  services to customers and are physically separated. Automated teller machines
+  are computerized telecommunications devices that provide clients of a
+  financial institution with access to financial transactions in a public place.
+UNIT_MEASURE__GLOBAL: 'Number per 100,000 adults'
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  For the purposes of this indicator, adult population refers to all individuals
+  aged 16 years and over. Data follows the UN specification for this indicator.
+  This indicator has not been identified in collaboration with topic experts.
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET: >-
+  Target 8.10: Strengthen the capacity of domestic financial institutions to
+  encourage and expand access to banking, insurance and financial services for
+  all
+SDG_INDICATOR: >-
+  Indicator 8.10.1: (a) Number of commercial bank branches per 100,000 adults
+  and (b) number of automated teller machines (ATMs) per 100,000 adults
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Nomis - Official Labour Market Statistics
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: support@nomisweb.co.uk
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Rate per 100,000 population'
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: UK Business Counts - local units by industry and employment size band
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Nomis - Official Labour Market Statistics
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  Calculations - Rate of banks/building societies per 100,000 population =
+  (Number of banks or building societies/total population)*100,000
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/2d4d02c6b47b59fd328df0ef1ca0d74bdc4be842
+national_data_update_url_text: '2021-08-10: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/aa556e1b4879c8e18abc7e1acf00eb43c3d8a737
+national_metadata_update_url_text: '2021-08-11: see changes on GitHub'
