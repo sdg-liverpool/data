@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Disposal Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Landfill",
+                "Incineration with EfW",
+                "Incineration without EfW",
+                "Recycled-composted",
+                "Other",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

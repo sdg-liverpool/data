@@ -11,13 +11,38 @@
       "schema": {
         "fields": [
           {
+            "name": "Disposal Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Incineration with EfW",
+                "Incineration without EfW",
+                "Landfill",
+                "Other",
+                "Recycled-composted"
+              ]
+            },
+            "title": "Disposal Method"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]
