@@ -368,6 +368,58 @@
       "title": "Proportion of individuals using the Internet"
     },
     {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "2G",
+                "3G",
+                "4G"
+              ]
+            },
+            "title": "Technology"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of population covered by a mobile network, by technology"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -2446,30 +2498,6 @@
         ]
       },
       "title": "Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
-    },
-    {
-      "path": "9-c-1/data.csv",
-      "name": "9-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "8-8-2/data.csv",

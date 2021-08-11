@@ -368,6 +368,58 @@
       "title": "Proporción de personas que utilizan Internet"
     },
     {
+      "path": "9-c-1/data.csv",
+      "name": "9-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2G",
+                "3G",
+                "4G",
+                ""
+              ]
+            },
+            "title": "Technology"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología"
+    },
+    {
       "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
@@ -2446,30 +2498,6 @@
         ]
       },
       "title": "Número de países que han adoptado marcos legislativos, administrativos y normativos para asegurar una distribución justa y equitativa de los beneficios"
-    },
-    {
-      "path": "9-c-1/data.csv",
-      "name": "9-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de la población con cobertura de red móvil, desglosada por tecnología"
     },
     {
       "path": "8-8-2/data.csv",
