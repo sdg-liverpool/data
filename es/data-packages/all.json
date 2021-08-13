@@ -225,6 +225,42 @@
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Home (%)",
+                "Work (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
+    },
+    {
       "path": "3-4-2/data.csv",
       "name": "3-4-2",
       "profile": "tabular-data-resource",
@@ -6434,30 +6470,6 @@
         ]
       },
       "title": "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad"
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
     },
     {
       "path": "5-6-1/data.csv",
