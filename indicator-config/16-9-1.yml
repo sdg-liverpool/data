@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,19 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-9-1-title
+graph_title: Percentage of births registered with a civil authority
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.16-9-1-title
-indicator_number: '16.9.1'
-national_geographical_coverage: ''
+indicator_available: Percentage of births registered with a civil authority
+indicator_name: >-
+  Proportion of children under 5 years of age whose births have been registered
+  with a civil authority, by age
+indicator_number: 16.9.1
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
