@@ -1,0 +1,131 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 16: Promote peaceful and inclusive societies for sustainable development,
+  provide access to justice for all and build effective, accountable and
+  inclusive institutions at all levels
+SDG_TARGET__GLOBAL: >-
+  Target 16.7: Ensure responsive, inclusive, participatory and representative
+  decision-making at all levels
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 16.7.1: Proportions of positions in national and local institutions,
+  including (a) the legislatures; (b) the public service; and (c) the judiciary,
+  compared to national distributions, by sex, age, persons with disabilities and
+  population groups
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: United Nations Development Programme (UNDP)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  The public sector is the part of the economy composed of both public services
+  and public enterprises. For further information please see Office for National
+  Statistics Public sector classification guide.
+UNIT_MEASURE__GLOBAL: Percentage (%)
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 16: Promote peaceful and inclusive societies for sustainable development,
+  provide access to justice for all and build effective, accountable and
+  inclusive institutions at all levels
+SDG_TARGET: >-
+  Target 16.7: Ensure responsive, inclusive, participatory and representative
+  decision-making at all levels
+SDG_INDICATOR: >-
+  Indicator 16.7.1: Proportions of positions in national and local institutions,
+  including (a) the legislatures; (b) the public service; and (c) the judiciary,
+  compared to national distributions, by sex, age, persons with disabilities and
+  population groups
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Office for National Statistics
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: support@nomisweb.co.uk
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percentage (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: Annual Population Survey - public and private sector employment
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: >-
+  Office for National Statistics. Data from Nomis (Official Labour Market
+  Statistics)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  The preferred source of statistics for public sector employment is the
+  Quarterly Public Sector Employment Survey (QPSES) and external sources,
+  however, figures from this source are not available below government office
+  region level. Individuals in the Annual Population Survey (APS) are classified
+  to the public or private sector according to their responses to the survey.
+  Consequently, the classification of an individuals sector may differ from how
+  they would be classified in QPSES statistics. Official estimates of public
+  sector employment compiled from QPSES are generally lower than estimates
+  available from APS. This is partially because many people who work within
+  public sector premises, whilst being employed by private sector organizations,
+  will classify themselves as working in the public sector, e.g. cleaners or
+  security guards employed by a contractor to work at public sector premises.
+  Results of QPSES are available at:
+  http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/index.html A brief
+  guide to sources of public sector data is available from here:
+  http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/a-brief-guide-to-sources-of-public-sector-employment-statistics/index.html.
+
+
+  Public and Private sector employment' dataset used. January to December survey
+  periods used as annual figures.
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/aa08947d9828ef7fef9660e221c37f9aaf0e9cd8
+national_data_update_url_text: '2021-08-11: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/0593db6432c80e99e4fe2abf67d9c68b091e20da
+national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
