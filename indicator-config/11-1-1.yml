@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Number of people
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,19 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.11-1-1-title
+graph_title: Total number of people sleeping rough
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.11-1-1-title
-indicator_number: '11.1.1'
-national_geographical_coverage: ''
+indicator_available: Total number of people sleeping rough
+indicator_name: >-
+  Proportion of urban population living in slums, informal settlements or
+  inadequate housing
+indicator_number: 11.1.1
+national_geographical_coverage: Liverpool
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
