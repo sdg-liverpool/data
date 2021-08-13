@@ -1,5 +1,5 @@
 Disaggregation,Number of indicators,Number of values
-Age,2,7
+Age,3,9
 Banking service,1,1
 BMI,1,2
 Cause,1,2
@@ -13,7 +13,7 @@ Learning sub-category (higher),1,7
 Learning sub-category (lower),1,17
 Production/Services,1,2
 Renewable energy source,1,5
-Sex,5,4
+Sex,6,4
 sex,1,2
 Subject,1,2
 Technology,1,3
