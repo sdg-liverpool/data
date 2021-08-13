@@ -1,0 +1,107 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET__GLOBAL: >-
+  Target 8.6: By 2020, substantially reduce the proportion of youth not in
+  employment, education or training
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 8.6.1: Proportion of youth (aged 15–24 years) not in education,
+  employment or training
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: International Labour Organization (ILO)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  For UK NEETs data, young people are defined as those aged 16 to 24 years,
+  while anybody who is not in education or training and not in employment is
+  considered to be NEET. More detailed definitions can be found in the glossary
+  of the Young people not in education, employment or training (NEET) release.
+UNIT_MEASURE__GLOBAL: Percentage (%)
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 8: Promote sustained, inclusive and sustainable economic growth, full and
+  productive employment and decent work for all
+SDG_TARGET: >-
+  Target 8.6: By 2020, substantially reduce the proportion of youth not in
+  employment, education or training
+SDG_INDICATOR: >-
+  Indicator 8.6.1: Proportion of youth (aged 15–24 years) not in education,
+  employment or training
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Department for Education
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Overall education and training figures include young people in part time
+  education, but not those in reengagement provision, gap years or those with an
+  agreed education and training start date.
+UNIT_MEASURE: 'Percentage (%) '
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: 'NEET and participation: local authority figures'
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Department for Education
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/9775cb690e4dc5cb921b6b9773d0843f46e6530d
+national_data_update_url_text: '2021-08-10: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/499fe1a14cb9071663a8297f3ac063a4613c8d3d
+national_metadata_update_url_text: '2021-08-11: see changes on GitHub'
