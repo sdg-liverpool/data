@@ -12,12 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Relative low income",
+                "Absolute low income",
+                ""
+              ]
+            },
+            "title": "Income category"
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Before housing costs",
+                "After housing costs",
+                ""
+              ]
+            },
+            "title": "Sub-category"
+          },
+          {
+            "name": "Unnamed: 4",
             "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 4"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           }
         ]
