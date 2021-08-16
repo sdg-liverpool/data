@@ -1,0 +1,148 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+SDG_TARGET__GLOBAL: >-
+  Target 3.1: By 2030, reduce the global maternal mortality ratio to less than
+  70 per 100,000 live births
+SDG_INDICATOR__GLOBAL: 'Indicator 3.1.2: Proportion of births attended by skilled health personnel'
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: United Nations Children’s Emergency Fund (UNICEF)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
+  Percentage of births attended by skilled health personnel (generally doctors,
+  nurses or midwives) is the percentage of childbirths attended by professional
+  health personnel. According to the revised definition these are competent
+  maternal and newborn health (MNH) professionals educated, trained and
+  regulated to national and international standards. They are competent to - (i)
+  provide and promote evidence-based, human-rights based, quality,
+  socio-culturally sensitive and dignified care to women and newborns; (ii)
+  facilitate physiological processes during labour and delivery to ensure a
+  clean and positive childbirth experience; and (iii) identify and manage or
+  refer women and/or newborns with complications. Traditional birth attendants,
+  even if they receive a short training course, are not included. A maternity is
+  a pregnancy resulting in the birth of one or more children, including
+  stillbirths. A stillbirth is a baby born after 24 or more weeks completed
+  gestation and which did not, at any time, breathe or show signs of life.
+UNIT_MEASURE__GLOBAL: Percentage (%)
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  This indicator is a proxy indicator. We are reporting data on births occurring
+  within medical facilities and have not included home births. Home births will
+  on many occasions have a skilled health professional present. There will be
+  some home births which occur without a midwife but an ambulance is sent,
+  arriving just before or soon after the birth. We have included data from NHS
+  medical facilities - (generally) hospitals, maternity units and maternity
+  wings and non-NHS medical facilities including - private maternity units,
+  military hospitals, private hospitals and communal establishments. This
+  indicator is being used as an approximation of the UN SDG Indicator. Where
+  possible, we will work to identify or develop UK data to meet the global
+  indicator specification. This indicator has been identified in collaboration
+  with topic experts.
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+SDG_TARGET: >-
+  Target 3.1: By 2030, reduce the global maternal mortality ratio to less than
+  70 per 100,000 live births
+SDG_INDICATOR: 'Indicator 3.1.2: Proportion of births attended by skilled health personnel'
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Office for National Statistics
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: Health.Data@ons.gov.uk
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Percentage of births attended by skilled health personnel (generally doctors,
+  nurses or midwives) is the percentage of childbirths attended by professional
+  health personnel. According to the revised definition these are competent
+  maternal and newborn health (MNH) professionals educated, trained and
+  regulated to national and international standards. They are competent to - (i)
+  provide and promote evidence-based, human-rights based, quality,
+  socio-culturally sensitive and dignified care to women and newborns; (ii)
+  facilitate physiological processes during labour and delivery to ensure a
+  clean and positive childbirth experience; and (iii) identify and manage or
+  refer women and/or newborns with complications. Traditional birth attendants,
+  even if they receive a short training course, are not included. A maternity is
+  a pregnancy resulting in the birth of one or more children, including
+  stillbirths. A stillbirth is a baby born after 24 or more weeks completed
+  gestation and which did not, at any time, breathe or show signs of life.
+UNIT_MEASURE: Percentage (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Office for National Statistics
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  Due to disaggregation not available at the local level, this data represents
+  the North West of England as opposed to Liverpool.
+
+
+  This indicator is a proxy indicator. We are reporting data on births occurring
+  within medical facilities and have not included home births. Home births will
+  on many occasions have a skilled health professional present. There will be
+  some home births which occur without a midwife but an ambulance is sent,
+  arriving just before or soon after the birth. We have included data from NHS
+  medical facilities - (generally) hospitals, maternity units and maternity
+  wings and non-NHS medical facilities including - private maternity units,
+  military hospitals, private hospitals and communal establishments. This
+  indicator is being used as an approximation of the UN SDG Indicator. Where
+  possible, we will work to identify or develop UK data to meet the global
+  indicator specification. This indicator has been identified in collaboration
+  with topic experts.
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/220e6fcdac72d7379f5945abdde0afc15cf76caf
+national_data_update_url_text: '2021-08-06: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/16d0137e5d99d0c1d6ca637917ac4f77f82fbf97
+national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
