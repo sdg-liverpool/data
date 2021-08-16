@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,17 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-1-2-title
+graph_title: Percentage of births occurring within a medical facility
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.3-1-2-title
-indicator_number: '3.1.2'
-national_geographical_coverage: ''
+indicator_available: Percentage of births occurring within a medical facility
+indicator_name: Proportion of births attended by skilled health personnel
+indicator_number: 3.1.2
+national_geographical_coverage: North West
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
