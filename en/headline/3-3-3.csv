@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,Units,Unit measure
+2014,1.696334767,"Rate per 100,000 population","Rate per 100,000 population"
+2015,1.588810758,"Rate per 100,000 population","Rate per 100,000 population"
+2016,1.481181861,"Rate per 100,000 population","Rate per 100,000 population"
+2017,1.763418895,"Rate per 100,000 population","Rate per 100,000 population"
+2018,1.878747295,"Rate per 100,000 population","Rate per 100,000 population"
+2014,121.0,Number of cases,Number
+2015,114.0,Number of cases,Number
+2016,107.0,Number of cases,Number
+2017,128.0,Number of cases,Number
+2018,137.0,Number of cases,Number
