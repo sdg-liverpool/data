@@ -794,6 +794,30 @@
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of population satisfied with their last experience of public services"
+    },
+    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -3270,30 +3294,6 @@
         ]
       },
       "title": "Number of countries using ecosystem-based approaches to managing marine areas"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
       "path": "5-a-2/data.csv",

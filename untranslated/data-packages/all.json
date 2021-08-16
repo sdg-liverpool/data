@@ -727,6 +727,28 @@
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
+      "path": "16-6-2/data.csv",
+      "name": "16-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.16-6-2-title"
+    },
+    {
       "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
@@ -2994,28 +3016,6 @@
         ]
       },
       "title": "global_indicators.14-2-1-title"
-    },
-    {
-      "path": "16-6-2/data.csv",
-      "name": "16-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.16-6-2-title"
     },
     {
       "path": "5-a-2/data.csv",
