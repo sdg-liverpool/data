@@ -22,9 +22,9 @@ graph_titles: []
 graph_type: line
 indicator_available: Percentage of women and girls aged 16 to 59 subjected to sexual assault
 indicator_name: >-
-  global_indicators.5-2-2-titleProportion of women and girls aged 15 years and
-  older subjected to sexual violence by persons other than an intimate partner
-  in the previous 12 months, by age and place of occurrence
+  Proportion of women and girls aged 15 years and older subjected to sexual
+  violence by persons other than an intimate partner in the previous 12 months,
+  by age and place of occurrence
 indicator_number: 5.2.2
 national_geographical_coverage: North West
 page_content: ''
