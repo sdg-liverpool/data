@@ -1,5 +1,5 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units: Mean quality rating
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -17,16 +17,19 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-6-2-title
+graph_title: Average quality rating of public services
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.16-6-2-title
-indicator_number: '16.6.2'
-national_geographical_coverage: ''
+indicator_available: Average quality rating of public services
+indicator_name: >-
+  Proportion of population satisfied with their last experience of public
+  services
+indicator_number: 16.6.2
+national_geographical_coverage: North West
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
