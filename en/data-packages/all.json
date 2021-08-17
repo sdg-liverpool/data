@@ -2133,6 +2133,30 @@
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
       "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
@@ -3617,30 +3641,6 @@
         ]
       },
       "title": "Material footprint, material footprint per capita, and material footprint per GDP"
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of women in managerial positions"
     },
     {
       "path": "4-b-1/data.csv",
