@@ -11,13 +11,60 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Children",
+                "Pensioners",
+                "Working-age adults"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Absolute low income",
+                "Relative low income"
+              ]
+            },
+            "title": "Income category"
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "After housing costs",
+                "Before housing costs"
+              ]
+            },
+            "title": "Sub-category"
+          },
+          {
+            "name": "Unnamed: 5",
             "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

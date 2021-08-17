@@ -3,6 +3,77 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Children",
+                "Pensioners",
+                "Working-age adults"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Income category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Absolute low income",
+                "Relative low income"
+              ]
+            },
+            "title": "Income category"
+          },
+          {
+            "name": "Sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "After housing costs",
+                "Before housing costs"
+              ]
+            },
+            "title": "Sub-category"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
+    },
+    {
       "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
@@ -6630,30 +6701,6 @@
         ]
       },
       "title": "Total government revenue as a proportion of GDP, by source"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
       "path": "9-5-1/data.csv",
