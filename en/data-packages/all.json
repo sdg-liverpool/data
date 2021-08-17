@@ -2307,6 +2307,71 @@
       "title": "Proportion of women in managerial positions"
     },
     {
+      "path": "12-a-1/data.csv",
+      "name": "12-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AD",
+                "Biomass and waste"
+              ]
+            },
+            "title": "Bioenergy"
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hydro",
+                "Landfill gas",
+                "Other bioenergy",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind"
+              ]
+            },
+            "title": "Renewable Source"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Offshore Wind",
+                "Onshore Wind"
+              ]
+            },
+            "title": "Wind"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
+    },
+    {
       "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
@@ -3671,30 +3736,6 @@
         ]
       },
       "title": "Proportion of traded wildlife that was poached or illicitly trafficked"
-    },
-    {
-      "path": "12-a-1/data.csv",
-      "name": "12-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
       "path": "9-3-2/data.csv",

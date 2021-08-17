@@ -11,13 +11,54 @@
       "schema": {
         "fields": [
           {
+            "name": "Bioenergy",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "AD",
+                "Biomass and waste"
+              ]
+            },
+            "title": "Bioenergy"
+          },
+          {
+            "name": "Renewable Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Hydro",
+                "Landfill gas",
+                "Other bioenergy",
+                "Sewage gas",
+                "Solar PV",
+                "Wave and tidal",
+                "Wind"
+              ]
+            },
+            "title": "Renewable Source"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
+            "name": "Wind",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Offshore Wind",
+                "Onshore Wind"
+              ]
+            },
+            "title": "Wind"
+          },
+          {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
