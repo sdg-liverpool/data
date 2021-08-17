@@ -1,5 +1,6 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-2-1,"Income category, Sub-category",2
+#1-2-2,"Income category, Sub-category, Age",3
 #11-6-1,Disposal Method,1
 #16-1-3,Type of Crime,1
 #16-7-1,Sex,1
@@ -20,6 +21,6 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,Renewable energy source,1
 #8-10-1,Banking service,1
 #8-3-1,"Sex, Region",2
-#8-6-1,"Sex, Age",2
+#8-6-1,"Age, Sex",2
 #9-3-1,"Production/Services, Industry Sector, Industry Sub Category",3
 #9-c-1,Technology,1
