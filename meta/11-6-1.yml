@@ -36,7 +36,7 @@ STAT_CONC_DEF__GLOBAL: >-
   reported as the final destination of these rejects.
 
 
-  Recycled-composted' includes household and non-household sources sent for
+  'Recycled-composted' includes household and non-household sources sent for
   recycling or for centralised composting; home composting estimates are not
   included in this total. It also includes small amounts of materials sent for
   reuse. Material which was collected for recycling but actually rejected at
@@ -104,23 +104,32 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: enviro.statistics@defra.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  'Disposal Method' refers to the waste management type. Landfill estimates
-  include recycling, composting or reuse rejects. 'Incineration with EfW' - EfW
-  is energy from waste. Also included are amounts rejected for recycling,
-  composting or reuse where incineration with EfW is reported as the final
-  destination of these rejects. Recycled-composted' includes household and
-  non-household sources sent for recycling or for centralised composting; home
-  composting estimates are not included in this total. It also includes small
-  amounts of materials sent for reuse. Material which was collected for
-  recycling but actually rejected at collection, by the MRF or at the gate of a
-  recycling reprocessor is excluded. The percentage of waste recycled shown
-  above relate to all Local Authority collected waste and so are different to
-  local authority “household” recycling rates or the slightly narrower “waste
-  from household” definitions. The [Annual Results tables]
+  'Disposal Method' refers to the waste management type. 
+
+
+  Landfill estimates include recycling, composting or reuse rejects. 
+
+
+  'Incineration with EfW' - EfW is energy from waste. Also included are amounts
+  rejected for recycling, composting or reuse where incineration with EfW is
+  reported as the final destination of these rejects. 
+
+
+  'Recycled-composted' includes household and non-household sources sent for
+  recycling or for centralised composting; home composting estimates are not
+  included in this total. It also includes small amounts of materials sent for
+  reuse. Material which was collected for recycling but actually rejected at
+  collection, by the MRF or at the gate of a recycling reprocessor is excluded.
+  The percentage of waste recycled shown above relate to all Local Authority
+  collected waste and so are different to local authority “household” recycling
+  rates or the slightly narrower “waste from household” definitions. The [Annual
+  Results tables]
   (https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results)
-  provide further statistics and detail on these. 'Other' includes waste treated
-  or disposed through other unspecified treatment processes as well as process
-  and moisture loss.
+  provide further statistics and detail on these. 
+
+
+  'Other' includes waste treated or disposed through other unspecified treatment
+  processes as well as process and moisture loss.
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
@@ -156,5 +165,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/51fee9bd6b854ab1f99fb0c04a025211cae33e62
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/e112bcb58875d5ceec9ca036e287050266247228
+  https://github.com/sdg-liverpool/data/commit/2bb7d0130a4766dc1332c8241ece4ea2f8d618d0
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
