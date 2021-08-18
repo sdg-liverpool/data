@@ -11,17 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "North West"
-              ]
-            },
-            "title": "Region"
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {

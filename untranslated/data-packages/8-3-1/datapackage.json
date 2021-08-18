@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "North West",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Sex",
             "type": "string",
             "constraints": {
