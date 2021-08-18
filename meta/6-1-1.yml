@@ -116,7 +116,10 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: 'This data represents the United Kingdom as opposed to Liverpool. '
+REC_USE_LIM: >-
+  This data represents the United Kingdom as opposed to Liverpool. Since UK data
+  is at 100%, this has been extrapolated to assume that Liverpool data would
+  mirror this. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -127,8 +130,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_data_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/f6ec3702f2a9d82b88534e6e33f96f59d437d16a
+national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_metadata_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/c16601a667e9c659e2c6352b04740660e89e6fb9
+national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
