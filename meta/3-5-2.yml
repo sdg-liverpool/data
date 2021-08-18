@@ -1,9 +1,11 @@
 ﻿SDG_INDICATOR_INFO__GLOBAL: ''
 SDG_GOAL__GLOBAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
 SDG_TARGET__GLOBAL: >-
-  Target 3.6: By 2020, halve the number of global deaths and injuries from road
-  traffic accidents
-SDG_INDICATOR__GLOBAL: 'Indicator 3.6.1: Death rate due to road traffic injuries'
+  Target 3.5: Strengthen the prevention and treatment of substance abuse,
+  including narcotic drug abuse and harmful use of alcohol
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 3.5.2: Alcohol per capita consumption (aged 15 years and older)
+  within a calendar year in litres of pure alcohol
 SDG_SERIES_DESCR__GLOBAL: ''
 META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -46,36 +48,42 @@ OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
 SDG_GOAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
 SDG_TARGET: >-
-  Target 3.6: By 2020, halve the number of global deaths and injuries from road
-  traffic accidents
-SDG_INDICATOR: 'Indicator 3.6.1: Death rate due to road traffic injuries'
+  Target 3.5: Strengthen the prevention and treatment of substance abuse,
+  including narcotic drug abuse and harmful use of alcohol
+SDG_INDICATOR: >-
+  Indicator 3.5.2: Alcohol per capita consumption (aged 15 years and older)
+  within a calendar year in litres of pure alcohol
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: Department for Transport
+CONTACT_ORGANISATION: 'Public Health England '
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
 CONTACT_PHONE: ''
 CONTACT_MAIL: ''
-CONTACT_EMAIL: |
-  roadacc.stats@dft.gov.uk
+CONTACT_EMAIL: enquiries@phe.gov.uk
 IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: ''
+STAT_CONC_DEF: >-
+  The indicator uses both the broad and narrow definition of alcohol related
+  admissions. The narrow definition counts those episodes where the primary
+  cause is related to use of alcohol, the broad definition counts those episodes
+  where either the primary or secondary cause of admission is attributable to
+  alcohol use.
 UNIT_MEASURE: 'Per 1,000,000 persons'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Reported road accidents, vehicles and casualties'
+SOURCE_TYPE: Local Alcohol Profiles for England - Liverpool
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: Department for Transport
+DATA_SOURCE: 'Public Health England '
 COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: Data from table RAS30045
+REC_USE_LIM: ''
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -86,8 +94,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6f7dfc59f989cecb0634bede2f9f990c287a5c7a
+  https://github.com/sdg-liverpool/data/commit/94f26aef2e45199dc98e3412862d2a49d10e150e
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4ad5d7ca12e3d58cbc2d9d8982a482147dd1aa20
+  https://github.com/sdg-liverpool/data/commit/d08f75d263c8944b8134a2922ee14bbbde53d693
 national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
