@@ -66,7 +66,7 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Per 1,000,000 persons'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Reported road accidents, vehicles and casualties'
+SOURCE_TYPE: 'Reported road accidents, vehicles and casualties. Data from table RAS30045.'
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -75,7 +75,7 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: Data from table RAS30045
+REC_USE_LIM: ''
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -86,8 +86,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6f7dfc59f989cecb0634bede2f9f990c287a5c7a
+  https://github.com/sdg-liverpool/data/commit/acf8ac8ddd3696f297d44ab8443bcd0b1d85858b
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4ad5d7ca12e3d58cbc2d9d8982a482147dd1aa20
+  https://github.com/sdg-liverpool/data/commit/6c7bd10909e41338cb840ed8356ad30061a81a3f
 national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
