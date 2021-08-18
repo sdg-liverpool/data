@@ -1,11 +1,16 @@
 ﻿SDG_INDICATOR_INFO__GLOBAL: ''
-SDG_GOAL__GLOBAL: '3'
-SDG_TARGET__GLOBAL: '3.3'
-SDG_INDICATOR__GLOBAL: '3.3.1 '
+SDG_GOAL__GLOBAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
+SDG_TARGET__GLOBAL: >-
+  Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and
+  neglected tropical diseases and combat hepatitis, water-borne diseases and
+  other communicable diseases
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected population,
+  by sex, age and key populations
 SDG_SERIES_DESCR__GLOBAL: ''
 META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
-SDG_CUSTODIAN_AGENCIES__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: The Joint United Nations Programme on HIV/AIDS (UNAIDS)
 CONTACT__GLOBAL: ''
 CONTACT_ORGANISATION__GLOBAL: ''
 CONTACT_NAME__GLOBAL: ''
@@ -13,26 +18,34 @@ ORGANISATION_UNIT__GLOBAL: ''
 CONTACT_FUNCT__GLOBAL: ''
 CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
-CONTACT_EMAIL__GLOBAL: |
-  profilefeedback@phe.gov.uk
+CONTACT_EMAIL__GLOBAL: |+
+
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: |
   Rate per 100,000 population
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
-SOURCE_TYPE__GLOBAL: |
-  PHE Fingertips: Liverpool Public Health Profile
+SOURCE_TYPE__GLOBAL: |+
+
 COLL_METHOD__GLOBAL: ''
 FREQ_COLL__GLOBAL: ''
 REL_CAL_POLICY__GLOBAL: ''
-DATA_SOURCE__GLOBAL: |
-  Public Health England
+DATA_SOURCE__GLOBAL: |+
+
 COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  Due to the relatively low incidence of HIV in the UK, a rate per 100,000
+  population is used rather than the UN specified rate per 1,000 population.
+  Since the duration between HIV infection and diagnosis is often unknown, new
+  diagnoses cannot be used as a direct measure of HIV incidence.
+
+
+  Data follows the UN specification for this indicator. This indicator has been
+  identified in collaboration with topic experts.
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -46,35 +59,35 @@ COVERAGE__GLOBAL: ''
 COMPARABILITY__GLOBAL: ''
 OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
-SDG_GOAL: '3'
+SDG_GOAL: 'Goal 3: Ensure healthy lives and promote well-being for all at all ages'
 SDG_TARGET: >
-  Target 3.3 By 2030, end the epidemics of AIDS, tuberculosis, malaria and
+  Target 3.3: By 2030, end the epidemics of AIDS, tuberculosis, malaria and
   neglected tropical diseases and combat hepatitis, water-borne diseases and
   other communicable diseases
 SDG_INDICATOR: >-
-  Indicator 3.3.1:Number of new HIV infections per 1,000 uninfected population,
+  Indicator 3.3.1: Number of new HIV infections per 1,000 uninfected population,
   by sex, age and key populations
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: ''
+CONTACT_ORGANISATION: Public Health England
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
 CONTACT_PHONE: ''
 CONTACT_MAIL: ''
-CONTACT_EMAIL: ''
+CONTACT_EMAIL: profilefeedback@phe.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
+UNIT_MEASURE: 'Rate per 100,000 population'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
+SOURCE_TYPE: 'PHE Fingertips: Liverpool Public Health Profile'
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: ''
+DATA_SOURCE: Public Health England
 COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
@@ -90,8 +103,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_data_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/35f15998d25dd3ac39deed7711b37167b3477de0
+national_data_update_url_text: '2021-07-28: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_metadata_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/fe3e7e3db8188caff0aca49e100c0bdc0b3029e0
+national_metadata_update_url_text: '2021-08-06: see changes on GitHub'
