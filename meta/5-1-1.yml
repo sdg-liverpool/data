@@ -89,7 +89,10 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: '''Home Geography'' location not used pre-2002.'
+REC_USE_LIM: |-
+  'Home Geography' location not used pre-2002.
+
+  This gender pay gap data acts as a proxy for a non-statistical indicator. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -100,8 +103,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d2e104f635a07227701fd7e85c6b5c79827a7aea
+  https://github.com/sdg-liverpool/data/commit/4cc8040e5b6e79858c517dced2c3d6f441f47b2d
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/85b16c3bff5b46cfffc16f2675289c28f893566b
+  https://github.com/sdg-liverpool/data/commit/ff95a50805950dea230b52da2d6773aad4f2dfa1
 national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
