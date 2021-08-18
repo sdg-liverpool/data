@@ -46,13 +46,14 @@ INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
 REC_USE_LIM__GLOBAL: >-
+  Data follows the UN specification for this indicator. This indicator has not
+  been identified in collaboration with topic experts.
+DATA_COMP__GLOBAL: >-
   The indicator is a comparison between 2013 and 2016 data on land consumption.
   Data was provided on land cover as manmade, unclassified, Natural or Mixed.
   For the calculation of this indicator, manmade was filtered out to calculate
   land consumption. Unclassified would cover land for which there may be
-  building plans. Data follows the UN specification for this indicator. This
-  indicator has not been identified in collaboration with topic experts.
-DATA_COMP__GLOBAL: ''
+  building plans. 
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
 IMPUTATION__GLOBAL: ''
@@ -113,13 +114,14 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
+  Data follows the UN specification for this indicator. This indicator has not
+  been identified in collaboration with topic experts.
+DATA_COMP: >-
   The indicator is a comparison between 2013 and 2016 data on land consumption.
   Data was provided on land cover as manmade, unclassified, Natural or Mixed.
   For the calculation of this indicator, manmade was filtered out to calculate
   land consumption. Unclassified would cover land for which there may be
-  building plans. Data follows the UN specification for this indicator. This
-  indicator has not been identified in collaboration with topic experts.
-DATA_COMP: ''
+  building plans. 
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -129,8 +131,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/51fee9bd6b854ab1f99fb0c04a025211cae33e62
-national_data_update_url_text: '2021-08-11: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/ab29babc474e892037e0d3b381577964fb326cad
+national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/e112bcb58875d5ceec9ca036e287050266247228
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/98fbec8cad4f65fa83d2440be66e4959c5c0aa5b
+national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
