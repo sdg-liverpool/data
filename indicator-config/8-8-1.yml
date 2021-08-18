@@ -19,9 +19,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - series: ''
-    unit: ''
+    unit: Rate of fatal injuries
     minimum: 0
     maximum: 5
+  - series: ''
+    unit: Rate of reported non-fatal injuries
+    minimum: 0
+    maximum: 350
 graph_stacked_disaggregation: ''
 graph_title: 'Rate of fatal and non-fatal occupational injuries per 100,000 persons'
 graph_titles: []
