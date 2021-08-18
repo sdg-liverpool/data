@@ -383,16 +383,6 @@
             "type": "integer"
           },
           {
-            "name": "Banking service",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Commercial bank branches and building societies",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
