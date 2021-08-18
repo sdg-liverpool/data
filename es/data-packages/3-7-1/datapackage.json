@@ -47,17 +47,6 @@
             "title": "Types of contraception"
           },
           {
-            "name": "Unit of measurement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            },
-            "title": "Unit of measurement"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

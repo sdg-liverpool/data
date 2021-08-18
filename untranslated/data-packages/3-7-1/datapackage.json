@@ -44,16 +44,6 @@
             }
           },
           {
-            "name": "Unit of measurement",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
