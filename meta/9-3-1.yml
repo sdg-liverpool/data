@@ -106,10 +106,7 @@ REC_USE_LIM: >-
   GVA estimates are presented in ‘real’ terms, with the effect of inflation
   removed, as chained volume measures (CVM) in money terms (using 2016 values).
   Therefore percentages will not add up to 100%.
-
-
-  Calculation - (Industry Sector GVA/Total GVA)*100
-DATA_COMP: ''
+DATA_COMP: (Industry Sector GVA/Total GVA)*100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -119,8 +116,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/a140583232551be5285db5a28df6bf1beaf127cb
+  https://github.com/sdg-liverpool/data/commit/27dcbc74be70d02918e34af7e785432442d391e2
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cc35a038d14741851d4101d64adf7669b3e932aa
+  https://github.com/sdg-liverpool/data/commit/0a59091cc6b94ee512780369212e0a7fbf36f512
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
