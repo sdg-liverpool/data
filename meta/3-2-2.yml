@@ -93,11 +93,10 @@ QUALITY_ASSURE: ''
 QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: ''
-OTHER_DOC: >-
-  https://fingertips.phe.org.uk/search/neonatal#page/4/gid/1/pat/6/par/E12000002/ati/302/are/E08000012/iid/92705/age/23/sex/4/cid/4/tbm/1/page-options/car-do-0
+OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_data_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/e52c8d3b403819022db233dd13e0421716a54120
+national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
-national_metadata_update_url_text: '2021-07-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/e2b314259d0db500b2a814fca0acf65861b20963
+national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
