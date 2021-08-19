@@ -73,7 +73,10 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Deaths per 100,000 population'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Mortality statistics - underlying cause, sex and age'
+SOURCE_TYPE: |-
+  Mortality statistics - underlying cause, sex and age
+
+  Data used - X30-X39 Exposure to forces of nature
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -84,8 +87,8 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: |
-  Data used - X30-X39 Exposure to forces of nature (mortality statistics)
+REC_USE_LIM: |+
+
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -99,5 +102,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/8198d20feb68dd4bedc27085e0ad20bae651ed61
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d1edbed75a285a5eeaf1d11f7d78678d90e622c8
-national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/b7d80e89b39a05c628109d2c8c6243fbb2f6abb4
+national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
