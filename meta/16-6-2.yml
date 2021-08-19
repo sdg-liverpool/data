@@ -32,11 +32,11 @@ STAT_CONC_DEF__GLOBAL: >-
 
 
   Quality rating - Respondents to the survey were asked "In general, how would
-  you rate the quality of each of the following public services in [COUNTRY]?" 7
-  public services are rated on a scale from 1 to 10, with 1 indicating 'very
-  poor quality', and 10 indicating 'very high quality' (Health services,
-  Education system, Public transport, Childcare services, Long-term care
-  services, Social housing, State pension system).
+  you rate the quality of each of the following public services in your
+  country?" 7 public services are rated on a scale from 1 to 10, with 1
+  indicating 'very poor quality', and 10 indicating 'very high quality' (Health
+  services, Education system, Public transport, Childcare services, Long-term
+  care services, Social housing, State pension system).
 UNIT_MEASURE__GLOBAL: Mean quality rating
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -147,5 +147,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/a1a8fedc2a27aee40f777112c44b4af0165755a6
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/96f8cdc5511c84cab1880c6ad16dc1bd3dcf9a50
-national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/b986e3f26a205974ea2fb3189e8cffe7ccba0809
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
