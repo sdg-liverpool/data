@@ -59,7 +59,7 @@ SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: Nomis - Official Labour Market Statistics
+CONTACT_ORGANISATION: Office for National Statistics
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
@@ -67,9 +67,7 @@ CONTACT_PHONE: ''
 CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: >-
-  Total figures are for Intestinal infectious diseases and do not include
-  hookworm disease, Ascariasis and Trichriasis
+STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Age-standardised mortality rate per 100,000'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
@@ -77,7 +75,9 @@ SOURCE_TYPE: 'Mortality statistics - underlying cause, sex and age'
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: None scheduled
-DATA_SOURCE: ''
+DATA_SOURCE: >-
+  Office for National Statistics. Data from Nomis - Official Labour Market
+  Statistics 
 COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
@@ -101,5 +101,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/acf8ac8ddd3696f297d44ab8443bcd0b1d85858b
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6d47b3a7c571288f5e02b7a316e7de9817ab853b
-national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/e6c162ac3c5ad567a56cb7307379f552da3d7c14
+national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
