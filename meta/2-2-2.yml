@@ -25,12 +25,12 @@ CONTACT_FUNCT__GLOBAL: ''
 CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
-IND_DEF_CON_CLASS__GLOBAL: >-
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: >-
   The prevalence of undernourishment is an estimate of the proportion of the
   population whose habitual food consumption is insufficient to provide the
   dietary energy levels that are required to maintain a normal active and
   healthy life.
-STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: Percentage (%)
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -115,5 +115,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/5ab41789de7732e574b286ac3efdf5f2f6a9f4f0
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/546327f5540a991745bc2768d671b9de2dacec4c
-national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/6d3caac9d9b19c53b3e3113514fb72654aa559db
+national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
