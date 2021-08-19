@@ -89,7 +89,10 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: 'Percentage (%) '
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Domestic abuse prevalence and victim characteristics
+SOURCE_TYPE: |-
+  Domestic abuse prevalence and victim characteristics
+
+  Data from tables 7a (2018/19) and 7 (2019/20)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
@@ -100,8 +103,7 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   Due to disaggregation not available at the local level, this data represents
-  the North West of England as opposed to Liverpool. Data acquired from tables
-  7a (2018/19) and 7 (2019/20). 
+  the North West of England as opposed to Liverpool. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -112,8 +114,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4cc8040e5b6e79858c517dced2c3d6f441f47b2d
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/4f3ae76732a8cdd5f3579e061bd842326c42a4b2
+national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/ff95a50805950dea230b52da2d6773aad4f2dfa1
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/2cbe22d2b00e8cda7f4c44e1e12c09ac0fd4d5c8
+national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
