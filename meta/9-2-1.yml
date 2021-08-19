@@ -73,9 +73,7 @@ CONTACT_PHONE: ''
 CONTACT_MAIL: ''
 CONTACT_EMAIL: regionalaccounts@ons.gov.uk
 IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: >-
-  Percentage of gross value added = (Gross Value Added [GVA] by manufacturing
-  sector / Total Gross Value Added [GVA] by all sectors) * 100
+STAT_CONC_DEF: ''
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
@@ -91,7 +89,9 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: ''
-DATA_COMP: ''
+DATA_COMP: >-
+  Percentage of gross value added = (Gross Value Added [GVA] by manufacturing
+  sector / Total Gross Value Added [GVA] by all sectors) * 100
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -101,8 +101,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/9775cb690e4dc5cb921b6b9773d0843f46e6530d
+  https://github.com/sdg-liverpool/data/commit/a140583232551be5285db5a28df6bf1beaf127cb
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/499fe1a14cb9071663a8297f3ac063a4613c8d3d
-national_metadata_update_url_text: '2021-08-11: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/cc35a038d14741851d4101d64adf7669b3e932aa
+national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
