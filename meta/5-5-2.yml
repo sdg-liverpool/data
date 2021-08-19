@@ -71,7 +71,12 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Annual Population Survey
+SOURCE_TYPE: >-
+  Annual Population Survey
+
+
+  SOC2010 data used. Data shows % females in employment who are managers,
+  directors and senior officials
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -82,9 +87,7 @@ COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: >-
-  SOC2010 data used. Data shows % females in employment who are managers,
-  directors and senior officials. 
+REC_USE_LIM: ''
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -95,8 +98,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4cc8040e5b6e79858c517dced2c3d6f441f47b2d
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/a55e0334ef430e7a45adee3943a7b03f8de84437
+national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/9067f13c17dc931f6f17d89e780a6c0728861c05
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/4890e3e881b2b19e5679a60178bea1c749b06c84
+national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
