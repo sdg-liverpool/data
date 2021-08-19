@@ -1900,10 +1900,10 @@
             "constraints": {
               "enum": [
                 "",
-                "cancer",
-                "cardiovascular diseases",
-                "liver disease",
-                "respiratory disease"
+                "Cancer",
+                "Cardiovascular diseases",
+                "Liver disease",
+                "Respiratory disease"
               ]
             },
             "title": "Type of Disease"
