@@ -26,15 +26,19 @@ CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: >-
   Solar PV- The direct conversion of solar radiation into electricity by the
-  interaction of light with the electrons in a semiconductor device or cell.
+  interaction of light with the electrons in a semiconductor device or cell. 
+
+
   Bioenergy - renewable energy made from material of recent biological origin
-  derived from plant or animal matter, known as biomass. AD - Anaerobic
-  Digestion is a natural process in which microorganisms break down organic
-  matter, in the absence of oxygen, into biogas (a mixture of carbon dioxide
-  (CO2) and methane) and digestate (a nitrogen-rich fertiliser). The biogas can
-  be used directlyin engines for Combined Heat and Power (CHP), burned to
-  produce heat, or can be cleaned and used in the same way as natural gas or as
-  a vehicle fuel.
+  derived from plant or animal matter, known as biomass. 
+
+
+  AD - Anaerobic Digestion is a natural process in which microorganisms break
+  down organic matter, in the absence of oxygen, into biogas (a mixture of
+  carbon dioxide (CO2) and methane) and digestate (a nitrogen-rich fertiliser).
+  The biogas can be used directly in engines for Combined Heat and Power (CHP),
+  burned to produce heat, or can be cleaned and used in the same way as natural
+  gas or as a vehicle fuel.
 UNIT_MEASURE__GLOBAL: Watts per capita
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -87,15 +91,19 @@ CONTACT_EMAIL: renewablesstatistics@beis.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
   Solar PV- The direct conversion of solar radiation into electricity by the
-  interaction of light with the electrons in a semiconductor device or cell.
+  interaction of light with the electrons in a semiconductor device or cell. 
+
+
   Bioenergy - renewable energy made from material of recent biological origin
-  derived from plant or animal matter, known as biomass. AD - Anaerobic
-  Digestion is a natural process in which microorganisms break down organic
-  matter, in the absence of oxygen, into biogas (a mixture of carbon dioxide
-  (CO2) and methane) and digestate (a nitrogen-rich fertiliser). The biogas can
-  be used directlyin engines for Combined Heat and Power (CHP), burned to
-  produce heat, or can be cleaned and used in the same way as natural gas or as
-  a vehicle fuel.
+  derived from plant or animal matter, known as biomass. 
+
+
+  AD - Anaerobic Digestion is a natural process in which microorganisms break
+  down organic matter, in the absence of oxygen, into biogas (a mixture of
+  carbon dioxide (CO2) and methane) and digestate (a nitrogen-rich fertiliser).
+  The biogas can be used directly in engines for Combined Heat and Power (CHP),
+  burned to produce heat, or can be cleaned and used in the same way as natural
+  gas or as a vehicle fuel.
 UNIT_MEASURE: Watts per capita
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
@@ -121,8 +129,8 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/90ec0f32d221fe13e3cfb7585648e793460fdae6
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/755a6c592a300e0319dd379e725e104778d98995
+national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/35645eb0fc41b904ca737b9c890e7b1e0707e341
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/45ea69dbfd94b8c6b83e9a6f3e68625c6479418d
+national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
