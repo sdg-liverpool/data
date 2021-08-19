@@ -97,19 +97,21 @@ REC_USE_LIM: >-
   The preferred source of statistics for public sector employment is the
   Quarterly Public Sector Employment Survey (QPSES) and external sources,
   however, figures from this source are not available below government office
-  region level. Individuals in the Annual Population Survey (APS) are classified
-  to the public or private sector according to their responses to the survey.
-  Consequently, the classification of an individuals sector may differ from how
-  they would be classified in QPSES statistics. Official estimates of public
-  sector employment compiled from QPSES are generally lower than estimates
-  available from APS. This is partially because many people who work within
-  public sector premises, whilst being employed by private sector organizations,
-  will classify themselves as working in the public sector, e.g. cleaners or
-  security guards employed by a contractor to work at public sector premises.
-  Results of QPSES are available at:
-  http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/index.html A brief
-  guide to sources of public sector data is available from here:
-  http://www.ons.gov.uk/ons/rel/pse/public-sector-employment/a-brief-guide-to-sources-of-public-sector-employment-statistics/index.html.
+  region level. 
+
+
+  Individuals in the Annual Population Survey (APS) are classified to the public
+  or private sector according to their responses to the survey. Consequently,
+  the classification of an individuals sector may differ from how they would be
+  classified in QPSES statistics. 
+
+
+  Official estimates of public sector employment compiled from QPSES are
+  generally lower than estimates available from APS. This is partially because
+  many people who work within public sector premises, whilst being employed by
+  private sector organizations, will classify themselves as working in the
+  public sector, e.g. cleaners or security guards employed by a contractor to
+  work at public sector premises. 
 
 
   Public and Private sector employment' dataset used. January to December survey
@@ -127,5 +129,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/aa08947d9828ef7fef9660e221c37f9aaf0e9cd8
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/0593db6432c80e99e4fe2abf67d9c68b091e20da
+  https://github.com/sdg-liverpool/data/commit/40274a89091758e861d5689c69103891194dfe62
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
