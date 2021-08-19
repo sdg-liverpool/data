@@ -1331,7 +1331,7 @@
             "title": "Cause"
           },
           {
-            "name": "sex",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1340,7 +1340,7 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
