@@ -67,7 +67,10 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Rate per 100,000 persons'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Suicides in England and Wales by local authority
+SOURCE_TYPE: |-
+  Suicides in England and Wales by local authority
+
+  Data from Table 2
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -78,8 +81,8 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   The data is based on a 3 year average. The year given is the middle year of
-  the sample, for example the sample years between 2001-03 is displayed as 2002.
-  Data from Table 2.
+  the sample, for example the sample years between 2001-03 is displayed as
+  2002. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -93,5 +96,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/6f7dfc59f989cecb0634bede2f9f990c287a5c7a
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/51870451d675a8b590c41ceb20f7eae8d6f9525e
+  https://github.com/sdg-liverpool/data/commit/31d60412fe0cd6164b9c00454338a5d05002ae68
 national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
