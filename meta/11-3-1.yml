@@ -20,17 +20,7 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Population growth rate = Natural logarithm ( Measurement year population /
-  Previous population ) / Time between the measurement periods
-
-
-  Land consumption rate = Natural logarithm ( Measurement year manmade land area
-  / Previous manmade land area ) / Time between the measurement periods
-
-
-  Ratio of land consumption rate to population growth rate = Land consumption
-  rate / Population growth rate
+STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: >-
   Ratio of land consumption rate to population growth rate, Land consumption
   rate, Population growth rate
@@ -54,6 +44,18 @@ DATA_COMP__GLOBAL: >-
   For the calculation of this indicator, manmade was filtered out to calculate
   land consumption. Unclassified would cover land for which there may be
   building plans. 
+
+
+  Population growth rate = Natural logarithm ( Measurement year population /
+  Previous population ) / Time between the measurement periods
+
+
+  Land consumption rate = Natural logarithm ( Measurement year manmade land area
+  / Previous manmade land area ) / Time between the measurement periods
+
+
+  Ratio of land consumption rate to population growth rate = Land consumption
+  rate / Population growth rate
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
 IMPUTATION__GLOBAL: ''
@@ -86,17 +88,7 @@ CONTACT_PHONE: ''
 CONTACT_MAIL: ''
 CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
-STAT_CONC_DEF: >-
-  Population growth rate = Natural logarithm ( Measurement year population /
-  Previous population ) / Time between the measurement periods
-
-
-  Land consumption rate = Natural logarithm ( Measurement year manmade land area
-  / Previous manmade land area ) / Time between the measurement periods
-
-
-  Ratio of land consumption rate to population growth rate = Land consumption
-  rate / Population growth rate
+STAT_CONC_DEF: ''
 UNIT_MEASURE: >-
   Ratio of land consumption rate to population growth rate, Land consumption
   rate, Population growth rate
@@ -122,6 +114,18 @@ DATA_COMP: >-
   For the calculation of this indicator, manmade was filtered out to calculate
   land consumption. Unclassified would cover land for which there may be
   building plans. 
+
+
+  Population growth rate = Natural logarithm ( Measurement year population /
+  Previous population ) / Time between the measurement periods
+
+
+  Land consumption rate = Natural logarithm ( Measurement year manmade land area
+  / Previous manmade land area ) / Time between the measurement periods
+
+
+  Ratio of land consumption rate to population growth rate = Land consumption
+  rate / Population growth rate
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -134,5 +138,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/ab29babc474e892037e0d3b381577964fb326cad
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/98fbec8cad4f65fa83d2440be66e4959c5c0aa5b
-national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/21c1b3593aeba56634dd4df4939b5a454fb52db6
+national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
