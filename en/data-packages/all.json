@@ -1367,9 +1367,9 @@
             "constraints": {
               "enum": [
                 "",
-                "1. Ratio of land consumption rate to population growth rate - UN indicator",
-                "2. Land consumption rate",
-                "3. Population growth rate"
+                "Land consumption rate",
+                "Population growth rate",
+                "Ratio of land consumption rate to population growth rate - UN indicator"
               ]
             },
             "title": "Units"
