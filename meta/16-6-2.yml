@@ -50,9 +50,6 @@ INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
 REC_USE_LIM__GLOBAL: >-
-  Data are collected from the Eurofound 'European Quality of Life Survey'.
-
-
   This indicator is being used as an approximation of the UN SDG Indicator.
   Where possible, we will work to identify or develop UK data to meet the global
   indicator specification. This indicator has been identified in collaboration
@@ -110,7 +107,10 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: Mean quality rating
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'European Quality of Life Survey Integrated Data File, 2003-2016'
+SOURCE_TYPE: |-
+  Data are collected from the Eurofound 'European Quality of Life Survey'.
+
+  European Quality of Life Survey Integrated Data File, 2003-2016
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be confirmed
@@ -125,9 +125,6 @@ REC_USE_LIM: >-
   were asked about the quality of public services in their country rather than
   region or local authority, however the data represents the response from
   individuals in the North West.
-
-
-  Data are collected from the Eurofound 'European Quality of Life Survey'.
 
 
   This indicator is being used as an approximation of the UN SDG Indicator.
@@ -147,5 +144,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/a1a8fedc2a27aee40f777112c44b4af0165755a6
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/b986e3f26a205974ea2fb3189e8cffe7ccba0809
+  https://github.com/sdg-liverpool/data/commit/bbfb13006f9c893752a5f6f882ddf4d00f1992f7
 national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
