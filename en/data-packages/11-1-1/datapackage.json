@@ -11,17 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Rough Sleeper snapshot by year"
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
