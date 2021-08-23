@@ -1,7 +1,7 @@
 ﻿SDG_INDICATOR_INFO__GLOBAL: ''
 SDG_GOAL__GLOBAL: 'Goal 12: Ensure sustainable consumption and production patterns'
 SDG_TARGET__GLOBAL: >-
-  Target 12.1.1: Implement the 10‐Year Framework of Programmes on Sustainable
+  Target 12.1: Implement the 10‐Year Framework of Programmes on Sustainable
   Consumption and Production Patterns, all countries taking action, with
   developed countries taking the lead, taking into account the development and
   capabilities of developing countries
@@ -51,7 +51,7 @@ OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
 SDG_GOAL: 'Goal 12: Ensure sustainable consumption and production patterns'
 SDG_TARGET: >-
-  Target 12.1.1: Implement the 10‐Year Framework of Programmes on Sustainable
+  Target 12.1: Implement the 10‐Year Framework of Programmes on Sustainable
   Consumption and Production Patterns, all countries taking action, with
   developed countries taking the lead, taking into account the development and
   capabilities of developing countries
@@ -100,5 +100,5 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
 national_data_update_url_text: '2021-07-19: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/584caabfd3fa6c2659d1344cc1a1a2b9ca9367c8
+  https://github.com/sdg-liverpool/data/commit/8d1e8b338aed7f1fcac3aaa18ad4f8db6e6443a6
 national_metadata_update_url_text: '2021-08-20: see changes on GitHub'
