@@ -1,0 +1,125 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: >-
+  Goal 2: End hunger, achieve food security and improved nutrition and promote
+  sustainable agriculture
+SDG_TARGET__GLOBAL: >-
+  Target 2.1: By 2030, end hunger and ensure access by all people, in particular
+  the poor and people in vulnerable situations, including infants, to safe,
+  nutritious and sufficient food all year round
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 2.1.2: Prevalence of moderate or severe food insecurity in the
+  population, based on the Food Insecurity Experience Scale (FIES)
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: Food and Agriculture Organization (FAO)
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: >-
+  Goal 2: End hunger, achieve food security and improved nutrition and promote
+  sustainable agriculture
+SDG_TARGET: >-
+  Target 2.1: By 2030, end hunger and ensure access by all people, in particular
+  the poor and people in vulnerable situations, including infants, to safe,
+  nutritious and sufficient food all year round
+SDG_INDICATOR: >-
+  Indicator 2.1.2: Prevalence of moderate or severe food insecurity in the
+  population, based on the Food Insecurity Experience Scale (FIES)
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: 'The Trussell Trust '
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: enquiries@trusselltrust.org
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Number of emergency food parcels
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  [The Trussell Trust - end of year
+  stats](https://www.trusselltrust.org/news-and-blog/latest-stats/end-year-stats/#total)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: 'The Trussell Trust '
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: >-
+  Statistics are a measure of volume rather than unique users. The data is
+  collected using an online system into which food banks enter data from each
+  food bank voucher, and the number of emergency food supplies is recorded. 
+
+
+  For example, if a family of three were referred to a food bank twice in one
+  year, this would count as six supplies on the system because it would reflect
+  six instances of a supply going to someone in the household. However, if a
+  family of three were only referred to a food bank once, this would count as
+  three supplies. 
+
+
+  Trussell Trust figures cannot be used to fully explain the scale of food bank
+  use across the UK, because figures relate to food banks in their network and
+  not to the hundreds of independent food aid providers and community-groups
+  also providing support. There are more than 1,300 food bank centres in the
+  Trussell Trust’s UK wide network. The Independent Food Aid Network (IFAN)
+  represents more than 500 independent food banks operating across the UK. IFAN
+  has identified at least 1,034 independent food banks across the UK in addition
+  to food banks in the Trussell Trust network, Salvation Army, and school-based
+  food banks.   
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/5ab41789de7732e574b286ac3efdf5f2f6a9f4f0
+national_data_update_url_text: '2021-08-09: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/1148eb65062faa6ff829be68634a1b537001951f
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
