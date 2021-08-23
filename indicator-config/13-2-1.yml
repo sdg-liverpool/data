@@ -17,16 +17,48 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.13-2-1-title
+graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.13-2-1-title
-indicator_number: '13.2.1'
-national_geographical_coverage: ''
-page_content: ''
+indicator_available: 'Relevant Liverpool policies and frameworks '
+indicator_name: >-
+  Number of countries with nationally determined contributions, long-term
+  strategies, national adaptation plans, strategies as reported in adaptation
+  communications and national communications
+indicator_number: 13.2.1
+national_geographical_coverage: Liverpool
+page_content: >-
+  **Non-statistical indicator**
+
+
+  We have identified the following policies and frameworks relevant to this
+  indicator - 
+
+
+  [Climate Change Strategic Framework,
+  2009](http://www.greeninfrastructurenw.co.uk/liverpool/doc.php?docID=271) -
+  this document brings together the members of Liverpool First in a commitment
+  to make Liverpool an environmentally responsible, thriving international city
+  for the future. 
+
+
+  Liverpool signed up to the [European Covenant of
+  Mayors](https://climate-adapt.eea.europa.eu/eu-adaptation-policy/covenant-of-mayors)
+  carbon target in 2017. 
+
+
+  Liverpool City Council is currently on target to cut its carbon emissions by
+  42% by 2020 since 2005. Key to this achievement includes a policy of only
+  buying green energy, installing 27,000 LED street lights across the city,
+  investing in solar panels in major venues such as at ACC Liverpool and
+  introducing ultra-low emission vehicles into its fleet. 
+
+
+  Liverpool declared a Climate Change Emergency in July 2019 and target to reach
+  a net zero carbon position by 2030.
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
