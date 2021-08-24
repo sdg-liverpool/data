@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -17,16 +17,29 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.12-b-1-title
+graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.12-b-1-title
-indicator_number: '12.b.1'
-national_geographical_coverage: ''
-page_content: ''
+indicator_available: 'Relevant Liverpool frameworks '
+indicator_name: >-
+  Implementation of standard accounting tools to monitor the economic and
+  environmental aspects of tourism sustainability
+indicator_number: 12.b.1
+national_geographical_coverage: Liverpool
+page_content: >-
+  **Non-statistical indicator**
+
+
+  We have identified the following plan relevant to this indicator -
+
+
+  [Liverpool City Region Visitor Economy Strategy and Destination Management
+  Plan](https://www.liverpoollep.org/wp-content/uploads/2015/06/Liverpool-City-Region-DMP-2018-edit_v2.pdf)
+  - An Action Plan for Jobs and Growth in Liverpool City Region, with reference
+  to sustainability and the promotion of local culture and products.
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
