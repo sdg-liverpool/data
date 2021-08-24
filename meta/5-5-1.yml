@@ -1,0 +1,123 @@
+﻿SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: |
+  Goal 5: Achieve gender equality and empower all women and girls
+SDG_TARGET__GLOBAL: >-
+  Target 5.5: Ensure women’s full and effective participation and equal
+  opportunities for leadership at all levels of decision-making in political,
+  economic and public life
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 5.5.1: Proportion of seats held by women in (a) national parliaments
+  and (b) local governments
+SDG_SERIES_DESCR__GLOBAL: ''
+META_LAST_UPDATE__GLOBAL: ''
+SDG_RELATED_INDICATORS__GLOBAL: ''
+SDG_CUSTODIAN_AGENCIES__GLOBAL: 'Inter-Parliamentary Union (IPU), UN Women'
+CONTACT__GLOBAL: ''
+CONTACT_ORGANISATION__GLOBAL: ''
+CONTACT_NAME__GLOBAL: ''
+ORGANISATION_UNIT__GLOBAL: ''
+CONTACT_FUNCT__GLOBAL: ''
+CONTACT_PHONE__GLOBAL: ''
+CONTACT_MAIL__GLOBAL: ''
+CONTACT_EMAIL__GLOBAL: ''
+IND_DEF_CON_CLASS__GLOBAL: ''
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: Percentage (%)
+CLASS_SYSTEM__GLOBAL: ''
+SRC_TYPE_COLL_METHOD__GLOBAL: ''
+SOURCE_TYPE__GLOBAL: ''
+COLL_METHOD__GLOBAL: ''
+FREQ_COLL__GLOBAL: ''
+REL_CAL_POLICY__GLOBAL: ''
+DATA_SOURCE__GLOBAL: ''
+COMPILING_ORG__GLOBAL: ''
+INST_MANDATE__GLOBAL: ''
+OTHER_METHOD__GLOBAL: ''
+RATIONALE__GLOBAL: ''
+REC_USE_LIM__GLOBAL: >-
+  Data follows the UN specification for this indicator. This indicator has not
+  been identified in collaboration with topic experts.
+DATA_COMP__GLOBAL: ''
+DATA_VALIDATION__GLOBAL: ''
+ADJUSTMENT__GLOBAL: ''
+IMPUTATION__GLOBAL: ''
+REG_AGG__GLOBAL: ''
+DOC_METHOD__GLOBAL: ''
+QUALITY_MGMNT__GLOBAL: ''
+QUALITY_ASSURE__GLOBAL: ''
+QUALITY_ASSMNT__GLOBAL: ''
+COVERAGE__GLOBAL: ''
+COMPARABILITY__GLOBAL: ''
+OTHER_DOC__GLOBAL: ''
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: |
+  Goal 5: Achieve gender equality and empower all women and girls
+SDG_TARGET: >-
+  Target 5.5: Ensure women’s full and effective participation and equal
+  opportunities for leadership at all levels of decision-making in political,
+  economic and public life
+SDG_INDICATOR: >-
+  Indicator 5.5.1: Proportion of seats held by women in (a) national parliaments
+  and (b) local governments
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: Liverpool City Council
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Mayor's Cabinet - the Cabinet comprises the Mayor of Liverpool and nine
+  Cabinet Members of the City Council. Each has responsibility for a defined
+  service area (portfolio). Collectively the Cabinet has responsibility for
+  taking the day to day decisions within the Council.
+
+
+  Member of Parliament (MP) - An MP represents a particular constituency and is
+  elected by the voters of that constituency. The role of the MP is to represent
+  the interests of all the people of their constituency in the House of Commons
+  in London.
+UNIT_MEASURE: Percentage (%)
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: >-
+  [Councillors and
+  Committees](https://councillors.liverpool.gov.uk/mgFindMember.aspx?)
+
+
+  [Mayor of
+  Liverpool](https://liverpool.gov.uk/council/councillors-and-committees/mayor-of-liverpool/)
+
+
+  [MPs](https://liverpool.gov.uk/council/councillors-and-committees/mps/)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: Liverpool City Council
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Percentage of seats held by women = (Number of women representatives/total
+  representatives)*100
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/a55e0334ef430e7a45adee3943a7b03f8de84437
+national_data_update_url_text: '2021-08-17: see changes on GitHub'
+national_metadata_update_url: >-
+  https://github.com/sdg-liverpool/data/commit/5d399f29c10282f4b56720d7ae5b2d33e01eb5eb
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
