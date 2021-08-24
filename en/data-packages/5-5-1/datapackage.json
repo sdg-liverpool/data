@@ -11,13 +11,26 @@
       "schema": {
         "fields": [
           {
+            "name": "Type of representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Councillors",
+                "Mayor's cabinet",
+                "Members of Parliament (MPs)"
+              ]
+            },
+            "title": "Type of representative"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]

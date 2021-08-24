@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of representative",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Members of Parliament (MPs)",
+                "Councillors",
+                "Mayor's cabinet",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
