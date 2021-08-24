@@ -15,7 +15,11 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: ''
+    unit: ''
+    minimum: 0
+    maximum: 100
 graph_stacked_disaggregation: ''
 graph_title: Percentage (%) of woodland land cover
 graph_titles: []
