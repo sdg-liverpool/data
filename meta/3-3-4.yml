@@ -69,12 +69,14 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Rate per 100,000 population'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Acute Hepatitis B (England): annual report for 2018'
+SOURCE_TYPE: >-
+  [Acute Hepatitis B (England): annual report for
+  2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877344/hpr3019_ct-hbv18_V3.pdf)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: Public Health England
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Public Health England
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -91,8 +93,75 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cd23666016ad87efc227ae00b3d437025c99491a
+  https://github.com/sdg-liverpool/data/commit/96bdae719d108c80ac2d6e0c5eca8970ac04b665
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/29ca636532545ce124239cffd129f696351cbc4e
+  https://github.com/sdg-liverpool/data/commit/1bf0eaedc74f885455b020cbd995111056009fba
 national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+source_organisation_1: Public Health England
+source_periodicity_1: Annual
+source_earliest_available_1: '2010'
+source_geographical_coverage_1: North West
+source_url_1: >-
+  https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877344/hpr3019_ct-hbv18_V3.pdf
+source_url_text_1: 'Acute Hepatitis B (England): annual report for 2018'
+source_release_date_1: 23 August 2019
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: enquiries@phe.gov.uk
+source_other_info_1: ''
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
