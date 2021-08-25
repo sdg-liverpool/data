@@ -136,16 +136,14 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/23c8ac3478cd745bc34d836ae1931f9be425ac68
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4b377ef0404e8cbee49cff9b1866f24e42bc3e31
+  https://github.com/sdg-liverpool/data/commit/9d2854d06cb737b6252046fed1a9c02d75d40cd8
 national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
 source_organisation_1: House of Commons Library
 source_periodicity_1: Annual (data based on a three-year rolling average)
 source_earliest_available_1: 1994/95
 source_geographical_coverage_1: North West
-source_url_1: >-
-  [Trends by country and
-  region](https://commonslibrary.parliament.uk/research-briefings/sn07096/)
-source_url_text_1: ''
+source_url_1: 'https://commonslibrary.parliament.uk/research-briefings/sn07096/'
+source_url_text_1: 'Poverty in the UK: statistics - Trends by country and region'
 source_release_date_1: 31 March 2021
 source_next_release_1: ''
 source_statistical_classification_1: Official
