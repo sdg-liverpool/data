@@ -73,7 +73,13 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: 'Rate per 100,000 population, Number of cases'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Imported Malaria in the UK, Malaria in the UK'
+SOURCE_TYPE: >-
+  [Imported Malaria in the
+  UK](https://www.gov.uk/government/publications/imported-malaria-in-the-uk-statistics)
+
+
+  [Malaria in the
+  UK](https://www.gov.uk/government/publications/malaria-in-the-uk-annual-report)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be confirmed
@@ -95,8 +101,75 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6f7dfc59f989cecb0634bede2f9f990c287a5c7a
-national_data_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/cd23666016ad87efc227ae00b3d437025c99491a
+national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/c178359e2751ef1611ec398080b8eeda3dd0d2f8
-national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/29ca636532545ce124239cffd129f696351cbc4e
+national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+source_organisation_1: Public Health England
+source_periodicity_1: Annual
+source_earliest_available_1: '2000'
+source_geographical_coverage_1: North West
+source_url_1: >-
+  https://www.gov.uk/government/publications/imported-malaria-in-the-uk-statistics
+source_url_text_1: 'Imported malaria in the UK: statistics'
+source_release_date_1: 21 June 2019
+source_next_release_1: To be confirmed
+source_statistical_classification_1: Official
+source_contact_1: enquiries@phe.gov.uk
+source_other_info_1: ''
+source_organisation_2: Public Health England
+source_periodicity_2: Annual
+source_earliest_available_2: '2014'
+source_geographical_coverage_2: North West
+source_url_2: 'https://www.gov.uk/government/publications/malaria-in-the-uk-annual-report'
+source_url_text_2: 'Malaria in the UK: annual report'
+source_release_date_2: 5 July 2019
+source_next_release_2: To be confirmed
+source_statistical_classification_2: Official
+source_contact_2: enquiries@phe.gov.uk
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
