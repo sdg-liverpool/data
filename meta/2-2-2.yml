@@ -92,12 +92,18 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: ''
+SOURCE_TYPE: >-
+  [Public Health Profiles - Reception: Prevalence of
+  underweight](https://fingertips.phe.org.uk/search/underweight#page/4/gid/1/pat/6/ati/301/are/E08000012/iid/90316/age/200/sex/4/cid/4/tbm/1/page-options/car-do-0)
+
+
+  [Public Health Profiles - Reception: Prevalence of overweight (including
+  obesity)](https://fingertips.phe.org.uk/national-child-measurement-programme#page/4/gid/8000011/pat/6/par/E12000002/ati/301/are/E08000012/iid/20601/age/200/sex/4/cid/4/tbm/1)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: ''
-COMPILING_ORG: ''
+COMPILING_ORG: Public Health England
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -115,5 +121,75 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/5ab41789de7732e574b286ac3efdf5f2f6a9f4f0
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6d3caac9d9b19c53b3e3113514fb72654aa559db
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/1148eb65062faa6ff829be68634a1b537001951f
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
+source_organisation_1: Public Health England
+source_periodicity_1: Annual
+source_earliest_available_1: 2007/08
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://fingertips.phe.org.uk/search/underweight#page/4/gid/1/pat/6/ati/301/are/E08000012/iid/90316/age/200/sex/4/cid/4/tbm/1/page-options/car-do-0
+source_url_text_1: 'Public Health Profiles - Reception: Prevalence of underweight'
+source_release_date_1: ''
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: ''
+source_other_info_1: Data acquired from the National Child Measurement Programme
+source_organisation_2: Public Health England
+source_periodicity_2: Annual
+source_earliest_available_2: 2007/08
+source_geographical_coverage_2: Liverpool
+source_url_2: >-
+  https://fingertips.phe.org.uk/national-child-measurement-programme#page/4/gid/8000011/pat/6/par/E12000002/ati/301/are/E08000012/iid/20601/age/200/sex/4/cid/4/tbm/1
+source_url_text_2: >-
+  Public Health Profiles - Reception: Prevalence of overweight (including
+  obesity)
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: Official
+source_contact_2: ''
+source_other_info_2: Data acquired from the National Child Measurement Programme
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
