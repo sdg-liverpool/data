@@ -22,13 +22,7 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Primary and lower secondary education completion rate is measured as the gross
-  intake ratio to the last grade of lower primary/secondary education. It is
-  calculated as the number of new entrants (enrollments minus repeaters) in the
-  last grade of primary/lower secondary education, regardless of age, divided by
-  the population at the entrance age for the last grade of primary/lower
-  secondary education.
+STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: Percentage (%)
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -41,18 +35,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  There are many reasons why the primary and lower secondary completion rate can
-  exceed 100 percent - the numerator may include late entrants and overage
-  children who have repeated one or more grades of primary education as well as
-  children who entered school early, while the denominator is the number of
-  children at the entrance age for the last grade of primary education.
-
-
-  This indicator is being used as an approximation of the UN SDG Indicator.
-  Where possible, we will work to identify or develop UK data to meet the global
-  indicator specification. This indicator has been identified in collaboration
-  with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -98,20 +81,25 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Primary completion rate, Lower secondary completion rate'
+SOURCE_TYPE: >-
+  [Primary completion
+  rate](https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS?locations=GB)
+
+
+  [Lower secondary completion
+  rate](https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS?end=2018&locations=GB&start=2017&view=chart)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
-DATA_SOURCE: UNESCO Institute for Statistics and The World Bank
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: UNESCO Institute for Statistics and The World Bank
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   Due to disaggregation not available at the local level, this data represents
-  the whole of the United Kingdom of England as opposed to Liverpool. Since data
-  is around 100%, this has been extrapolated to assume that Liverpool's data
-  will be similar.
+  the United Kingdom as opposed to Liverpool. Since data is around 100%, this
+  has been extrapolated to assume that Liverpool's data will be similar.
 
 
   There are many reasons why the primary and lower secondary completion rate can
@@ -135,8 +123,79 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d2e104f635a07227701fd7e85c6b5c79827a7aea
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/d3346ab662011622dcdcd318d84e840b8f94e464
+national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d9a981b3357b51eb53dd0d4c549971924c4747dc
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/d7fde59d7f9b74f4c4a33dc6edfbff544b33442d
+national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
+source_organisation_1: UNESCO Institute for Statistics and The World Bank
+source_periodicity_1: Annual
+source_earliest_available_1: '2015'
+source_geographical_coverage_1: United Kingdom
+source_url_1: 'https://data.worldbank.org/indicator/SE.PRM.CMPT.ZS?locations=GB'
+source_url_text_1: >-
+  The World Bank - Primary completion rate, total (% of relevant age group) -
+  United Kingdom
+source_release_date_1: 1 September 2020
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: uis.datarequests@unesco.org
+source_other_info_1: ''
+source_organisation_2: UNESCO Institute for Statistics and The World Bank
+source_periodicity_2: Annual
+source_earliest_available_2: '2017'
+source_geographical_coverage_2: United Kingdom
+source_url_2: >-
+  https://data.worldbank.org/indicator/SE.SEC.CMPT.LO.ZS?end=2018&locations=GB&start=2017&view=chart
+source_url_text_2: >-
+  The World Bank - Lower secondary completion rate, total (% of relevant age
+  group) - United Kingdom
+source_release_date_2: 1 September 2020
+source_next_release_2: To be announced
+source_statistical_classification_2: Official
+source_contact_2: uis.datarequests@unesco.org
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
