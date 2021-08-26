@@ -25,7 +25,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -37,11 +37,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  This indicator is being used as an approximation of the UN SDG Indicator.
-  Where possible, we will work to identify or develop UK data to meet the global
-  indicator specification. This indicator has been identified in collaboration
-  with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -79,15 +75,17 @@ CONTACT_EMAIL: |
   EarlyYears.STATISTICS@education.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
-UNIT_MEASURE: Percentage (%) of children benefitting from early funded education places
+UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Department for Education - Provision for children under 5, 2019 - main tables'
+SOURCE_TYPE: >-
+  [Education provision: children under 5 years of age, January
+  2019](https://www.gov.uk/government/statistics/education-provision-children-under-5-years-of-age-january-2019)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
-DATA_SOURCE: Department for Education
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Department for Education
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -105,5 +103,74 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/d2e104f635a07227701fd7e85c6b5c79827a7aea
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d9a981b3357b51eb53dd0d4c549971924c4747dc
+  https://github.com/sdg-liverpool/data/commit/21c2904dcd124d744b35e6771b850e6a8b4d17fd
 national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+source_organisation_1: Department for Education
+source_periodicity_1: Annual
+source_earliest_available_1: '2011'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.gov.uk/government/statistics/education-provision-children-under-5-years-of-age-january-2019
+source_url_text_1: >-
+  Department for Education - Education provision: children under 5 years of age,
+  January 2019
+source_release_date_1: 27 June 2019
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: EarlyYears.STATISTICS@education.gov.uk
+source_other_info_1: ''
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
