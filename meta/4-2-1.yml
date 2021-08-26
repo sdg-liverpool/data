@@ -23,25 +23,7 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  The EYFSP is a teacher assessment of children’s development at the end of the
-  early years foundation stage (the end of the academic year in which the child
-  turns five years old – this is typically at the end of the Reception year).
-
-
-  Children are assessed in three prime areas of learning (communication and
-  language, physical development and personal and social emotional development)
-  and four specific areas of learning (expressive arts and design, literacy,
-  mathematics, understanding the world).
-
-
-  Children achieving a good level of development are those achieving at least
-  the expected level within communication and language, physical development,
-  personal and social emotional development, literacy and mathematics.
-
-
-  Children achieving at least the expected level across all early learning goals
-  (ELGs) are those achieving ‘expected’ or ‘exceeded’ in all 17 ELGs.
+STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: Percentage (%)
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -54,11 +36,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  This indicator is being used as an approximation of the UN SDG Indicator.
-  Where possible, we will work to identify or develop UK data to meet the global
-  indicator specification. This indicator has been identified in collaboration
-  with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -99,16 +77,18 @@ STAT_CONC_DEF: "The EYFSP is a teacher assessment of children’s development at
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Early years foundation stage profile results
+SOURCE_TYPE: >-
+  [Statistics: early years foundation stage
+  profile](https://www.gov.uk/government/collections/statistics-early-years-foundation-stage-profile)
 COLL_METHOD: ''
 FREQ_COLL: ''
-REL_CAL_POLICY: 01/10/2021
-DATA_SOURCE: Department for Education
-COMPILING_ORG: ''
+REL_CAL_POLICY: 1 October 2021
+DATA_SOURCE: ''
+COMPILING_ORG: Department for Education
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: ''
+REC_USE_LIM: 'This indicator is being used as an approximation of the UN SDG Indicator. '
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -119,8 +99,75 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d2e104f635a07227701fd7e85c6b5c79827a7aea
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/3a5c345e4bd4c275f3606efd90a188a180f7442f
+national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d9a981b3357b51eb53dd0d4c549971924c4747dc
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/eedf526510fc8bf02159a0e8ae41c421143c9ad7
+national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+source_organisation_1: Department for Education
+source_periodicity_1: Annual
+source_earliest_available_1: 2012/13
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.gov.uk/government/collections/statistics-early-years-foundation-stage-profile
+source_url_text_1: 'Department for Education - Statistics: early years foundation stage profile'
+source_release_date_1: 7 April 2020
+source_next_release_1: 1 October 2021
+source_statistical_classification_1: Official
+source_contact_1: EarlyYears.STATISTICS@education.gov.uk
+source_other_info_1: ''
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
