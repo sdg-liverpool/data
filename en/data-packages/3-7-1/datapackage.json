@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -52,10 +50,25 @@
             "title": "Year"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "66aec1bcbe84a7844437595ae3aa27b8",
+        "bytes": 2582,
+        "fields": 4,
+        "rows": 55
       }
     }
   ],
-  "profile": "data-package",
   "name": "3-7-1",
   "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
 }

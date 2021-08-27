@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -21,10 +19,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "8b3e098c6d443aedf756aea26468b444",
+        "bytes": 234,
+        "fields": 2,
+        "rows": 18
       }
     }
   ],
-  "profile": "data-package",
   "name": "3-3-2",
   "title": "Tuberculosis incidence per 100,000 population"
 }

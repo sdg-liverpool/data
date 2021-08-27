@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -21,10 +19,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
+        "bytes": 11,
+        "fields": 2,
+        "rows": 0
       }
     }
   ],
-  "profile": "data-package",
   "name": "16-5-1",
   "title": "Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses"
 }

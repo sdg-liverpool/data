@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -68,10 +66,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "a31c30a4484a32bb4f49b62ccca577bf",
+        "bytes": 13975,
+        "fields": 6,
+        "rows": 192
       }
     }
   ],
-  "profile": "data-package",
   "name": "1-2-2",
   "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
 }

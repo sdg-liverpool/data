@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -49,10 +47,25 @@
             "title": "Year"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "fda6b17b60bc866c7c6a19ed34651446",
+        "bytes": 1698,
+        "fields": 6,
+        "rows": 37
       }
     }
   ],
-  "profile": "data-package",
   "name": "9-c-1",
   "title": "Proportion of population covered by a mobile network, by technology"
 }

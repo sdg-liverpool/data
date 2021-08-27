@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -33,10 +31,25 @@
             "title": "Year"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "6a9d3093e0e0a7d1c378669af36444bc",
+        "bytes": 530,
+        "fields": 3,
+        "rows": 12
       }
     }
   ],
-  "profile": "data-package",
   "name": "8-8-1",
   "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
 }

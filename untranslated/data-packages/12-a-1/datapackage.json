@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -57,10 +55,25 @@
             "type": "number"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "b39a3385b4e57ec951aa134f959ec574",
+        "bytes": 3971,
+        "fields": 5,
+        "rows": 130
       }
     }
   ],
-  "profile": "data-package",
   "name": "12-a-1",
   "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
 }

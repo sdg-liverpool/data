@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -99,10 +97,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "1dbcb038e177a53ede2d5a09b1734204",
+        "bytes": 87471,
+        "fields": 5,
+        "rows": 966
       }
     }
   ],
-  "profile": "data-package",
   "name": "9-3-1",
   "title": "Proportion of small-scale industries in total industry value added"
 }

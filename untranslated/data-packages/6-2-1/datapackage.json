@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -19,10 +17,25 @@
             "type": "number"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "66accc71ad86c53e9a16d61c9c271063",
+        "bytes": 168,
+        "fields": 2,
+        "rows": 10
       }
     }
   ],
-  "profile": "data-package",
   "name": "6-2-1",
   "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
 }

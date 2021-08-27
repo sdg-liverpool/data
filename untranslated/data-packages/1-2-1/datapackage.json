@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -41,10 +39,25 @@
             "type": "integer"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "7a90d91784978884c696b8c04d848ba1",
+        "bytes": 2992,
+        "fields": 4,
+        "rows": 48
       }
     }
   ],
-  "profile": "data-package",
   "name": "1-2-1",
   "title": "Proportion of population living below the national poverty line, by sex and age"
 }

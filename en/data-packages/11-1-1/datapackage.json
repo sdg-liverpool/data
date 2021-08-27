@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -21,10 +19,25 @@
             "title": "Year"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "e94f92ead691fdc5b9a3ddd932e903a6",
+        "bytes": 94,
+        "fields": 2,
+        "rows": 11
       }
     }
   ],
-  "profile": "data-package",
   "name": "11-1-1",
   "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
 }

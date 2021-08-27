@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -30,10 +28,25 @@
             "type": "integer"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "458e63fe03ea07a942e2dd9701513f2c",
+        "bytes": 70,
+        "fields": 3,
+        "rows": 3
       }
     }
   ],
-  "profile": "data-package",
   "name": "16-9-1",
   "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
 }

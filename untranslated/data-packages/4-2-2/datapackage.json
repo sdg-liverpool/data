@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -32,10 +30,25 @@
             "type": "integer"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "f43a984fa16e2e5741890523464e86eb",
+        "bytes": 711,
+        "fields": 3,
+        "rows": 32
       }
     }
   ],
-  "profile": "data-package",
   "name": "4-2-2",
   "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
 }

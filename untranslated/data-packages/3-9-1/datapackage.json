@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -19,10 +17,25 @@
             "type": "number"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "c6507d4df20d39d4d9722056c1e5cfe5",
+        "bytes": 88,
+        "fields": 2,
+        "rows": 8
       }
     }
   ],
-  "profile": "data-package",
   "name": "3-9-1",
   "title": "Mortality rate attributed to household and ambient air pollution"
 }
