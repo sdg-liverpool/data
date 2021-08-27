@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -17,25 +19,10 @@
             "type": "number"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "4c35b9f37754f743807714e31a1fafbc",
-        "bytes": 71,
-        "fields": 2,
-        "rows": 3
       }
     }
   ],
+  "profile": "data-package",
   "name": "16-1-4",
   "title": "Proportion of population that feel safe walking alone around the area they live"
 }

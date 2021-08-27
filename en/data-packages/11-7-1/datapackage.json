@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -19,25 +21,10 @@
             "title": "Year"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "1233d13cccb7a578260270fdcd2b238e",
-        "bytes": 21,
-        "fields": 2,
-        "rows": 1
       }
     }
   ],
+  "profile": "data-package",
   "name": "11-7-1",
   "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
 }

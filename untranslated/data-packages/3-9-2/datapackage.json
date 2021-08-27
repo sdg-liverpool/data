@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -39,25 +41,10 @@
             "type": "number"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "1be05bfa1673548c1dd28c8eba2b6f03",
-        "bytes": 3037,
-        "fields": 4,
-        "rows": 60
       }
     }
   ],
+  "profile": "data-package",
   "name": "3-9-2",
   "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
 }

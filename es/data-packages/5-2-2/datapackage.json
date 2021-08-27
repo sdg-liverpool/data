@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -19,25 +21,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "fd5c6de57beaffea101e19a5ada39e32",
-        "bytes": 50,
-        "fields": 2,
-        "rows": 2
       }
     }
   ],
+  "profile": "data-package",
   "name": "5-2-2",
   "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
 }

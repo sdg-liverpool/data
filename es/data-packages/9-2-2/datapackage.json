@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -19,25 +21,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "31efaf907442d6ee7fe0112a90d541f6",
-        "bytes": 479,
-        "fields": 2,
-        "rows": 36
       }
     }
   ],
+  "profile": "data-package",
   "name": "9-2-2",
   "title": "Manufacturing employment as a proportion of total employment"
 }

@@ -3,20 +3,13 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
-      "path": "1-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -72,29 +65,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "a31c30a4484a32bb4f49b62ccca577bf",
-        "bytes": 13975,
-        "fields": 6,
-        "rows": 192
-      },
       "title": "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions"
     },
     {
+      "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
-      "path": "7-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -118,29 +98,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "a86b3cb95bc6cf0030f1d707dce3d9e1",
-        "bytes": 1477,
-        "fields": 3,
-        "rows": 87
-      },
       "title": "Proportion of population with access to electricity"
     },
     {
+      "path": "4-c-1/data.csv",
       "name": "4-c-1",
       "profile": "tabular-data-resource",
-      "path": "4-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -153,29 +120,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "d3054fec251ce562ce4945e10b104007",
-        "bytes": 51,
-        "fields": 2,
-        "rows": 4
-      },
       "title": "Proportion of teachers with the minimum required qualifications, by education level"
     },
     {
+      "path": "2-2-2/data.csv",
       "name": "2-2-2",
       "profile": "tabular-data-resource",
-      "path": "2-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -211,29 +165,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "b0b267e4a86ed3ad8c0b13b839443789",
-        "bytes": 1822,
-        "fields": 6,
-        "rows": 26
-      },
       "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)"
     },
     {
+      "path": "16-1-3/data.csv",
       "name": "16-1-3",
       "profile": "tabular-data-resource",
-      "path": "16-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -260,29 +201,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "ed3d49a2012c285b0c136b89f220f49d",
-        "bytes": 1843,
-        "fields": 3,
-        "rows": 72
-      },
       "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
     },
     {
+      "path": "11-6-2/data.csv",
       "name": "11-6-2",
       "profile": "tabular-data-resource",
-      "path": "11-6-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -294,30 +222,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "6805ffe40926c7e69e1955e3ddc3f020",
-        "bytes": 44,
-        "fields": 2,
-        "rows": 3
       },
       "title": "Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)"
     },
     {
+      "path": "11-7-1/data.csv",
       "name": "11-7-1",
       "profile": "tabular-data-resource",
-      "path": "11-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -330,29 +245,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "1233d13cccb7a578260270fdcd2b238e",
-        "bytes": 21,
-        "fields": 2,
-        "rows": 1
-      },
       "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
     },
     {
+      "path": "8-6-1/data.csv",
       "name": "8-6-1",
       "profile": "tabular-data-resource",
-      "path": "8-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -387,29 +289,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "515c433f5c4b13413debea1970ca2d80",
-        "bytes": 531,
-        "fields": 4,
-        "rows": 28
-      },
       "title": "Proportion of youth (aged 15–24 years) not in education, employment or training"
     },
     {
+      "path": "3-c-1/data.csv",
       "name": "3-c-1",
       "profile": "tabular-data-resource",
-      "path": "3-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -422,29 +311,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "374ce8924576be139cbf647940988e89",
-        "bytes": 61,
-        "fields": 2,
-        "rows": 5
-      },
       "title": "Health worker density and distribution"
     },
     {
+      "path": "16-1-1/data.csv",
       "name": "16-1-1",
       "profile": "tabular-data-resource",
-      "path": "16-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -457,29 +333,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "dba7369e296a4b0738a6741ae83be0f8",
-        "bytes": 102,
-        "fields": 2,
-        "rows": 12
-      },
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
+      "path": "8-5-1/data.csv",
       "name": "8-5-1",
       "profile": "tabular-data-resource",
-      "path": "8-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -503,29 +366,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "3941c4e8535f3e95b9d611f9d8e9885f",
-        "bytes": 831,
-        "fields": 3,
-        "rows": 43
-      },
       "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
+      "path": "15-1-1/data.csv",
       "name": "15-1-1",
       "profile": "tabular-data-resource",
-      "path": "15-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -537,30 +387,17 @@
             "type": "integer"
           }
         ]
-      },
-      "stats": {
-        "hash": "a43c36de7f196c9faa91af34fa4d4ccd",
-        "bytes": 18,
-        "fields": 2,
-        "rows": 1
       },
       "title": "Forest area as a proportion of total land area"
     },
     {
+      "path": "3-4-2/data.csv",
       "name": "3-4-2",
       "profile": "tabular-data-resource",
-      "path": "3-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -572,30 +409,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "690e8a6dca3a1da79c26eb3863262752",
-        "bytes": 161,
-        "fields": 2,
-        "rows": 16
       },
       "title": "Suicide mortality rate"
     },
     {
+      "path": "8-10-1/data.csv",
       "name": "8-10-1",
       "profile": "tabular-data-resource",
-      "path": "8-10-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -608,29 +432,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "edadfce427d0e23f2c4aca9ee8076dc5",
-        "bytes": 164,
-        "fields": 2,
-        "rows": 9
-      },
       "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
+      "path": "5-5-1/data.csv",
       "name": "5-5-1",
       "profile": "tabular-data-resource",
-      "path": "5-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -655,29 +466,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "c73320b23eaf2bbb080d77ab992dc5dd",
-        "bytes": 122,
-        "fields": 3,
-        "rows": 3
-      },
       "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
     },
     {
+      "path": "16-1-4/data.csv",
       "name": "16-1-4",
       "profile": "tabular-data-resource",
-      "path": "16-1-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -690,29 +488,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "4c35b9f37754f743807714e31a1fafbc",
-        "bytes": 71,
-        "fields": 2,
-        "rows": 3
-      },
       "title": "Proportion of population that feel safe walking alone around the area they live"
     },
     {
+      "path": "4-1-2/data.csv",
       "name": "4-1-2",
       "profile": "tabular-data-resource",
-      "path": "4-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -736,29 +521,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "2240726f89c7142dcf5be418dfcb330a",
-        "bytes": 243,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
     },
     {
+      "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
-      "path": "5-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -782,29 +554,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "3941c4e8535f3e95b9d611f9d8e9885f",
-        "bytes": 831,
-        "fields": 3,
-        "rows": 43
-      },
       "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‐discrimination on the basis of sex"
     },
     {
+      "path": "12-5-1/data.csv",
       "name": "12-5-1",
       "profile": "tabular-data-resource",
-      "path": "12-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -816,30 +575,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "264a141f0e9ddaa4fdf152cc4debc787",
-        "bytes": 95,
-        "fields": 2,
-        "rows": 6
       },
       "title": "National recycling rate, tons of material recycled"
     },
     {
+      "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
-      "path": "2-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -852,29 +598,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "9d0a52b8636f7c4d8f91604472a61d93",
-        "bytes": 116,
-        "fields": 2,
-        "rows": 7
-      },
       "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)"
     },
     {
+      "path": "17-8-1/data.csv",
       "name": "17-8-1",
       "profile": "tabular-data-resource",
-      "path": "17-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -887,29 +620,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "6282611aeb5f593540e24325eaff231e",
-        "bytes": 91,
-        "fields": 2,
-        "rows": 8
-      },
       "title": "Proportion of individuals using the Internet"
     },
     {
+      "path": "16-7-2/data.csv",
       "name": "16-7-2",
       "profile": "tabular-data-resource",
-      "path": "16-7-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -922,29 +642,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "92c855f6907c17a90ab88fcd6161adab",
-        "bytes": 77,
-        "fields": 2,
-        "rows": 6
-      },
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
+      "path": "9-c-1/data.csv",
       "name": "9-c-1",
       "profile": "tabular-data-resource",
-      "path": "9-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -981,29 +688,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "fda6b17b60bc866c7c6a19ed34651446",
-        "bytes": 1698,
-        "fields": 6,
-        "rows": 37
-      },
       "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
+      "path": "3-5-1/data.csv",
       "name": "3-5-1",
       "profile": "tabular-data-resource",
-      "path": "3-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1028,29 +722,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0c74deb3a9abc6045b861bda53ab9bfe",
-        "bytes": 475,
-        "fields": 3,
-        "rows": 18
-      },
       "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders"
     },
     {
+      "path": "9-2-2/data.csv",
       "name": "9-2-2",
       "profile": "tabular-data-resource",
-      "path": "9-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1063,29 +744,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "31efaf907442d6ee7fe0112a90d541f6",
-        "bytes": 479,
-        "fields": 2,
-        "rows": 36
-      },
       "title": "Manufacturing employment as a proportion of total employment"
     },
     {
+      "path": "7-2-1/data.csv",
       "name": "7-2-1",
       "profile": "tabular-data-resource",
-      "path": "7-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1112,29 +780,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0cd4da8786fb206cf2967fe2a37058a8",
-        "bytes": 917,
-        "fields": 3,
-        "rows": 36
-      },
       "title": "Renewable energy share in the total final energy consumption"
     },
     {
+      "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
-      "path": "4-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1211,29 +866,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "363661f5c4d66a3026922530aaa0967c",
-        "bytes": 47431,
-        "fields": 6,
-        "rows": 567
-      },
       "title": "Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex"
     },
     {
+      "path": "3-3-1/data.csv",
       "name": "3-3-1",
       "profile": "tabular-data-resource",
-      "path": "3-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1246,29 +888,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "05f562cfe8eebb1e8805002d2b204bea",
-        "bytes": 112,
-        "fields": 2,
-        "rows": 8
-      },
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "15-2-1/data.csv",
       "name": "15-2-1",
       "profile": "tabular-data-resource",
-      "path": "15-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1281,29 +910,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "9cb22d7eb45dab24e98a9bc61206cb77",
-        "bytes": 24,
-        "fields": 2,
-        "rows": 1
-      },
       "title": "Progress towards sustainable forest management"
     },
     {
+      "path": "3-a-1/data.csv",
       "name": "3-a-1",
       "profile": "tabular-data-resource",
-      "path": "3-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1327,29 +943,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "70be44ca6fb9b6afe73248015a780a89",
-        "bytes": 343,
-        "fields": 3,
-        "rows": 24
-      },
       "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
     },
     {
+      "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
-      "path": "4-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1375,29 +978,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "f43a984fa16e2e5741890523464e86eb",
-        "bytes": 711,
-        "fields": 3,
-        "rows": 32
-      },
       "title": "Participation rate in organized learning (one year before the official primary entry age), by sex"
     },
     {
+      "path": "16-6-2/data.csv",
       "name": "16-6-2",
       "profile": "tabular-data-resource",
-      "path": "16-6-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1410,29 +1000,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "409a4ad24f352d864d80f4b05e816433",
-        "bytes": 45,
-        "fields": 2,
-        "rows": 2
-      },
       "title": "Proportion of population satisfied with their last experience of public services"
     },
     {
+      "path": "3-5-2/data.csv",
       "name": "3-5-2",
       "profile": "tabular-data-resource",
-      "path": "3-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1457,29 +1034,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "72deb82ac6e3bc3812c3a2fcb877f0e1",
-        "bytes": 2193,
-        "fields": 3,
-        "rows": 34
-      },
       "title": "Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol"
     },
     {
+      "path": "3-3-3/data.csv",
       "name": "3-3-3",
       "profile": "tabular-data-resource",
-      "path": "3-3-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1507,29 +1071,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "68511f746af4fdec7ece9be280d29797",
-        "bytes": 585,
-        "fields": 4,
-        "rows": 10
-      },
       "title": "Malaria incidence per 1,000 population"
     },
     {
+      "path": "16-9-1/data.csv",
       "name": "16-9-1",
       "profile": "tabular-data-resource",
-      "path": "16-9-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1553,29 +1104,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "458e63fe03ea07a942e2dd9701513f2c",
-        "bytes": 70,
-        "fields": 3,
-        "rows": 3
-      },
       "title": "Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
     },
     {
+      "path": "4-6-1/data.csv",
       "name": "4-6-1",
       "profile": "tabular-data-resource",
-      "path": "4-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1599,29 +1137,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "7f3a9551ecc36b5a28ca8c705b4c03f1",
-        "bytes": 513,
-        "fields": 3,
-        "rows": 27
-      },
       "title": "Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex"
     },
     {
+      "path": "3-9-1/data.csv",
       "name": "3-9-1",
       "profile": "tabular-data-resource",
-      "path": "3-9-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1633,30 +1158,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "c6507d4df20d39d4d9722056c1e5cfe5",
-        "bytes": 88,
-        "fields": 2,
-        "rows": 8
       },
       "title": "Mortality rate attributed to household and ambient air pollution"
     },
     {
+      "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
-      "path": "1-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1668,30 +1180,17 @@
             "type": "integer"
           }
         ]
-      },
-      "stats": {
-        "hash": "945696eecb75a64a6660d13311dda72f",
-        "bytes": 67,
-        "fields": 2,
-        "rows": 8
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
+      "path": "9-5-1/data.csv",
       "name": "9-5-1",
       "profile": "tabular-data-resource",
-      "path": "9-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1703,30 +1202,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "1db3615ea82b869cecfdd182c2a9781d",
-        "bytes": 88,
-        "fields": 2,
-        "rows": 7
       },
       "title": "Research and development expenditure as a proportion of GDP"
     },
     {
+      "path": "8-5-2/data.csv",
       "name": "8-5-2",
       "profile": "tabular-data-resource",
-      "path": "8-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1739,29 +1225,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "3b353ce1c663dc82f95754ccd92f9217",
-        "bytes": 170,
-        "fields": 2,
-        "rows": 17
-      },
       "title": "Unemployment rate, by sex, age and persons with disabilities"
     },
     {
+      "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
-      "path": "1-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1796,29 +1269,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "7a90d91784978884c696b8c04d848ba1",
-        "bytes": 2992,
-        "fields": 4,
-        "rows": 48
-      },
       "title": "Proportion of population living below the national poverty line, by sex and age"
     },
     {
+      "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
-      "path": "3-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1831,29 +1291,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "8b3e098c6d443aedf756aea26468b444",
-        "bytes": 234,
-        "fields": 2,
-        "rows": 18
-      },
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
+      "path": "3-9-2/data.csv",
       "name": "3-9-2",
       "profile": "tabular-data-resource",
-      "path": "3-9-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1888,29 +1335,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "1be05bfa1673548c1dd28c8eba2b6f03",
-        "bytes": 3037,
-        "fields": 4,
-        "rows": 60
-      },
       "title": "Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)"
     },
     {
+      "path": "11-3-1/data.csv",
       "name": "11-3-1",
       "profile": "tabular-data-resource",
-      "path": "11-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1935,29 +1369,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "4071416b2be040f8336f77eb2ab08c2a",
-        "bytes": 194,
-        "fields": 3,
-        "rows": 3
-      },
       "title": "Ratio of land consumption rate to population growth rate"
     },
     {
+      "path": "7-b-1/data.csv",
       "name": "7-b-1",
       "profile": "tabular-data-resource",
-      "path": "7-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2008,29 +1429,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "b39a3385b4e57ec951aa134f959ec574",
-        "bytes": 3971,
-        "fields": 5,
-        "rows": 130
-      },
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
+      "path": "9-3-1/data.csv",
       "name": "9-3-1",
       "profile": "tabular-data-resource",
-      "path": "9-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2118,29 +1526,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "1dbcb038e177a53ede2d5a09b1734204",
-        "bytes": 87471,
-        "fields": 5,
-        "rows": 966
-      },
       "title": "Proportion of small-scale industries in total industry value added"
     },
     {
+      "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
-      "path": "3-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2152,30 +1547,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "3e94b2e4bdce87bcf7ccdbef5c45a63a",
-        "bytes": 44,
-        "fields": 2,
-        "rows": 3
       },
       "title": "Proportion of births attended by skilled health personnel"
     },
     {
+      "path": "3-2-2/data.csv",
       "name": "3-2-2",
       "profile": "tabular-data-resource",
-      "path": "3-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2188,29 +1570,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "f01e4b323139b0fd18d340c278a8aa19",
-        "bytes": 107,
-        "fields": 2,
-        "rows": 8
-      },
       "title": "Neonatal mortality rate"
     },
     {
+      "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
-      "path": "5-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2223,29 +1592,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "f7b5aa56f8049a3c4ac04f383181a86a",
-        "bytes": 51,
-        "fields": 2,
-        "rows": 2
-      },
       "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age"
     },
     {
+      "path": "3-b-1/data.csv",
       "name": "3-b-1",
       "profile": "tabular-data-resource",
-      "path": "3-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2289,29 +1645,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "7a3d4fd5d6d3f083055836f6a4ac7451",
-        "bytes": 5142,
-        "fields": 4,
-        "rows": 86
-      },
       "title": "Proportion of the target population covered by all vaccines included in their national programme"
     },
     {
+      "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
-      "path": "6-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2324,29 +1667,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "6e730d17abf00caa95e19d92ca0fb1fd",
-        "bytes": 316,
-        "fields": 2,
-        "rows": 18
-      },
       "title": "Proportion of population using safely managed drinking water services"
     },
     {
+      "path": "11-6-1/data.csv",
       "name": "11-6-1",
       "profile": "tabular-data-resource",
-      "path": "11-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2381,29 +1711,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "6785432388a3c71689c6f9c8f6d989b6",
-        "bytes": 1601,
-        "fields": 5,
-        "rows": 30
-      },
       "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities"
     },
     {
+      "path": "3-6-1/data.csv",
       "name": "3-6-1",
       "profile": "tabular-data-resource",
-      "path": "3-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2416,29 +1733,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0aec334d9c63b709f6b837e515d22191",
-        "bytes": 81,
-        "fields": 2,
-        "rows": 7
-      },
       "title": "Death rate due to road traffic injuries"
     },
     {
+      "path": "3-7-1/data.csv",
       "name": "3-7-1",
       "profile": "tabular-data-resource",
-      "path": "3-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2480,29 +1784,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "66aec1bcbe84a7844437595ae3aa27b8",
-        "bytes": 2582,
-        "fields": 4,
-        "rows": 55
-      },
       "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods"
     },
     {
+      "path": "8-3-1/data.csv",
       "name": "8-3-1",
       "profile": "tabular-data-resource",
-      "path": "8-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2526,29 +1817,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "9c4566a8e9027ea38296f66569d79d35",
-        "bytes": 967,
-        "fields": 3,
-        "rows": 45
-      },
       "title": "Proportion of informal employment in total employment, by sector and sex"
     },
     {
+      "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
-      "path": "3-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2585,29 +1863,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "fb5fcc7c3f44153ebe829e1eb4eef367",
-        "bytes": 6942,
-        "fields": 4,
-        "rows": 204
-      },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
+      "path": "3-3-4/data.csv",
       "name": "3-3-4",
       "profile": "tabular-data-resource",
-      "path": "3-3-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2620,29 +1885,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "599e6657870c7765243778b95f69571a",
-        "bytes": 101,
-        "fields": 2,
-        "rows": 9
-      },
       "title": "Hepatitis B incidence per 100,000 population"
     },
     {
+      "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
-      "path": "1-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2666,29 +1918,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "df5375c32695551445aeab9aaa428b8c",
-        "bytes": 69,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "global_indicators.1-1-1-title"
     },
     {
+      "path": "3-2-1/data.csv",
       "name": "3-2-1",
       "profile": "tabular-data-resource",
-      "path": "3-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2713,29 +1952,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "59d060e85bd964d7db0322ac47a5b2b0",
-        "bytes": 1027,
-        "fields": 5,
-        "rows": 17
-      },
       "title": "Under‐five mortality rate"
     },
     {
+      "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
-      "path": "4-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2770,29 +1996,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "6164c61f43a1c02c0fa809edcc8cc81d",
-        "bytes": 569,
-        "fields": 4,
-        "rows": 16
-      },
       "title": "Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex"
     },
     {
+      "path": "9-2-1/data.csv",
       "name": "9-2-1",
       "profile": "tabular-data-resource",
-      "path": "9-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2805,29 +2018,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "2577c5014a7875e40fa14b27f8546df1",
-        "bytes": 235,
-        "fields": 2,
-        "rows": 21
-      },
       "title": "Manufacturing value added as a proportion of GDP and per capita"
     },
     {
+      "path": "8-8-1/data.csv",
       "name": "8-8-1",
       "profile": "tabular-data-resource",
-      "path": "8-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2851,29 +2051,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "6a9d3093e0e0a7d1c378669af36444bc",
-        "bytes": 530,
-        "fields": 3,
-        "rows": 12
-      },
       "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
     },
     {
+      "path": "8-9-1/data.csv",
       "name": "8-9-1",
       "profile": "tabular-data-resource",
-      "path": "8-9-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2898,29 +2085,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "12ffe123879a582304fd77755c0c9950",
-        "bytes": 3505,
-        "fields": 3,
-        "rows": 66
-      },
       "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
+      "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
-      "path": "4-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2932,30 +2106,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "7d589f819e84073cc7949c96448d953d",
-        "bytes": 171,
-        "fields": 2,
-        "rows": 16
       },
       "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
+      "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
-      "path": "5-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2967,30 +2128,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "fd5c6de57beaffea101e19a5ada39e32",
-        "bytes": 50,
-        "fields": 2,
-        "rows": 2
       },
       "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
+      "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
-      "path": "7-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3003,29 +2151,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "71488ba283189bb21a7e255572d4c8e4",
-        "bytes": 101,
-        "fields": 2,
-        "rows": 9
-      },
       "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
+      "path": "5-3-2/data.csv",
       "name": "5-3-2",
       "profile": "tabular-data-resource",
-      "path": "5-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3038,29 +2173,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "682393d509d1f8011210671c59b7cf40",
-        "bytes": 32,
-        "fields": 2,
-        "rows": 2
-      },
       "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
+      "path": "11-1-1/data.csv",
       "name": "11-1-1",
       "profile": "tabular-data-resource",
-      "path": "11-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3073,29 +2195,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "e94f92ead691fdc5b9a3ddd932e903a6",
-        "bytes": 94,
-        "fields": 2,
-        "rows": 11
-      },
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
     },
     {
+      "path": "5-5-2/data.csv",
       "name": "5-5-2",
       "profile": "tabular-data-resource",
-      "path": "5-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3108,29 +2217,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "5c7ddc9ce4e6c9db23fef057959b5b1d",
-        "bytes": 165,
-        "fields": 2,
-        "rows": 17
-      },
       "title": "Proportion of women in managerial positions"
     },
     {
+      "path": "12-a-1/data.csv",
       "name": "12-a-1",
       "profile": "tabular-data-resource",
-      "path": "12-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3181,29 +2277,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "b39a3385b4e57ec951aa134f959ec574",
-        "bytes": 3971,
-        "fields": 5,
-        "rows": 130
-      },
       "title": "Installed renewable energy-generating capacity in developing countries (in watts per capita)"
     },
     {
+      "path": "3-9-3/data.csv",
       "name": "3-9-3",
       "profile": "tabular-data-resource",
-      "path": "3-9-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3227,29 +2310,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "2b51005911cd6283a1caa3306a6a4675",
-        "bytes": 377,
-        "fields": 3,
-        "rows": 24
-      },
       "title": "Mortality rate attributed to unintentional poisoning"
     },
     {
+      "path": "3-7-2/data.csv",
       "name": "3-7-2",
       "profile": "tabular-data-resource",
-      "path": "3-7-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3487,29 +2557,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "39f6ed551abe87225d5d8cd82d89b576",
-        "bytes": 1038,
-        "fields": 27,
-        "rows": 21
-      },
       "title": "Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age group"
     },
     {
+      "path": "16-7-1/data.csv",
       "name": "16-7-1",
       "profile": "tabular-data-resource",
-      "path": "16-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3544,29 +2601,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "d2a18886f149a742189aefe22d13f7fb",
-        "bytes": 2962,
-        "fields": 4,
-        "rows": 102
-      },
       "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
     },
     {
+      "path": "6-2-1/data.csv",
       "name": "6-2-1",
       "profile": "tabular-data-resource",
-      "path": "6-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3579,29 +2623,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "66accc71ad86c53e9a16d61c9c271063",
-        "bytes": 168,
-        "fields": 2,
-        "rows": 10
-      },
       "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
+      "path": "1-5-2/data.csv",
       "name": "1-5-2",
       "profile": "tabular-data-resource",
-      "path": "1-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3613,30 +2644,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-5-2-title"
     },
     {
+      "path": "14-3-1/data.csv",
       "name": "14-3-1",
       "profile": "tabular-data-resource",
-      "path": "14-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3648,30 +2666,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-3-1-title"
     },
     {
+      "path": "2-3-2/data.csv",
       "name": "2-3-2",
       "profile": "tabular-data-resource",
-      "path": "2-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3683,30 +2688,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-3-2-title"
     },
     {
+      "path": "5-6-2/data.csv",
       "name": "5-6-2",
       "profile": "tabular-data-resource",
-      "path": "5-6-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3718,30 +2710,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-6-2-title"
     },
     {
+      "path": "3-b-3/data.csv",
       "name": "3-b-3",
       "profile": "tabular-data-resource",
-      "path": "3-b-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3753,30 +2732,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-b-3-title"
     },
     {
+      "path": "5-b-1/data.csv",
       "name": "5-b-1",
       "profile": "tabular-data-resource",
-      "path": "5-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3788,30 +2754,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-b-1-title"
     },
     {
+      "path": "14-6-1/data.csv",
       "name": "14-6-1",
       "profile": "tabular-data-resource",
-      "path": "14-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3823,30 +2776,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-6-1-title"
     },
     {
+      "path": "11-2-1/data.csv",
       "name": "11-2-1",
       "profile": "tabular-data-resource",
-      "path": "11-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3858,30 +2798,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-2-1-title"
     },
     {
+      "path": "17-9-1/data.csv",
       "name": "17-9-1",
       "profile": "tabular-data-resource",
-      "path": "17-9-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3893,30 +2820,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-9-1-title"
     },
     {
+      "path": "13-1-2/data.csv",
       "name": "13-1-2",
       "profile": "tabular-data-resource",
-      "path": "13-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3928,30 +2842,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-1-2-title"
     },
     {
+      "path": "12-4-2/data.csv",
       "name": "12-4-2",
       "profile": "tabular-data-resource",
-      "path": "12-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3963,30 +2864,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-4-2-title"
     },
     {
+      "path": "15-b-1/data.csv",
       "name": "15-b-1",
       "profile": "tabular-data-resource",
-      "path": "15-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3998,30 +2886,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-b-1-title"
     },
     {
+      "path": "14-c-1/data.csv",
       "name": "14-c-1",
       "profile": "tabular-data-resource",
-      "path": "14-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4033,30 +2908,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-c-1-title"
     },
     {
+      "path": "2-c-1/data.csv",
       "name": "2-c-1",
       "profile": "tabular-data-resource",
-      "path": "2-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4068,30 +2930,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-c-1-title"
     },
     {
+      "path": "12-3-1/data.csv",
       "name": "12-3-1",
       "profile": "tabular-data-resource",
-      "path": "12-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4103,30 +2952,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-3-1-title"
     },
     {
+      "path": "16-3-3/data.csv",
       "name": "16-3-3",
       "profile": "tabular-data-resource",
-      "path": "16-3-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4138,30 +2974,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-3-3-title"
     },
     {
+      "path": "15-6-1/data.csv",
       "name": "15-6-1",
       "profile": "tabular-data-resource",
-      "path": "15-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4173,30 +2996,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-6-1-title"
     },
     {
+      "path": "8-8-2/data.csv",
       "name": "8-8-2",
       "profile": "tabular-data-resource",
-      "path": "8-8-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4208,30 +3018,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-8-2-title"
     },
     {
+      "path": "10-7-3/data.csv",
       "name": "10-7-3",
       "profile": "tabular-data-resource",
-      "path": "10-7-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4243,30 +3040,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-7-3-title"
     },
     {
+      "path": "15-3-1/data.csv",
       "name": "15-3-1",
       "profile": "tabular-data-resource",
-      "path": "15-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4278,30 +3062,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-3-1-title"
     },
     {
+      "path": "13-1-1/data.csv",
       "name": "13-1-1",
       "profile": "tabular-data-resource",
-      "path": "13-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4313,30 +3084,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-1-1-title"
     },
     {
+      "path": "16-b-1/data.csv",
       "name": "16-b-1",
       "profile": "tabular-data-resource",
-      "path": "16-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4348,30 +3106,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-b-1-title"
     },
     {
+      "path": "16-1-2/data.csv",
       "name": "16-1-2",
       "profile": "tabular-data-resource",
-      "path": "16-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4383,30 +3128,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-1-2-title"
     },
     {
+      "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
-      "path": "15-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4418,30 +3150,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-4-2-title"
     },
     {
+      "path": "9-1-1/data.csv",
       "name": "9-1-1",
       "profile": "tabular-data-resource",
-      "path": "9-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4453,30 +3172,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-1-1-title"
     },
     {
+      "path": "16-4-2/data.csv",
       "name": "16-4-2",
       "profile": "tabular-data-resource",
-      "path": "16-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4488,30 +3194,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-4-2-title"
     },
     {
+      "path": "1-b-1/data.csv",
       "name": "1-b-1",
       "profile": "tabular-data-resource",
-      "path": "1-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4523,30 +3216,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-b-1-title"
     },
     {
+      "path": "11-3-2/data.csv",
       "name": "11-3-2",
       "profile": "tabular-data-resource",
-      "path": "11-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4558,30 +3238,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-3-2-title"
     },
     {
+      "path": "17-15-1/data.csv",
       "name": "17-15-1",
       "profile": "tabular-data-resource",
-      "path": "17-15-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4593,30 +3260,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-15-1-title"
     },
     {
+      "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
-      "path": "2-2-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4628,30 +3282,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-2-3-title"
     },
     {
+      "path": "16-4-1/data.csv",
       "name": "16-4-1",
       "profile": "tabular-data-resource",
-      "path": "16-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4663,30 +3304,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-4-1-title"
     },
     {
+      "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
-      "path": "6-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4698,30 +3326,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-3-1-title"
     },
     {
+      "path": "8-b-1/data.csv",
       "name": "8-b-1",
       "profile": "tabular-data-resource",
-      "path": "8-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4733,30 +3348,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy"
     },
     {
+      "path": "17-5-1/data.csv",
       "name": "17-5-1",
       "profile": "tabular-data-resource",
-      "path": "17-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4768,30 +3370,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-5-1-title"
     },
     {
+      "path": "2-a-1/data.csv",
       "name": "2-a-1",
       "profile": "tabular-data-resource",
-      "path": "2-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4803,30 +3392,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-a-1-title"
     },
     {
+      "path": "14-2-1/data.csv",
       "name": "14-2-1",
       "profile": "tabular-data-resource",
-      "path": "14-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4838,30 +3414,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-2-1-title"
     },
     {
+      "path": "5-a-2/data.csv",
       "name": "5-a-2",
       "profile": "tabular-data-resource",
-      "path": "5-a-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4873,30 +3436,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control"
     },
     {
+      "path": "5-c-1/data.csv",
       "name": "5-c-1",
       "profile": "tabular-data-resource",
-      "path": "5-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4908,30 +3458,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-c-1-title"
     },
     {
+      "path": "15-c-1/data.csv",
       "name": "15-c-1",
       "profile": "tabular-data-resource",
-      "path": "15-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4943,30 +3480,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-c-1-title"
     },
     {
+      "path": "9-3-2/data.csv",
       "name": "9-3-2",
       "profile": "tabular-data-resource",
-      "path": "9-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4978,30 +3502,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-3-2-title"
     },
     {
+      "path": "6-6-1/data.csv",
       "name": "6-6-1",
       "profile": "tabular-data-resource",
-      "path": "6-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5013,30 +3524,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-6-1-title"
     },
     {
+      "path": "12-2-1/data.csv",
       "name": "12-2-1",
       "profile": "tabular-data-resource",
-      "path": "12-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5048,30 +3546,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-2-1-title"
     },
     {
+      "path": "4-b-1/data.csv",
       "name": "4-b-1",
       "profile": "tabular-data-resource",
-      "path": "4-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5083,30 +3568,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.4-b-1-title"
     },
     {
+      "path": "10-4-1/data.csv",
       "name": "10-4-1",
       "profile": "tabular-data-resource",
-      "path": "10-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5118,30 +3590,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-4-1-title"
     },
     {
+      "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
-      "path": "2-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5153,30 +3612,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-1-1-title"
     },
     {
+      "path": "17-6-1/data.csv",
       "name": "17-6-1",
       "profile": "tabular-data-resource",
-      "path": "17-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5188,30 +3634,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-6-1-title"
     },
     {
+      "path": "10-6-1/data.csv",
       "name": "10-6-1",
       "profile": "tabular-data-resource",
-      "path": "10-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5223,30 +3656,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-6-1-title"
     },
     {
+      "path": "12-7-1/data.csv",
       "name": "12-7-1",
       "profile": "tabular-data-resource",
-      "path": "12-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5258,30 +3678,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-7-1-title"
     },
     {
+      "path": "1-3-1/data.csv",
       "name": "1-3-1",
       "profile": "tabular-data-resource",
-      "path": "1-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5293,30 +3700,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-3-1-title"
     },
     {
+      "path": "10-7-2/data.csv",
       "name": "10-7-2",
       "profile": "tabular-data-resource",
-      "path": "10-7-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5328,30 +3722,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-7-2-title"
     },
     {
+      "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
-      "path": "6-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5363,30 +3744,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-4-1-title"
     },
     {
+      "path": "17-17-1/data.csv",
       "name": "17-17-1",
       "profile": "tabular-data-resource",
-      "path": "17-17-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5398,30 +3766,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-17-1-title"
     },
     {
+      "path": "17-18-1/data.csv",
       "name": "17-18-1",
       "profile": "tabular-data-resource",
-      "path": "17-18-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5433,30 +3788,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-18-1-title"
     },
     {
+      "path": "9-4-1/data.csv",
       "name": "9-4-1",
       "profile": "tabular-data-resource",
-      "path": "9-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5468,30 +3810,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-4-1-title"
     },
     {
+      "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
-      "path": "1-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5503,30 +3832,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-4-1-title"
     },
     {
+      "path": "13-2-2/data.csv",
       "name": "13-2-2",
       "profile": "tabular-data-resource",
-      "path": "13-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5538,30 +3854,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-2-2-title"
     },
     {
+      "path": "6-5-2/data.csv",
       "name": "6-5-2",
       "profile": "tabular-data-resource",
-      "path": "6-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5573,30 +3876,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-5-2-title"
     },
     {
+      "path": "7-3-1/data.csv",
       "name": "7-3-1",
       "profile": "tabular-data-resource",
-      "path": "7-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5608,30 +3898,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.7-3-1-title"
     },
     {
+      "path": "14-1-1/data.csv",
       "name": "14-1-1",
       "profile": "tabular-data-resource",
-      "path": "14-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5643,30 +3920,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-1-1-title"
     },
     {
+      "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
-      "path": "14-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5678,30 +3942,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-5-1-title"
     },
     {
+      "path": "11-5-1/data.csv",
       "name": "11-5-1",
       "profile": "tabular-data-resource",
-      "path": "11-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5713,30 +3964,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-5-1-title"
     },
     {
+      "path": "11-a-1/data.csv",
       "name": "11-a-1",
       "profile": "tabular-data-resource",
-      "path": "11-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5748,30 +3986,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-a-1-title"
     },
     {
+      "path": "14-7-1/data.csv",
       "name": "14-7-1",
       "profile": "tabular-data-resource",
-      "path": "14-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5783,30 +4008,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-7-1-title"
     },
     {
+      "path": "17-12-1/data.csv",
       "name": "17-12-1",
       "profile": "tabular-data-resource",
-      "path": "17-12-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5818,30 +4030,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-12-1-title"
     },
     {
+      "path": "17-16-1/data.csv",
       "name": "17-16-1",
       "profile": "tabular-data-resource",
-      "path": "17-16-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5853,30 +4052,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals"
     },
     {
+      "path": "3-3-5/data.csv",
       "name": "3-3-5",
       "profile": "tabular-data-resource",
-      "path": "3-3-5/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5888,30 +4074,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-3-5-title"
     },
     {
+      "path": "6-3-2/data.csv",
       "name": "6-3-2",
       "profile": "tabular-data-resource",
-      "path": "6-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5923,30 +4096,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-3-2-title"
     },
     {
+      "path": "1-5-4/data.csv",
       "name": "1-5-4",
       "profile": "tabular-data-resource",
-      "path": "1-5-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5958,30 +4118,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
+      "path": "12-c-1/data.csv",
       "name": "12-c-1",
       "profile": "tabular-data-resource",
-      "path": "12-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5993,30 +4140,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-c-1-title"
     },
     {
+      "path": "7-a-1/data.csv",
       "name": "7-a-1",
       "profile": "tabular-data-resource",
-      "path": "7-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6028,30 +4162,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.7-a-1-title"
     },
     {
+      "path": "12-b-1/data.csv",
       "name": "12-b-1",
       "profile": "tabular-data-resource",
-      "path": "12-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6063,30 +4184,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
+      "path": "3-b-2/data.csv",
       "name": "3-b-2",
       "profile": "tabular-data-resource",
-      "path": "3-b-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6098,30 +4206,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-b-2-title"
     },
     {
+      "path": "8-2-1/data.csv",
       "name": "8-2-1",
       "profile": "tabular-data-resource",
-      "path": "8-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6133,30 +4228,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-2-1-title"
     },
     {
+      "path": "17-2-1/data.csv",
       "name": "17-2-1",
       "profile": "tabular-data-resource",
-      "path": "17-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6168,30 +4250,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-2-1-title"
     },
     {
+      "path": "16-5-1/data.csv",
       "name": "16-5-1",
       "profile": "tabular-data-resource",
-      "path": "16-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6203,30 +4272,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-5-1-title"
     },
     {
+      "path": "15-1-2/data.csv",
       "name": "15-1-2",
       "profile": "tabular-data-resource",
-      "path": "15-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6238,30 +4294,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-1-2-title"
     },
     {
+      "path": "2-5-1/data.csv",
       "name": "2-5-1",
       "profile": "tabular-data-resource",
-      "path": "2-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6273,30 +4316,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-5-1-title"
     },
     {
+      "path": "10-3-1/data.csv",
       "name": "10-3-1",
       "profile": "tabular-data-resource",
-      "path": "10-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6308,30 +4338,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-3-1-title"
     },
     {
+      "path": "10-a-1/data.csv",
       "name": "10-a-1",
       "profile": "tabular-data-resource",
-      "path": "10-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6343,30 +4360,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-a-1-title"
     },
     {
+      "path": "16-5-2/data.csv",
       "name": "16-5-2",
       "profile": "tabular-data-resource",
-      "path": "16-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6378,30 +4382,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-5-2-title"
     },
     {
+      "path": "8-4-2/data.csv",
       "name": "8-4-2",
       "profile": "tabular-data-resource",
-      "path": "8-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6413,30 +4404,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-4-2-title"
     },
     {
+      "path": "16-2-2/data.csv",
       "name": "16-2-2",
       "profile": "tabular-data-resource",
-      "path": "16-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6448,30 +4426,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-2-2-title"
     },
     {
+      "path": "16-3-1/data.csv",
       "name": "16-3-1",
       "profile": "tabular-data-resource",
-      "path": "16-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6483,30 +4448,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-3-1-title"
     },
     {
+      "path": "11-5-2/data.csv",
       "name": "11-5-2",
       "profile": "tabular-data-resource",
-      "path": "11-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6518,30 +4470,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-5-2-title"
     },
     {
+      "path": "10-1-1/data.csv",
       "name": "10-1-1",
       "profile": "tabular-data-resource",
-      "path": "10-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6553,30 +4492,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-1-1-title"
     },
     {
+      "path": "4-7-1/data.csv",
       "name": "4-7-1",
       "profile": "tabular-data-resource",
-      "path": "4-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6588,30 +4514,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.4-7-1-title"
     },
     {
+      "path": "6-5-1/data.csv",
       "name": "6-5-1",
       "profile": "tabular-data-resource",
-      "path": "6-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6623,30 +4536,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-5-1-title"
     },
     {
+      "path": "2-a-2/data.csv",
       "name": "2-a-2",
       "profile": "tabular-data-resource",
-      "path": "2-a-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6658,30 +4558,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-a-2-title"
     },
     {
+      "path": "15-5-1/data.csv",
       "name": "15-5-1",
       "profile": "tabular-data-resource",
-      "path": "15-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6693,30 +4580,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-5-1-title"
     },
     {
+      "path": "17-18-2/data.csv",
       "name": "17-18-2",
       "profile": "tabular-data-resource",
-      "path": "17-18-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6728,30 +4602,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-18-2-title"
     },
     {
+      "path": "3-d-2/data.csv",
       "name": "3-d-2",
       "profile": "tabular-data-resource",
-      "path": "3-d-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6763,30 +4624,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-d-2-title"
     },
     {
+      "path": "17-19-2/data.csv",
       "name": "17-19-2",
       "profile": "tabular-data-resource",
-      "path": "17-19-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6798,30 +4646,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-19-2-title"
     },
     {
+      "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
-      "path": "6-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6833,30 +4668,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-a-1-title"
     },
     {
+      "path": "17-4-1/data.csv",
       "name": "17-4-1",
       "profile": "tabular-data-resource",
-      "path": "17-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6868,30 +4690,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-4-1-title"
     },
     {
+      "path": "14-4-1/data.csv",
       "name": "14-4-1",
       "profile": "tabular-data-resource",
-      "path": "14-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6903,30 +4712,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-4-1-title"
     },
     {
+      "path": "12-8-1/data.csv",
       "name": "12-8-1",
       "profile": "tabular-data-resource",
-      "path": "12-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6938,30 +4734,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-8-1-title"
     },
     {
+      "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
-      "path": "8-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -6973,30 +4756,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-1-1-title"
     },
     {
+      "path": "17-7-1/data.csv",
       "name": "17-7-1",
       "profile": "tabular-data-resource",
-      "path": "17-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7008,30 +4778,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-7-1-title"
     },
     {
+      "path": "9-b-1/data.csv",
       "name": "9-b-1",
       "profile": "tabular-data-resource",
-      "path": "9-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7043,30 +4800,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-b-1-title"
     },
     {
+      "path": "8-4-1/data.csv",
       "name": "8-4-1",
       "profile": "tabular-data-resource",
-      "path": "8-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7078,30 +4822,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-4-1-title"
     },
     {
+      "path": "8-7-1/data.csv",
       "name": "8-7-1",
       "profile": "tabular-data-resource",
-      "path": "8-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7113,30 +4844,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-7-1-title"
     },
     {
+      "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
-      "path": "3-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7148,30 +4866,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-1-1-title"
     },
     {
+      "path": "9-a-1/data.csv",
       "name": "9-a-1",
       "profile": "tabular-data-resource",
-      "path": "9-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7183,30 +4888,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-a-1-title"
     },
     {
+      "path": "17-11-1/data.csv",
       "name": "17-11-1",
       "profile": "tabular-data-resource",
-      "path": "17-11-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7218,30 +4910,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-11-1-title"
     },
     {
+      "path": "16-6-1/data.csv",
       "name": "16-6-1",
       "profile": "tabular-data-resource",
-      "path": "16-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7253,30 +4932,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-6-1-title"
     },
     {
+      "path": "17-3-2/data.csv",
       "name": "17-3-2",
       "profile": "tabular-data-resource",
-      "path": "17-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7288,30 +4954,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-3-2-title"
     },
     {
+      "path": "10-7-1/data.csv",
       "name": "10-7-1",
       "profile": "tabular-data-resource",
-      "path": "10-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7323,30 +4976,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-7-1-title"
     },
     {
+      "path": "10-5-1/data.csv",
       "name": "10-5-1",
       "profile": "tabular-data-resource",
-      "path": "10-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7358,30 +4998,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-5-1-title"
     },
     {
+      "path": "6-4-2/data.csv",
       "name": "6-4-2",
       "profile": "tabular-data-resource",
-      "path": "6-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7393,30 +5020,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-4-2-title"
     },
     {
+      "path": "17-1-2/data.csv",
       "name": "17-1-2",
       "profile": "tabular-data-resource",
-      "path": "17-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7428,30 +5042,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-1-2-title"
     },
     {
+      "path": "11-b-2/data.csv",
       "name": "11-b-2",
       "profile": "tabular-data-resource",
-      "path": "11-b-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7463,30 +5064,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-b-2-title"
     },
     {
+      "path": "15-8-1/data.csv",
       "name": "15-8-1",
       "profile": "tabular-data-resource",
-      "path": "15-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7498,30 +5086,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-8-1-title"
     },
     {
+      "path": "12-4-1/data.csv",
       "name": "12-4-1",
       "profile": "tabular-data-resource",
-      "path": "12-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7533,30 +5108,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-4-1-title"
     },
     {
+      "path": "16-8-1/data.csv",
       "name": "16-8-1",
       "profile": "tabular-data-resource",
-      "path": "16-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7568,30 +5130,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-8-1-title"
     },
     {
+      "path": "4-5-1/data.csv",
       "name": "4-5-1",
       "profile": "tabular-data-resource",
-      "path": "4-5-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7603,30 +5152,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.4-5-1-title"
     },
     {
+      "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
-      "path": "5-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7638,30 +5174,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-3-1-title"
     },
     {
+      "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
-      "path": "9-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7673,30 +5196,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-5-2-title"
     },
     {
+      "path": "3-8-1/data.csv",
       "name": "3-8-1",
       "profile": "tabular-data-resource",
-      "path": "3-8-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7708,30 +5218,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-8-1-title"
     },
     {
+      "path": "2-3-1/data.csv",
       "name": "2-3-1",
       "profile": "tabular-data-resource",
-      "path": "2-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7743,30 +5240,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-3-1-title"
     },
     {
+      "path": "8-10-2/data.csv",
       "name": "8-10-2",
       "profile": "tabular-data-resource",
-      "path": "8-10-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7778,30 +5262,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-10-2-title"
     },
     {
+      "path": "9-1-2/data.csv",
       "name": "9-1-2",
       "profile": "tabular-data-resource",
-      "path": "9-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7813,30 +5284,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.9-1-2-title"
     },
     {
+      "path": "5-a-1/data.csv",
       "name": "5-a-1",
       "profile": "tabular-data-resource",
-      "path": "5-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7848,30 +5306,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-a-1-title"
     },
     {
+      "path": "12-2-2/data.csv",
       "name": "12-2-2",
       "profile": "tabular-data-resource",
-      "path": "12-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7883,30 +5328,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-2-2-title"
     },
     {
+      "path": "12-6-1/data.csv",
       "name": "12-6-1",
       "profile": "tabular-data-resource",
-      "path": "12-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7918,30 +5350,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.12-6-1-title"
     },
     {
+      "path": "11-4-1/data.csv",
       "name": "11-4-1",
       "profile": "tabular-data-resource",
-      "path": "11-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7953,30 +5372,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-4-1-title"
     },
     {
+      "path": "17-10-1/data.csv",
       "name": "17-10-1",
       "profile": "tabular-data-resource",
-      "path": "17-10-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -7988,30 +5394,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-10-1-title"
     },
     {
+      "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
-      "path": "4-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8023,30 +5416,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.4-4-1-title"
     },
     {
+      "path": "8-a-1/data.csv",
       "name": "8-a-1",
       "profile": "tabular-data-resource",
-      "path": "8-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8058,30 +5438,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.8-a-1-title"
     },
     {
+      "path": "1-a-2/data.csv",
       "name": "1-a-2",
       "profile": "tabular-data-resource",
-      "path": "1-a-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8093,30 +5460,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-a-2-title"
     },
     {
+      "path": "16-10-2/data.csv",
       "name": "16-10-2",
       "profile": "tabular-data-resource",
-      "path": "16-10-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8128,30 +5482,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-10-2-title"
     },
     {
+      "path": "10-b-1/data.csv",
       "name": "10-b-1",
       "profile": "tabular-data-resource",
-      "path": "10-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8163,30 +5504,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-b-1-title"
     },
     {
+      "path": "14-b-1/data.csv",
       "name": "14-b-1",
       "profile": "tabular-data-resource",
-      "path": "14-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8198,30 +5526,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-b-1-title"
     },
     {
+      "path": "15-7-1/data.csv",
       "name": "15-7-1",
       "profile": "tabular-data-resource",
-      "path": "15-7-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8233,30 +5548,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-7-1-title"
     },
     {
+      "path": "17-18-3/data.csv",
       "name": "17-18-3",
       "profile": "tabular-data-resource",
-      "path": "17-18-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8268,30 +5570,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-18-3-title"
     },
     {
+      "path": "13-2-1/data.csv",
       "name": "13-2-1",
       "profile": "tabular-data-resource",
-      "path": "13-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8303,30 +5592,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Number of countries with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
     },
     {
+      "path": "4-a-1/data.csv",
       "name": "4-a-1",
       "profile": "tabular-data-resource",
-      "path": "4-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8338,30 +5614,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.4-a-1-title"
     },
     {
+      "path": "3-8-2/data.csv",
       "name": "3-8-2",
       "profile": "tabular-data-resource",
-      "path": "3-8-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8373,30 +5636,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-8-2-title"
     },
     {
+      "path": "10-4-2/data.csv",
       "name": "10-4-2",
       "profile": "tabular-data-resource",
-      "path": "10-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8408,30 +5658,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-4-2-title"
     },
     {
+      "path": "10-c-1/data.csv",
       "name": "10-c-1",
       "profile": "tabular-data-resource",
-      "path": "10-c-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8443,30 +5680,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-c-1-title"
     },
     {
+      "path": "11-7-2/data.csv",
       "name": "11-7-2",
       "profile": "tabular-data-resource",
-      "path": "11-7-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8478,30 +5702,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-7-2-title"
     },
     {
+      "path": "15-9-1/data.csv",
       "name": "15-9-1",
       "profile": "tabular-data-resource",
-      "path": "15-9-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8513,30 +5724,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-9-1-title"
     },
     {
+      "path": "13-3-1/data.csv",
       "name": "13-3-1",
       "profile": "tabular-data-resource",
-      "path": "13-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8548,30 +5746,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-3-1-title"
     },
     {
+      "path": "2-b-1/data.csv",
       "name": "2-b-1",
       "profile": "tabular-data-resource",
-      "path": "2-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8583,30 +5768,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-b-1-title"
     },
     {
+      "path": "17-3-1/data.csv",
       "name": "17-3-1",
       "profile": "tabular-data-resource",
-      "path": "17-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8618,30 +5790,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-3-1-title"
     },
     {
+      "path": "13-a-1/data.csv",
       "name": "13-a-1",
       "profile": "tabular-data-resource",
-      "path": "13-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8653,30 +5812,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-a-1-title"
     },
     {
+      "path": "16-2-3/data.csv",
       "name": "16-2-3",
       "profile": "tabular-data-resource",
-      "path": "16-2-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8688,30 +5834,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-2-3-title"
     },
     {
+      "path": "13-b-1/data.csv",
       "name": "13-b-1",
       "profile": "tabular-data-resource",
-      "path": "13-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8723,30 +5856,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.13-b-1-title"
     },
     {
+      "path": "17-19-1/data.csv",
       "name": "17-19-1",
       "profile": "tabular-data-resource",
-      "path": "17-19-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8758,30 +5878,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-19-1-title"
     },
     {
+      "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
-      "path": "2-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8793,30 +5900,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-2-1-title"
     },
     {
+      "path": "11-b-1/data.csv",
       "name": "11-b-1",
       "profile": "tabular-data-resource",
-      "path": "11-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8828,30 +5922,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.11-b-1-title"
     },
     {
+      "path": "16-a-1/data.csv",
       "name": "16-a-1",
       "profile": "tabular-data-resource",
-      "path": "16-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8863,30 +5944,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-a-1-title"
     },
     {
+      "path": "14-a-1/data.csv",
       "name": "14-a-1",
       "profile": "tabular-data-resource",
-      "path": "14-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8898,30 +5966,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.14-a-1-title"
     },
     {
+      "path": "2-5-2/data.csv",
       "name": "2-5-2",
       "profile": "tabular-data-resource",
-      "path": "2-5-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8933,30 +5988,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-5-2-title"
     },
     {
+      "path": "16-10-1/data.csv",
       "name": "16-10-1",
       "profile": "tabular-data-resource",
-      "path": "16-10-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -8968,30 +6010,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-10-1-title"
     },
     {
+      "path": "15-a-1/data.csv",
       "name": "15-a-1",
       "profile": "tabular-data-resource",
-      "path": "15-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9003,30 +6032,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-a-1-title"
     },
     {
+      "path": "1-a-1/data.csv",
       "name": "1-a-1",
       "profile": "tabular-data-resource",
-      "path": "1-a-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9038,30 +6054,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-a-1-title"
     },
     {
+      "path": "17-14-1/data.csv",
       "name": "17-14-1",
       "profile": "tabular-data-resource",
-      "path": "17-14-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9073,30 +6076,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-14-1-title"
     },
     {
+      "path": "15-4-1/data.csv",
       "name": "15-4-1",
       "profile": "tabular-data-resource",
-      "path": "15-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9108,30 +6098,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.15-4-1-title"
     },
     {
+      "path": "13-1-3/data.csv",
       "name": "13-1-3",
       "profile": "tabular-data-resource",
-      "path": "13-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9143,30 +6120,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
     },
     {
+      "path": "16-2-1/data.csv",
       "name": "16-2-1",
       "profile": "tabular-data-resource",
-      "path": "16-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9178,30 +6142,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-2-1-title"
     },
     {
+      "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
-      "path": "10-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9213,30 +6164,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-2-1-title"
     },
     {
+      "path": "5-6-1/data.csv",
       "name": "5-6-1",
       "profile": "tabular-data-resource",
-      "path": "5-6-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9248,30 +6186,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-6-1-title"
     },
     {
+      "path": "5-4-1/data.csv",
       "name": "5-4-1",
       "profile": "tabular-data-resource",
-      "path": "5-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9283,30 +6208,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.5-4-1-title"
     },
     {
+      "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
-      "path": "17-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9318,30 +6230,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-1-1-title"
     },
     {
+      "path": "1-5-3/data.csv",
       "name": "1-5-3",
       "profile": "tabular-data-resource",
-      "path": "1-5-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9353,30 +6252,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030"
     },
     {
+      "path": "16-3-2/data.csv",
       "name": "16-3-2",
       "profile": "tabular-data-resource",
-      "path": "16-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9388,30 +6274,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.16-3-2-title"
     },
     {
+      "path": "10-7-4/data.csv",
       "name": "10-7-4",
       "profile": "tabular-data-resource",
-      "path": "10-7-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9423,30 +6296,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.10-7-4-title"
     },
     {
+      "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
-      "path": "1-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9458,30 +6318,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.1-4-2-title"
     },
     {
+      "path": "17-13-1/data.csv",
       "name": "17-13-1",
       "profile": "tabular-data-resource",
-      "path": "17-13-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9493,30 +6340,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.17-13-1-title"
     },
     {
+      "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
-      "path": "2-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9528,30 +6362,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.2-4-1-title"
     },
     {
+      "path": "6-b-1/data.csv",
       "name": "6-b-1",
       "profile": "tabular-data-resource",
-      "path": "6-b-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9563,30 +6384,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.6-b-1-title"
     },
     {
+      "path": "3-d-1/data.csv",
       "name": "3-d-1",
       "profile": "tabular-data-resource",
-      "path": "3-d-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9598,30 +6406,17 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "global_indicators.3-d-1-title"
     },
     {
+      "path": "12-1-1/data.csv",
       "name": "12-1-1",
       "profile": "tabular-data-resource",
-      "path": "12-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -9633,12 +6428,6 @@
             "type": "number"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
     }

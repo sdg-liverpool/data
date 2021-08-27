@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -19,25 +21,10 @@
             "title": "Year"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "1db3615ea82b869cecfdd182c2a9781d",
-        "bytes": 88,
-        "fields": 2,
-        "rows": 7
       }
     }
   ],
+  "profile": "data-package",
   "name": "9-5-1",
   "title": "Research and development expenditure as a proportion of GDP"
 }

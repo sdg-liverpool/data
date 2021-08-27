@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -17,25 +19,10 @@
             "type": "number"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "05f562cfe8eebb1e8805002d2b204bea",
-        "bytes": 112,
-        "fields": 2,
-        "rows": 8
       }
     }
   ],
+  "profile": "data-package",
   "name": "3-3-1",
   "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
 }

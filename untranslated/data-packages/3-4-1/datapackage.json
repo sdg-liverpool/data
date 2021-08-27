@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -41,25 +43,10 @@
             "type": "number"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "fb5fcc7c3f44153ebe829e1eb4eef367",
-        "bytes": 6942,
-        "fields": 4,
-        "rows": 204
       }
     }
   ],
+  "profile": "data-package",
   "name": "3-4-1",
   "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
 }

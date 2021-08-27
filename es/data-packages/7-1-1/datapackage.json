@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -31,25 +33,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "a86b3cb95bc6cf0030f1d707dce3d9e1",
-        "bytes": 1477,
-        "fields": 3,
-        "rows": 87
       }
     }
   ],
+  "profile": "data-package",
   "name": "7-1-1",
   "title": "Proportion of population with access to electricity"
 }

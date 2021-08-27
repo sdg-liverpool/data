@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -19,25 +21,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "409a4ad24f352d864d80f4b05e816433",
-        "bytes": 45,
-        "fields": 2,
-        "rows": 2
       }
     }
   ],
+  "profile": "data-package",
   "name": "16-6-2",
   "title": "Proportion of population satisfied with their last experience of public services"
 }
