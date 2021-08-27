@@ -27,12 +27,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Intimate partner violence includes any abuse perpetrated by a current or
-  former partner. Any partner abuse includes non-physical abuse, threats, force,
-  sexual assault or stalking. The Crime Survey for England and Wales User guide
-  provides definitions of various types of domestic abuse.
-UNIT_MEASURE__GLOBAL: Percentage (%)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -89,15 +85,14 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: 'Percentage (%) '
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: |-
-  Domestic abuse prevalence and victim characteristics
-
-  Data from tables 7a (2018/19) and 7 (2019/20)
+SOURCE_TYPE: >-
+  [Domestic abuse prevalence and victim
+  characteristics](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/domesticabuseprevalenceandvictimcharacteristicsappendixtables)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
 DATA_SOURCE: ''
-COMPILING_ORG: ''
+COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -117,5 +112,72 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/4f3ae76732a8cdd5f3579e061bd842326c42a4b2
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/2cbe22d2b00e8cda7f4c44e1e12c09ac0fd4d5c8
-national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/ebe71bac5beae37d96e7c07eef702a75b88d52f6
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
+source_organisation_1: Office for National Statistics
+source_periodicity_1: Annual
+source_earliest_available_1: 2018/19
+source_geographical_coverage_1: North West England
+source_url_1: >-
+  https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/domesticabuseprevalenceandvictimcharacteristicsappendixtables
+source_url_text_1: ONS - Domestic abuse prevalence and victim characteristics - Appendix tables
+source_release_date_1: 25 November 2020
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: crimestatistics@ons.gov.uk
+source_other_info_1: Data from tables 7a (2018/19) and 7 (2019/20).
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
