@@ -20,7 +20,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -32,9 +32,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Data follows the UN specification for this indicator. This indicator has been
-  identified in collaboration with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -72,18 +70,13 @@ UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Annual Population Survey
-
-
-  SOC2010 data used. Data shows % females in employment who are managers,
-  directors and senior officials
+  [Annual Population
+  Survey](https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=17)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: >-
-  Office for National Statistics. Data from Nomis - Official Labour Market
-  Statistics
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -101,5 +94,74 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/a55e0334ef430e7a45adee3943a7b03f8de84437
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4890e3e881b2b19e5679a60178bea1c749b06c84
-national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/5d399f29c10282f4b56720d7ae5b2d33e01eb5eb
+national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
+source_organisation_1: Office for National Statistics
+source_periodicity_1: 'Annual '
+source_earliest_available_1: '2004'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=17
+source_url_text_1: Nomis - Annual population survey
+source_release_date_1: ''
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: support@nomisweb.co.uk
+source_other_info_1: >-
+  'Occupation (SOC2010) major group of employment' data used. Data shows %
+  females in employment who are managers, directors and senior officials.
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
