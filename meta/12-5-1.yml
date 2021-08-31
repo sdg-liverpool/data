@@ -18,7 +18,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -66,17 +66,13 @@ UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  ENV18 - Local authority collected waste: annual results tables
-
-
-  Data from 'Local authority collected waste generation from April 2000 to March
-  2020 (England and regions) and local authority data April 2019 to March 2020'
-  Table 1
+  [ENV18 - Local authority collected waste: annual results
+  tables](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: 'Department for Environment, Food and Rural Affairs'
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: 'Department for Environment, Food and Rural Affairs'
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -94,5 +90,77 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/bff0bdea94416c4eb495daa00186969f5e11631f
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/5306faeb12bfe98a5c1d01073d0d5b293731ae71
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/8c7cc7481758d2ed81f7e387a5eff54d7883ae67
+national_metadata_update_url_text: '2021-08-20: see changes on GitHub'
+source_organisation_1: 'Department for Environment, Food and Rural Affairs'
+source_periodicity_1: Annual
+source_earliest_available_1: 2014/15
+source_geographical_coverage_1: Liverpool City Council
+source_url_1: >-
+  https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables
+source_url_text_1: >-
+  Department for Environment, Food and Rural Affairs - ENV18 - Local authority
+  collected waste: annual results tables
+source_release_date_1: 3 March 2021
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: enviro.statistics@defra.gov.uk
+source_other_info_1: >-
+  Data from 'Local authority collected waste generation from April 2000 to March
+  2020 (England and regions) and local authority data April 2019 to March 2020'
+  Table 1
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
