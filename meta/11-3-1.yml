@@ -21,9 +21,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: >-
-  Ratio of land consumption rate to population growth rate, Land consumption
-  rate, Population growth rate
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -35,27 +33,8 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Data follows the UN specification for this indicator. This indicator has not
-  been identified in collaboration with topic experts.
-DATA_COMP__GLOBAL: >-
-  The indicator is a comparison between 2013 and 2016 data on land consumption.
-  Data was provided on land cover as manmade, unclassified, Natural or Mixed.
-  For the calculation of this indicator, manmade was filtered out to calculate
-  land consumption. Unclassified would cover land for which there may be
-  building plans. 
-
-
-  Population growth rate = Natural logarithm ( Measurement year population /
-  Previous population ) / Time between the measurement periods
-
-
-  Land consumption rate = Natural logarithm ( Measurement year manmade land area
-  / Previous manmade land area ) / Time between the measurement periods
-
-
-  Ratio of land consumption rate to population growth rate = Land consumption
-  rate / Population growth rate
+REC_USE_LIM__GLOBAL: ''
+DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
 IMPUTATION__GLOBAL: ''
@@ -80,7 +59,7 @@ SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: Ordnance Survey
+CONTACT_ORGANISATION: Office for National Statistics
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
@@ -95,8 +74,14 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Ratio of land consumption growth rate to population growth rate by country and
-  Lower layer Super Output Area
+  [Ratio of land consumption growth rate to population growth rate by country
+  and Lower layer Super Output
+  Area](https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ratiooflandconsumptiongrowthratetopopulationgrowthratebycountryandlowerlayersuperoutputarea)
+
+
+  [Estimates of the population for the UK, England and Wales, Scotland and
+  Northern
+  Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -106,9 +91,6 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
-  Data follows the UN specification for this indicator. This indicator has not
-  been identified in collaboration with topic experts.
-DATA_COMP: >-
   The indicator is a comparison between 2013 and 2016 data on land consumption.
   Data was provided on land cover as manmade, unclassified, Natural or Mixed.
   For the calculation of this indicator, manmade was filtered out to calculate
@@ -116,6 +98,9 @@ DATA_COMP: >-
   building plans. 
 
 
+  Data follows the UN specification for this indicator. This indicator has not
+  been identified in collaboration with topic experts.
+DATA_COMP: >-
   Population growth rate = Natural logarithm ( Measurement year population /
   Previous population ) / Time between the measurement periods
 
@@ -135,8 +120,82 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/ab29babc474e892037e0d3b381577964fb326cad
-national_data_update_url_text: '2021-08-17: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/243b9b34c2092bf814887cfbeb67d464f568648d
+national_data_update_url_text: '2021-08-20: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/21c1b3593aeba56634dd4df4939b5a454fb52db6
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/1980a894c20b30f0180ff0c884ddcbfe3d83dc9a
+national_metadata_update_url_text: '2021-08-20: see changes on GitHub'
+source_organisation_1: Office for National Statistics (Ordnance Survey)
+source_periodicity_1: N/A
+source_earliest_available_1: '2013'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ratiooflandconsumptiongrowthratetopopulationgrowthratebycountryandlowerlayersuperoutputarea
+source_url_text_1: >-
+  ONS - Ratio of land consumption growth rate to population growth rate by
+  country and Lower layer Super Output Area
+source_release_date_1: 22 October 2018
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: sustainabledevelopment@ons.gov.uk
+source_other_info_1: >-
+  The data was provided under the Public Sector Mapping Agreement in place
+  between ONS and OS.
+source_organisation_2: Office for National Statistics
+source_periodicity_2: Annual
+source_earliest_available_2: '2001'
+source_geographical_coverage_2: Liverpool
+source_url_2: >-
+  https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland
+source_url_text_2: >-
+  ONS - Estimates of the population for the UK, England and Wales, Scotland and
+  Northern Ireland
+source_release_date_2: 25 June 2021
+source_next_release_2: September 2022
+source_statistical_classification_2: Official
+source_contact_2: pop.info@ons.gov.uk
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
