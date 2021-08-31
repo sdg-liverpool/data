@@ -80,12 +80,14 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: Number of people
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Rough sleeping snapshot in England: autumn 2020'
+SOURCE_TYPE: >-
+  [Rough sleeping snapshot in England: autumn
+  2020](https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2020)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: 'Ministry of Housing, Communities and Local Government '
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: 'Ministry of Housing, Communities and Local Government '
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -93,8 +95,8 @@ REC_USE_LIM: >-
   The data on rough sleeping is based on a snapshot, an estimate based on one
   day a year where those who are rough sleeping are counted. For further
   information on data collection, definitions around rough sleeping and
-  statutory homelessness please refer to the GSS Harmonisation tool
-  https://gss.civilservice.gov.uk/dashboard/tools/homelessness-statistics/theme-home.html
+  statutory homelessness please refer to the [GSS Harmonisation
+  tool](https://gss.civilservice.gov.uk/dashboard/tools/homelessness-statistics/theme-home.html)
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -105,8 +107,77 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/a140583232551be5285db5a28df6bf1beaf127cb
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/47d0b9c35cc903c101a1c2f7dbc4acd16bfcd986
+national_data_update_url_text: '2021-08-20: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/cc35a038d14741851d4101d64adf7669b3e932aa
+  https://github.com/sdg-liverpool/data/commit/e112bcb58875d5ceec9ca036e287050266247228
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+source_organisation_1: 'Ministry of Housing, Communities and Local Government '
+source_periodicity_1: Annual
+source_earliest_available_1: '2010'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.gov.uk/government/statistics/rough-sleeping-snapshot-in-england-autumn-2020
+source_url_text_1: >-
+  Ministry of Housing, Communities and Local Government - Rough sleeping
+  snapshot in England: autumn 2020
+source_release_date_1: 25 February 2021
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: GSS.Housing@ons.gov.uk
+source_other_info_1: Data from Table 1.
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
