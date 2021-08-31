@@ -24,34 +24,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  'Disposal Method' refers to the waste management type.
-
-
-  Landfill estimates include recycling, composting or reuse rejects.
-
-
-  'Incineration with EfW' - EfW is energy from waste. Also included are amounts
-  rejected for recycling, composting or reuse where incineration with EfW is
-  reported as the final destination of these rejects.
-
-
-  'Recycled-composted' includes household and non-household sources sent for
-  recycling or for centralised composting; home composting estimates are not
-  included in this total. It also includes small amounts of materials sent for
-  reuse. Material which was collected for recycling but actually rejected at
-  collection, by the MRF or at the gate of a recycling reprocessor is excluded.
-  The percentage of waste recycled shown above relate to all Local Authority
-  collected waste and so are different to local authority “household” recycling
-  rates or the slightly narrower “waste from household” definitions. The [Annual
-  Results
-  tables](https://www.gov.uk/government/statistics/local-authority-collected-waste-management-annual-results)
-  provide further statistics and detail on these.
-
-
-  'Other' includes waste treated or disposed through other unspecified treatment
-  processes as well as process and moisture loss.
-UNIT_MEASURE__GLOBAL: Percentage (%)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -63,11 +37,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Tables are based on quarterly data entered by LAs onto WasteDataFlow. This
-  data is published annually on a financial year basis (April to March).
-  WasteDataFlow is a web-based system for quarterly reporting on Local Authority
-  collected waste data by local authorities to central government.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -133,12 +103,14 @@ STAT_CONC_DEF: >-
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'ENV18 - Local authority collected waste: annual results tables'
+SOURCE_TYPE: >-
+  [ENV18 - Local authority collected waste: annual results
+  tables](https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: 'Department for Environment, Food and Rural Affairs'
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: 'Department for Environment, Food and Rural Affairs'
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -152,7 +124,10 @@ REC_USE_LIM: >-
   Data reported for this indicator is sourced from the file 'Local Authority
   collected waste generation from April 2000 to March 2020...', Table 2 -
   Management of Local Authority collected waste - England - 2014/15 - 2019/20
-DATA_COMP: ''
+DATA_COMP: >-
+  Proportions were calculated as the amount of waste from the selected waste
+  disposal method divided by the total amount of waste collected. The percentage
+  was then calculated by multiplying the proportion by 100.
 DATA_VALIDATION: ''
 DOC_METHOD: ''
 QUALITY_MGMNT: ''
@@ -162,8 +137,80 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/51fee9bd6b854ab1f99fb0c04a025211cae33e62
-national_data_update_url_text: '2021-08-11: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/540910f43af6cd0dc783bd51fe320e687d505018
+national_data_update_url_text: '2021-08-20: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/2bb7d0130a4766dc1332c8241ece4ea2f8d618d0
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/d208e34e23691a7ebde0977ae847b1bfb178eff0
+national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+source_organisation_1: 'Department for Environment, Food and Rural Affairs'
+source_periodicity_1: Annual
+source_earliest_available_1: 2014/15
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.gov.uk/government/statistical-data-sets/env18-local-authority-collected-waste-annual-results-tables
+source_url_text_1: >-
+  Department for Environment, Food and Rural Affairs - ENV18 - Local authority
+  collected waste: annual results tables
+source_release_date_1: 3 March 2021
+source_next_release_1: ''
+source_statistical_classification_1: Official
+source_contact_1: enviro.statistics@defra.gov.uk
+source_other_info_1: >-
+  Data is sourced from the file 'Local Authority collected waste generation from
+  April 2000 to March 2020...', Table 2 - Management of Local Authority
+  collected waste - England - 2014/15 - 2019/20.
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
