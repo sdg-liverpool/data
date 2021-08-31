@@ -22,13 +22,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Air pollution consists of many pollutants, among other particulate matter.
-  These particles are able to penetrate deeply into the respiratory tract and
-  therefore constitute a risk for health by increasing mortality from
-  respiratory infections and diseases, lung cancer, and selected cardiovascular
-  diseases.
-UNIT_MEASURE__GLOBAL: Annual mean (ug/m3)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -40,9 +35,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Data follows the UN specification for this indicator. This indicator has been
-  identified in collaboration with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -88,19 +81,27 @@ UNIT_MEASURE: Annual mean (ug/m3)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  Global Health Observatory data repository, WHO Global Ambient Air Quality
-  Database (update 2018)
+  [Ambient air
+  pollution](https://www.who.int/data/gho/data/themes/topics/topic-details/GHO/ambient-air-pollution)
+
+
+  [Global Health Observatory data
+  repository](https://apps.who.int/gho/data/view.main.AMBIENTCITY2016?lang=en)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: 'To be confirmed '
-DATA_SOURCE: World Health Organisation (WHO)
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: World Health Organisation (WHO)
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   Data represents a particulate matter size of PM10. Data is available up to
   2013.
+
+
+  Data follows the UN specification for this indicator. This indicator has been
+  identified in collaboration with topic experts.
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -111,8 +112,75 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/51fee9bd6b854ab1f99fb0c04a025211cae33e62
-national_data_update_url_text: '2021-08-11: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/dadedfd4974297a105aaee77a224d6875b0e27a7
+national_data_update_url_text: '2021-08-18: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/2bb7d0130a4766dc1332c8241ece4ea2f8d618d0
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/770fc85d9c9a4662bc1aeb803e26483718458beb
+national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+source_organisation_1: World Health Organisation
+source_periodicity_1: Discontinuous
+source_earliest_available_1: '2008'
+source_geographical_coverage_1: ''
+source_url_1: 'https://apps.who.int/gho/data/view.main.AMBIENTCITY2016?lang=en'
+source_url_text_1: WHO - Global Health Observatory data repository
+source_release_date_1: 15 May 2014
+source_next_release_1: To be confirmed
+source_statistical_classification_1: Non-official
+source_contact_1: ''
+source_other_info_1: ''
+source_organisation_2: World Health Organisation
+source_periodicity_2: Discontinuous
+source_earliest_available_2: '2013'
+source_geographical_coverage_2: ''
+source_url_2: >-
+  https://www.who.int/data/gho/data/indicators/indicator-details/GHO/concentrations-of-fine-particulate-matter-(pm2-5)
+source_url_text_2: WHO - Ambient air pollution
+source_release_date_2: 1 May 2018
+source_next_release_2: To be confirmed
+source_statistical_classification_2: Non-official
+source_contact_2: '[Contact us](https://www.who.int/about/contact-us)'
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
