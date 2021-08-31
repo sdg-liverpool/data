@@ -20,10 +20,10 @@ ORGANISATION_UNIT__GLOBAL: ''
 CONTACT_FUNCT__GLOBAL: ''
 CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
-CONTACT_EMAIL__GLOBAL: statistics@un.org
+CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: 'Percentage (%) '
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -75,20 +75,22 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: 'Proportion of population covered by a mobile network, by technology'
+SOURCE_TYPE: >-
+  [Proportion of population covered by a mobile network, by
+  technology](https://unstats.un.org/sdgs/indicators/database/)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
-DATA_SOURCE: United Nations Statistics Division
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: United Nations Statistics Division
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
-  This data represents the United Kingdom as a whole, as opposed to Liverpool.
-  Since disaggregation was not available at the local level and because UK data
-  is near to 100%, this has been extrapolated to assume Liverpool's mobile
-  coverage is similar. 
+  This data represents the United Kingdom as opposed to Liverpool. Since
+  disaggregation was not available at the local level and because UK data is
+  near to 100%, it has been assumed that Liverpool's mobile coverage will mirror
+  this. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -99,8 +101,74 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/27dcbc74be70d02918e34af7e785432442d391e2
-national_data_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/266e2fcffcddc11be79fc4baae35f4803d39379e
+national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/0a59091cc6b94ee512780369212e0a7fbf36f512
+  https://github.com/sdg-liverpool/data/commit/568ece274f97818e30ca0fdfde7021574c145b6b
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+source_organisation_1: United Nations Statistics Division
+source_periodicity_1: Annual
+source_earliest_available_1: '2000'
+source_geographical_coverage_1: United Kingdom
+source_url_1: 'https://unstats.un.org/sdgs/indicators/database/'
+source_url_text_1: UN Statistics Division - SDG indicators
+source_release_date_1: 17 July 2021
+source_next_release_1: ''
+source_statistical_classification_1: Non-official
+source_contact_1: statistics@un.org
+source_other_info_1: 'Data from Goal 9, Target 9.c tables.'
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
