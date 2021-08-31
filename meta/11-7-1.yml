@@ -22,17 +22,7 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Functional green space is defined as any green space that has a specific
-  function in its use, for example, public parks or gardens, playing fields,
-  golf courses, allotments etc. These spaces contain natural land cover, and can
-  also include some blue space, for example, a park that has a lake within it.
-  Publicly accessible functional green space is defined as a subset of
-  functional green space, it removes green spaces expected to have restriction
-  to entry, for example, golf courses. Restrictions to entry limits the ability
-  of the green space to provide cultural services. Publicly accessible green
-  space includes parks and public gardens, playing fields, cemetery and
-  religious grounds.
+STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -45,13 +35,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Estimates for the extent of green space in urban areas have been developed
-  through collaborative work between the Office for National Statistics (ONS)
-  and the Ordnance Survey (OS) . This indicator is being used as an
-  approximation of the UN SDG Indicator. Where possible, we will work to
-  identify or develop UK data to meet the global indicator specification. This
-  indicator has been identified in collaboration with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -91,12 +75,14 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: 'Number of parks, public gardens, or playing fields'
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Access to gardens and public green space in Great Britain
+SOURCE_TYPE: >-
+  [Access to gardens and public green space in Great
+  Britain](https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
-DATA_SOURCE: Office for National Statistics
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -117,5 +103,72 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/51fee9bd6b854ab1f99fb0c04a025211cae33e62
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/e112bcb58875d5ceec9ca036e287050266247228
+  https://github.com/sdg-liverpool/data/commit/24d8aabf072dd6c5bd13f44f147bfd3294d25094
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+source_organisation_1: Office for National Statistics
+source_periodicity_1: Annual
+source_earliest_available_1: '2020'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain
+source_url_text_1: ONS - Access to gardens and public green space in Great Britain
+source_release_date_1: 14 May 2020
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: natural.capital.team@ons.gov.uk
+source_other_info_1: ''
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
