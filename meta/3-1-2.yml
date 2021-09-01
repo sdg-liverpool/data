@@ -17,22 +17,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Percentage of births attended by skilled health personnel (generally doctors,
-  nurses or midwives) is the percentage of childbirths attended by professional
-  health personnel. According to the revised definition these are competent
-  maternal and newborn health (MNH) professionals educated, trained and
-  regulated to national and international standards. They are competent to - (i)
-  provide and promote evidence-based, human-rights based, quality,
-  socio-culturally sensitive and dignified care to women and newborns; (ii)
-  facilitate physiological processes during labour and delivery to ensure a
-  clean and positive childbirth experience; and (iii) identify and manage or
-  refer women and/or newborns with complications. Traditional birth attendants,
-  even if they receive a short training course, are not included. A maternity is
-  a pregnancy resulting in the birth of one or more children, including
-  stillbirths. A stillbirth is a baby born after 24 or more weeks completed
-  gestation and which did not, at any time, breathe or show signs of life.
-UNIT_MEASURE__GLOBAL: Percentage (%)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -44,19 +30,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  This indicator is a proxy indicator. We are reporting data on births occurring
-  within medical facilities and have not included home births. Home births will
-  on many occasions have a skilled health professional present. There will be
-  some home births which occur without a midwife but an ambulance is sent,
-  arriving just before or soon after the birth. We have included data from NHS
-  medical facilities - (generally) hospitals, maternity units and maternity
-  wings and non-NHS medical facilities including - private maternity units,
-  military hospitals, private hospitals and communal establishments. This
-  indicator is being used as an approximation of the UN SDG Indicator. Where
-  possible, we will work to identify or develop UK data to meet the global
-  indicator specification. This indicator has been identified in collaboration
-  with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -146,8 +120,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/df01b0687960a116c8cfe65603ce7e0f2a82c5f1
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/7ada14b160bbd3505606036ece9cc33908444525
-national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/379e9d96ab81b35342459fde0eeb94167c9ee3c6
+national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '2014'
