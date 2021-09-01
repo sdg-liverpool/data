@@ -19,18 +19,7 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Density of medical doctors - The density of medical doctors is defined as the
-  number of medical doctors , including generalists and specialist medical
-  practitioners per 10,000 population in the given national and/or subnational
-  area. Density of nursing and midwifery personnel - The density of nursing and
-  midwifery personnel is defined as the number of nursing and midwifery
-  personnel per 10,000 population in the given national and/or subnational area.
-  Density of dentists - The density of dentists is defined as the number of
-  dentists per 10,000 population in the given national and/or subnational area.
-  Density of pharmacists - The density of pharmacists is defined as the number
-  of pharmacists per 10,000 population in the given national and/or subnational
-  area.
+STAT_CONC_DEF__GLOBAL: ''
 UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
@@ -105,8 +94,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/1aaa68730b3aec9cacefef623824b94e2814882d
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/78eaaa2d43640bfe5e5aa42fd26467bf93f09b7b
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/d89a58b93807908febe5ff4b9bfad1e6225b1614
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '2015'
