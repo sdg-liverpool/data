@@ -75,12 +75,14 @@ STAT_CONC_DEF: ''
 UNIT_MEASURE: Number of reported crimes
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: Recorded crime data at Community Safety Partnership and local authority level
+SOURCE_TYPE: >-
+  [Recorded crime data at Community Safety Partnership and local authority
+  level](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/recordedcrimedataatcommunitysafetypartnershiplocalauthoritylevel)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: Discontinued
-DATA_SOURCE: Office for National Statistics
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -105,5 +107,74 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/aa08947d9828ef7fef9660e221c37f9aaf0e9cd8
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/0593db6432c80e99e4fe2abf67d9c68b091e20da
+  https://github.com/sdg-liverpool/data/commit/9eb78dd659ff76b612f8b9db5125fdeee91ea257
 national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+source_organisation_1: Office for National Statistics
+source_periodicity_1: Quarterly
+source_earliest_available_1: '2007'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/recordedcrimedataatcommunitysafetypartnershiplocalauthoritylevel
+source_url_text_1: >-
+  ONS - Recorded crime data at Community Safety Partnership and local authority
+  level
+source_release_date_1: 25 April 2019
+source_next_release_1: Discontinued
+source_statistical_classification_1: Official
+source_contact_1: crimestatistics@ons.gov.uk
+source_other_info_1: ''
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
