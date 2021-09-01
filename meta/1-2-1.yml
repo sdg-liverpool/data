@@ -20,19 +20,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  The percentage of people who are living in households which are deemed at risk
-  of poverty in the national context. Monitoring national poverty is important
-  for country-specific development agendas. National poverty lines are used to
-  make more accurate estimates of poverty consistent with the country’s specific
-  economic and social circumstances, and are not intended for international
-  comparisons of poverty rates.
-
-
-  Before Housing Costs figures count the number of individuals in poverty based
-  on their household income before deducting housing costs; After Housing Costs
-  figures are based on household income after deducting housing costs.
-UNIT_MEASURE__GLOBAL: Percentage (%)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -44,11 +33,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  This indicator is being used as an approximation of the UN SDG Indicator.
-  Where possible, we will work to identify or develop UK data to meet the global
-  indicator specification. This indicator has been identified in collaboration
-  with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -136,7 +121,7 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/23c8ac3478cd745bc34d836ae1931f9be425ac68
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/9d2854d06cb737b6252046fed1a9c02d75d40cd8
+  https://github.com/sdg-liverpool/data/commit/ffb6ed8364b7efc9d8da61b4dacb959f6ced42a6
 national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
 source_organisation_1: House of Commons Library
 source_periodicity_1: Annual (data based on a three-year rolling average)
