@@ -17,12 +17,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Age-standardised mortality rates per 100,000 population are standardised to
-  the 2013 European Standard Population. Age-standardised rates are used to
-  allow comparison between populations which may contain different proportions
-  of people of different ages.
-UNIT_MEASURE__GLOBAL: 'Rate per 100,000 population'
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -92,8 +88,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/1aaa68730b3aec9cacefef623824b94e2814882d
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/fb5ef2c89973f6ec29604b6eaeb11de750254ed0
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/9ecdaeea1d428bcb28e555456617a19b6e57fb16
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '2013'
