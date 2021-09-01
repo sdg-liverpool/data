@@ -21,10 +21,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Internet users - adults (aged 16 and over) who have used the Internet within
-  the last 3 months.
-UNIT_MEASURE__GLOBAL: Percentage (%)
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -72,20 +70,19 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: esociety@ons.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Internet users are defined as adults (aged 16 and over) who have used the
-  internet within the last 3 months.
+  Internet users - adults (aged 16 and over) who have used the internet within
+  the last 3 months.
 UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: |-
-  Internet users
-
-  Data sourced from Table 6B
+SOURCE_TYPE: >-
+  [Internet
+  users](https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/datasets/internetusers)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: To be announced
-DATA_SOURCE: Office for National Statistics
-COMPILING_ORG: ''
+DATA_SOURCE: ''
+COMPILING_ORG: Office for National Statistics
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
@@ -103,5 +100,72 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/501a61de53c55e1bea14d0c2cb4f8771428bf11f
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/7bcf93e74c46b50e62db741502bcb6431f7a0257
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/0682fbe4047d733627145f57d962a4806081bc3b
+national_metadata_update_url_text: '2021-08-20: see changes on GitHub'
+source_organisation_1: Office for National Statistics
+source_periodicity_1: Annual
+source_earliest_available_1: '2013'
+source_geographical_coverage_1: Liverpool
+source_url_1: >-
+  https://www.ons.gov.uk/businessindustryandtrade/itandinternetindustry/datasets/internetusers
+source_url_text_1: ONS - Internet users
+source_release_date_1: 6 April 2021
+source_next_release_1: To be announced
+source_statistical_classification_1: Official
+source_contact_1: esociety@ons.gov.uk
+source_other_info_1: Data from Table 6B.
+source_organisation_2: ''
+source_periodicity_2: ''
+source_earliest_available_2: ''
+source_geographical_coverage_2: ''
+source_url_2: ''
+source_url_text_2: ''
+source_release_date_2: ''
+source_next_release_2: ''
+source_statistical_classification_2: ''
+source_contact_2: ''
+source_other_info_2: ''
+source_organisation_3: ''
+source_periodicity_3: ''
+source_earliest_available_3: ''
+source_geographical_coverage_3: ''
+source_url_3: ''
+source_url_text_3: ''
+source_release_date_3: ''
+source_next_release_3: ''
+source_statistical_classification_3: ''
+source_contact_3: ''
+source_other_info_3: ''
+source_organisation_4: ''
+source_periodicity_4: ''
+source_earliest_available_4: ''
+source_geographical_coverage_4: ''
+source_url_4: ''
+source_url_text_4: ''
+source_release_date_4: ''
+source_next_release_4: ''
+source_statistical_classification_4: ''
+source_contact_4: ''
+source_other_info_4: ''
+source_organisation_5: ''
+source_periodicity_5: ''
+source_earliest_available_5: ''
+source_geographical_coverage_5: ''
+source_url_5: ''
+source_url_text_5: ''
+source_release_date_5: ''
+source_next_release_5: ''
+source_statistical_classification_5: ''
+source_contact_5: ''
+source_other_info_5: ''
+source_organisation_6: ''
+source_periodicity_6: ''
+source_earliest_available_6: ''
+source_geographical_coverage_6: ''
+source_url_6: ''
+source_url_text_6: ''
+source_release_date_6: ''
+source_next_release_6: ''
+source_statistical_classification_6: ''
+source_contact_6: ''
+source_other_info_6: ''
