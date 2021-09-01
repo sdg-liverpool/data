@@ -18,7 +18,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: 'Per 1,000,000 persons'
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -91,8 +91,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/acf8ac8ddd3696f297d44ab8443bcd0b1d85858b
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/8474ba0ad141ab2fc11b3a46aba29c5c39c3d442
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/f71491201db771880ac77818dff9c935ca06ea36
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Department for Transport
 source_periodicity_1: Annual
 source_earliest_available_1: '2013'
