@@ -20,7 +20,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -100,8 +100,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/acf8ac8ddd3696f297d44ab8443bcd0b1d85858b
 national_data_update_url_text: '2021-08-09: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6d47b3a7c571288f5e02b7a316e7de9817ab853b
-national_metadata_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/a0d0365de1782a233220048e7bacafacddd19585
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Public Health England
 source_periodicity_1: Annual
 source_earliest_available_1: '2010'
