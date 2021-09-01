@@ -22,7 +22,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -96,8 +96,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/1aaa68730b3aec9cacefef623824b94e2814882d
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/bd08157591f24d751d138f7548104ef5e03186d3
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/c39b8eb2d4869a21e2dc5eaeeea02c751bb8703a
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '2012'
