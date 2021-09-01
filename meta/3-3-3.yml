@@ -18,10 +18,8 @@ CONTACT_PHONE__GLOBAL: ''
 CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
-STAT_CONC_DEF__GLOBAL: >-
-  Incidence of malaria is defined as the number of new cases of malaria per
-  100,000 people at risk each year.
-UNIT_MEASURE__GLOBAL: 'Rate per 100,000 population, Number of cases'
+STAT_CONC_DEF__GLOBAL: ''
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -33,9 +31,7 @@ COMPILING_ORG__GLOBAL: ''
 INST_MANDATE__GLOBAL: ''
 OTHER_METHOD__GLOBAL: ''
 RATIONALE__GLOBAL: ''
-REC_USE_LIM__GLOBAL: >-
-  Data follows the UN specification for this indicator. This indicator has been
-  identified in collaboration with topic experts.
+REC_USE_LIM__GLOBAL: ''
 DATA_COMP__GLOBAL: ''
 DATA_VALIDATION__GLOBAL: ''
 ADJUSTMENT__GLOBAL: ''
@@ -104,8 +100,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/cd23666016ad87efc227ae00b3d437025c99491a
 national_data_update_url_text: '2021-08-16: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/29ca636532545ce124239cffd129f696351cbc4e
-national_metadata_update_url_text: '2021-08-16: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/f825243eb156b39b33ddb23a0e65363b6c072741
+national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
 source_organisation_1: Public Health England
 source_periodicity_1: Annual
 source_earliest_available_1: '2000'
