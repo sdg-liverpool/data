@@ -28,7 +28,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -108,8 +108,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/cd867bab8fa2c7c0a7bf02d35ab03ae8619693e6
 national_data_update_url_text: '2021-08-19: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/83dc3feb91494231615a66044f9b837e5512fd99
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/af9a656ef2c8e81051430960f1d090b2fb546d03
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: NHS Digital
 source_periodicity_1: Annual
 source_earliest_available_1: 2013/14
