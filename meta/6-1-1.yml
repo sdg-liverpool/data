@@ -108,8 +108,7 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   This data represents the United Kingdom as opposed to Liverpool. Since UK data
-  is at 100%, this has been extrapolated to assume that Liverpool data would
-  mirror this. 
+  is at 100%, it has been assumed that Liverpool data would mirror this. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -123,8 +122,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/f6ec3702f2a9d82b88534e6e33f96f59d437d16a
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/f316b520895dc07d4fa88d18e71806df10906757
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/393e808302e59cbcc87a956ffd79122fb9edef4d
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: >-
   WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and
   Hygiene
