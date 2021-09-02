@@ -90,8 +90,8 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   This data represents the United Kingdom as opposed to Liverpool. Since UK data
-  does not disaggregate to local level, and statistics are close to 100%, this
-  has been extrapolated to assume that Liverpool data would resemble this.
+  does not disaggregate to local level, and statistics are close to 100%, it has
+  been assumed that Liverpool data would mirror this.
 
 
   A framework for measuring faecal waste flows and safety factors has been
@@ -130,8 +130,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/78e95a47ef55816b0934dd9643824c97f251db56
 national_data_update_url_text: '2021-08-11: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/f05f86137a1fb2b1065d5894e6946617ea49bc5a
-national_metadata_update_url_text: '2021-08-13: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/b97390be585c726fd41f15f2b6286df378bb0a29
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: Organisation for Economic Co-operation and Development (OECD)
 source_periodicity_1: Annual
 source_earliest_available_1: '2000'
