@@ -94,8 +94,8 @@ UNIT_MEASURE: Percentage (%)
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
 SOURCE_TYPE: >-
-  [People using safely managed drinking water services (% of population)](People
-  using safely managed drinking water services (% of population))
+  [People using safely managed drinking water services (% of
+  population)](https://data.worldbank.org/indicator/SH.H2O.SMDW.ZS?view=map)
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
@@ -108,7 +108,8 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   This data represents the United Kingdom as opposed to Liverpool. Since UK data
-  is at 100%, it has been assumed that Liverpool data would mirror this. 
+  is at 100%, this has been extrapolated to assume that Liverpool data would
+  mirror this. 
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
