@@ -23,7 +23,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -126,8 +126,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/d3346ab662011622dcdcd318d84e840b8f94e464
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d7fde59d7f9b74f4c4a33dc6edfbff544b33442d
-national_metadata_update_url_text: '2021-08-17: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/89287abc3042b7d34bb804086915c5c54962770b
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: UNESCO Institute for Statistics and The World Bank
 source_periodicity_1: Annual
 source_earliest_available_1: '2015'
