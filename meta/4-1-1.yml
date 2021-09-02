@@ -24,7 +24,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: Percentage (%)
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -110,8 +110,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/1ff9591b607f49dd9dc0cc2754e0631dd18f09c8
 national_data_update_url_text: '2021-08-19: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/d9a981b3357b51eb53dd0d4c549971924c4747dc
-national_metadata_update_url_text: '2021-08-10: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/a19294451a1bd5936f2319d6952996966e6a7695
+national_metadata_update_url_text: '2021-08-26: see changes on GitHub'
 source_organisation_1: Department for Education
 source_periodicity_1: Annual
 source_earliest_available_1: '2015'
