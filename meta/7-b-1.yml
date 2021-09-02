@@ -5,7 +5,7 @@ SDG_GOAL__GLOBAL: >
 SDG_TARGET__GLOBAL: >-
   Target 7.b: By 2030, expand infrastructure and upgrade technology for
   supplying modern and sustainable energy services for all in developing
-  countries, in particular least developed countries, small island developing
+  countries, in particular least developed countries, Small Island Developing
   States and landlocked developing countries, in accordance with their
   respective programmes of support
 SDG_INDICATOR__GLOBAL: >-
@@ -57,7 +57,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   Target 7.b: By 2030, expand infrastructure and upgrade technology for
   supplying modern and sustainable energy services for all in developing
-  countries, in particular least developed countries, small island developing
+  countries, in particular least developed countries, Small Island Developing
   States and landlocked developing countries, in accordance with their
   respective programmes of support
 SDG_INDICATOR: >-
@@ -127,8 +127,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/755a6c592a300e0319dd379e725e104778d98995
 national_data_update_url_text: '2021-08-17: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/6e24e21b94e828f7d709a0cfc06525a89ca7a435
-national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/d2e3828017d8c683d7394234adbbc435b68516e7
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: 'Department for Business, Energy & Industrial Strategy'
 source_periodicity_1: Annual
 source_earliest_available_1: '2003'
