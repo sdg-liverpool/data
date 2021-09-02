@@ -85,8 +85,7 @@ OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: >-
   Data represents the United Kingdom as opposed to Liverpool. Since UK data is
-  at 100%, this has been extrapolated to assume that Liverpool data would mirror
-  this.
+  at 100%, it has been assumed that Liverpool data would mirror this.
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -100,8 +99,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/90ec0f32d221fe13e3cfb7585648e793460fdae6
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/bb97862ba51bfbaa951b14616c37dcc23e9cb7c0
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/3f80304d77373973fe759ffdf9d734215a6da1a6
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: The World Bank
 source_periodicity_1: Annual
 source_earliest_available_1: '1990'
