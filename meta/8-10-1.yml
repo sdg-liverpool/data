@@ -23,7 +23,7 @@ CONTACT_MAIL__GLOBAL: ''
 CONTACT_EMAIL__GLOBAL: ''
 IND_DEF_CON_CLASS__GLOBAL: ''
 STAT_CONC_DEF__GLOBAL: ''
-UNIT_MEASURE__GLOBAL: 'Number per 100,000 adults'
+UNIT_MEASURE__GLOBAL: ''
 CLASS_SYSTEM__GLOBAL: ''
 SRC_TYPE_COLL_METHOD__GLOBAL: ''
 SOURCE_TYPE__GLOBAL: ''
@@ -105,8 +105,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/f1bb0ddc3679971b0694a6fcf26342d1be4654a3
 national_data_update_url_text: '2021-08-18: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/4e443e151acfa3c543f6de1ce1d18eccb002ecca
-national_metadata_update_url_text: '2021-08-19: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/9dfef3c59748661ad2ff9cc517211dae0e9f6932
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '2010'
