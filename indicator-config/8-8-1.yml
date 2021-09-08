@@ -21,7 +21,7 @@ graph_limits:
   - series: ''
     unit: Rate of fatal injuries
     minimum: 0
-    maximum: 5
+    maximum: 2.5
   - series: ''
     unit: Rate of reported non-fatal injuries
     minimum: 0
