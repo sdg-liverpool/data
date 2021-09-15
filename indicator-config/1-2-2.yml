@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Percentage of population in poverty in North West, by age'
+graph_title: 'Percentage of population in poverty in the North West of England, by age'
 graph_titles: []
 graph_type: line
-indicator_available: 'Percentage of population in poverty in North West, by age'
+indicator_available: 'Percentage of population in poverty in the North West of England, by age'
 indicator_name: >-
   Proportion of men, women and children of all ages living in poverty in all its
   dimensions according to national definitions
