@@ -436,7 +436,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -446,7 +446,7 @@
                 "Alcohol-related mortality"
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Value",
