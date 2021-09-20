@@ -16,8 +16,10 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of whole population in poverty
+graph_target_lines: []
+graph_title: Percentage of  the population in poverty in the North West of England
 graph_titles: []
 graph_type: line
 indicator_available: Percentage of the population in poverty in the North West of England
@@ -28,8 +30,10 @@ indicator_number: 1.2.1
 national_geographical_coverage: North West
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
 reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+x_axis_label: ''
