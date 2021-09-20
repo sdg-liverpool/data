@@ -1732,6 +1732,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Private Sector",
+                "Public Sector"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -1742,18 +1754,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Private Sector",
-                "Public Sector"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
