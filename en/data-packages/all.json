@@ -1323,7 +1323,7 @@
       "schema": {
         "fields": [
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1333,7 +1333,7 @@
                 "Employment activities; tourism and security services"
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Value",
