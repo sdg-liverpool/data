@@ -70,7 +70,8 @@ CONTACT_MAIL: ''
 CONTACT_EMAIL: earnings@ons.gov.uk
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: >-
-  Gender pay gap is based on the percentage difference between median wages. 
+  The gender pay gap is based on the percentage difference between median
+  wages. 
 
 
   The workplace population in a local authority is defined as the population
@@ -112,8 +113,8 @@ national_data_update_url: >-
   https://github.com/sdg-liverpool/data/commit/4cc8040e5b6e79858c517dced2c3d6f441f47b2d
 national_data_update_url_text: '2021-08-10: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/3b349d732b6a04285095b391c6c8357824155d25
-national_metadata_update_url_text: '2021-08-18: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/a32338cdbb94033a46b2538e3c566c51855febb3
+national_metadata_update_url_text: '2021-08-27: see changes on GitHub'
 source_organisation_1: Office for National Statistics
 source_periodicity_1: Annual
 source_earliest_available_1: '1997'
