@@ -7,10 +7,10 @@ Indicator,Disaggregations,Number of disaggregations
 #16-7-1,Sex,1
 #16-9-1,Sex,1
 #2-2-2,BMI,1
-#3-4-1,"Sex, Type of Disease",2
+#3-4-1,"Type of Disease, Sex",2
 #3-5-1,Unit,1
 #3-7-1,"Contraceptive method, Types of contraception",2
-#3-9-2,"Cause, Sex",2
+#3-9-2,"Sex, Cause",2
 #3-9-3,Sex,1
 #3-a-1,Sex,1
 #3-b-1,"Age, Vaccine",2
@@ -23,6 +23,6 @@ Indicator,Disaggregations,Number of disaggregations
 #7-2-1,Renewable energy source,1
 #7-b-1,"Renewable Source, Wind, Bioenergy",3
 #8-3-1,Sex,1
-#8-6-1,"Age, Sex",2
+#8-6-1,"Sex, Age",2
 #9-3-1,"Production/Services, Industry Sector, Industry Sub Category",3
 #9-c-1,Technology,1
