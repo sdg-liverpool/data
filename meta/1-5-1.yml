@@ -1,13 +1,14 @@
-﻿SDG_INDICATOR_INFO__GLOBAL: ''
-SDG_GOAL__GLOBAL: 'Goal 1: End poverty in all its forms everywhere'
+SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 11: Make cities and human settlements inclusive, safe, resilient and sustainable'
 SDG_TARGET__GLOBAL: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable
-  situations and reduce their exposure and vulnerability to climate-related
-  extreme events and other economic, social and environmental shocks and
-  disasters
+  Target 11.5: By 2030, significantly reduce the number of deaths and the
+  number of people affected and substantially decrease the direct economic 
+  losses relative to global gross domestic product caused by disasters, 
+  including water-related disasters, with a focus on protecting the poor 
+  and people in vulnerable situations
 SDG_INDICATOR__GLOBAL: >-
-  Target 1.5.1: Number of deaths, missing persons and directly affected persons
-  attributed to disasters per 100,000 population
+  Target 1.5.1: Number of deaths, missing persons and directly affected
+  persons attributed to disasters per 100,000 population
 SDG_SERIES_DESCR__GLOBAL: ''
 META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -85,7 +86,6 @@ INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
 REC_USE_LIM: |+
-
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
