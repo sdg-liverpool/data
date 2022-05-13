@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -17,16 +17,38 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.11-b-2-title
+graph_title: ''
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.11-b-2-title
-indicator_number: '11.b.2'
-national_geographical_coverage: ''
-page_content: ''
+indicator_available: Relevant Liverpool policies and organisations
+indicator_name: >-
+  Proportion of local governments that adopt and implement local disaster risk
+  reduction strategies in line with national disaster risk reduction strategies
+indicator_number: 1.5.4
+national_geographical_coverage: Liverpool
+page_content: >-
+  **Non-statistical indicator**
+
+
+  We have identified the following laws, policies and strategy plans in place
+  that are relevant to this indicator -
+
+
+  [Merseyside Prepared](https://www.merseysideprepared.org.uk/) - The Merseyside
+  Resilience Forum (MRF) is a multi-agency partnership made up of all the
+  organisations needed to prepare for and respond to any emergency in the
+  county. It was started in 2005 after the Government issued a law called the
+  Civil Contingencies Act.
+
+
+  [Merseyside Community Risk Register
+  2020](https://liverpool.gov.uk/media/9081/2020-merseyside-community-risk-register.pdf)
+  - The Community Risk Register (CRR) has been compiled by the Merseyside
+  Resilience Forum (MRF) to identify potential risks that may affect the
+  communities of Merseyside.
 permalink: ''
 precision: []
-reporting_status: notstarted
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
