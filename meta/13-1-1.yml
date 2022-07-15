@@ -1,13 +1,9 @@
 SDG_INDICATOR_INFO__GLOBAL: ''
-SDG_GOAL__GLOBAL: 'Goal 1: End poverty in all its forms everywhere'
+SDG_GOAL__GLOBAL: 'Goal 13:Take urgent action to combat climate change and its impacts'
 SDG_TARGET__GLOBAL: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in
-  vulnerable situations and reduce their exposure and vulnerability
-  to climate-related extreme events and other economic, social and 
-  environmental shocks and disasters
+  Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
 SDG_INDICATOR__GLOBAL: >-
-  Target 1.5.1: Number of deaths, missing persons and directly affected
-  persons attributed to disasters per 100,000 population
+  Indicator 13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population
 SDG_SERIES_DESCR__GLOBAL: ''
 META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -48,15 +44,12 @@ COVERAGE__GLOBAL: ''
 COMPARABILITY__GLOBAL: ''
 OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
-SDG_GOAL: 'Goal 1: End poverty in all its forms everywhere'
-SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable
-  situations and reduce their exposure and vulnerability to climate-related
-  extreme events and other economic, social and environmental shocks and
-  disasters
-SDG_INDICATOR: >-
-  Target 1.5.1: Number of deaths, missing persons and directly affected persons
-  attributed to disasters per 100,000 population
+SDG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 13: Take urgent action to combat climate change and its impacts'
+SDG_TARGET__GLOBAL: >-
+  Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 13.1.1: Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''

@@ -1,13 +1,9 @@
-SDG_INDICATOR_INFO__GLOBAL: ''
-SDG_GOAL__GLOBAL: 'Goal 1: End poverty in all its forms everywhere'
+DG_INDICATOR_INFO__GLOBAL: ''
+SDG_GOAL__GLOBAL: 'Goal 13: Take urgent action to combat climate change and its impacts'
 SDG_TARGET__GLOBAL: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in
-  vulnerable situations and reduce their exposure and vulnerability
-  to climate-related extreme events and other economic, social and 
-  environmental shocks and disasters
+  Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
 SDG_INDICATOR__GLOBAL: >-
-  Target 1.5.1: Number of deaths, missing persons and directly affected
-  persons attributed to disasters per 100,000 population
+  Indicator 13.1.2: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
 SDG_SERIES_DESCR__GLOBAL: ''
 META_LAST_UPDATE__GLOBAL: ''
 SDG_RELATED_INDICATORS__GLOBAL: ''
@@ -48,43 +44,39 @@ COVERAGE__GLOBAL: ''
 COMPARABILITY__GLOBAL: ''
 OTHER_DOC__GLOBAL: ''
 SDG_INDICATOR_INFO: ''
-SDG_GOAL: 'Goal 1: End poverty in all its forms everywhere'
-SDG_TARGET: >-
-  Target 1.5: By 2030, build the resilience of the poor and those in vulnerable
-  situations and reduce their exposure and vulnerability to climate-related
-  extreme events and other economic, social and environmental shocks and
-  disasters
-SDG_INDICATOR: >-
-  Target 1.5.1: Number of deaths, missing persons and directly affected persons
-  attributed to disasters per 100,000 population
+SDG_GOAL__GLOBAL: 'Goal 13: Take urgent action to combat climate change and its impacts'
+SDG_TARGET__GLOBAL: >-
+  Target 13.1: Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries
+SDG_INDICATOR__GLOBAL: >-
+  Indicator 13.1.2: Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015–2030
 SDG_SERIES_DESCR: ''
 META_LAST_UPDATE: ''
 SDG_RELATED_INDICATORS: ''
 CONTACT: ''
-CONTACT_ORGANISATION: Office for National Statistics
+CONTACT_ORGANISATION: ''
 CONTACT_NAME: ''
 ORGANISATION_UNIT: ''
 CONTACT_FUNCT: ''
 CONTACT_PHONE: ''
 CONTACT_MAIL: ''
-CONTACT_EMAIL: health.data@ons.gov.uk
+CONTACT_EMAIL: ''
 IND_DEF_CON_CLASS: ''
 STAT_CONC_DEF: ''
-UNIT_MEASURE: 'Deaths per 100,000 population'
+UNIT_MEASURE: ''
 CLASS_SYSTEM: ''
 SRC_TYPE_COLL_METHOD: ''
-SOURCE_TYPE: >-
-  [Mortality statistics - underlying cause, sex and
-  age](https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=161&version=0&anal=1&initsel=)
+SOURCE_TYPE: ''
 COLL_METHOD: ''
 FREQ_COLL: ''
 REL_CAL_POLICY: ''
 DATA_SOURCE: ''
-COMPILING_ORG: Office for National Statistics
+COMPILING_ORG: ''
 INST_MANDATE: ''
 OTHER_METHOD: ''
 RATIONALE: ''
-REC_USE_LIM: |+
+REC_USE_LIM: >-
+  Data follows the UN specification for this indicator. This indicator has been
+  identified in collaboration with topic experts.
 DATA_COMP: ''
 DATA_VALIDATION: ''
 DOC_METHOD: ''
@@ -95,23 +87,22 @@ COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
 national_data_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/8198d20feb68dd4bedc27085e0ad20bae651ed61
-national_data_update_url_text: '2021-08-09: see changes on GitHub'
+  https://github.com/sdg-liverpool/data/commit/cf7b3226a2b96830c9e1af0b924bd5b0c85aed9f
+national_data_update_url_text: '2021-07-19: see changes on GitHub'
 national_metadata_update_url: >-
-  https://github.com/sdg-liverpool/data/commit/f31b2cc8062e61d9af74c9c70562ce79b3c52a6b
-national_metadata_update_url_text: '2021-08-25: see changes on GitHub'
-source_organisation_1: Office for National Statistics (Nomis)
-source_periodicity_1: Annual
-source_earliest_available_1: '2013'
-source_geographical_coverage_1: Liverpool
-source_url_1: >-
-  https://www.nomisweb.co.uk/query/construct/summary.asp?reset=yes&mode=construct&dataset=161&version=0&anal=1&initsel=
-source_url_text_1: Nomis - Mortality statistics
-source_release_date_1: 24 July 2020
+  https://github.com/sdg-liverpool/data/commit/97cc4ce682f663deebd317b685cf7198932153bd
+national_metadata_update_url_text: '2021-08-20: see changes on GitHub'
+source_organisation_1: ''
+source_periodicity_1: ''
+source_earliest_available_1: ''
+source_geographical_coverage_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_release_date_1: ''
 source_next_release_1: ''
-source_statistical_classification_1: Official
-source_contact_1: health.data@ons.gov.uk
-source_other_info_1: Data used - X30-X39 Exposure to forces of nature
+source_statistical_classification_1: ''
+source_contact_1: ''
+source_other_info_1: ''
 source_organisation_2: ''
 source_periodicity_2: ''
 source_earliest_available_2: ''
